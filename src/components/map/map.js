@@ -77,8 +77,8 @@ const STATE_MATRIX = [
 
 const USMap = ({ regionData, r, indexToggle }) => {
   // Find the max data value (min will always be 0)
-  const valueArray = Object.keys(regionData).map(key => regionData[key]);
-  const max = d3.max(valueArray);
+ // const valueArray = Object.keys(regionData).map(key => regionData[key]);
+  const max = 120;
 
   // Establish color range
   let colorRange =
@@ -95,7 +95,7 @@ const USMap = ({ regionData, r, indexToggle }) => {
           .interpolate(d3.interpolateRgb.gamma(2));
 
   // associate each state with the region value from props
-  STATES.forEach(state => (state.dimValue = regionData[state.region]));
+  //STATES.forEach(state => (state.dimValue = regionData[state.region]));
 
   let index = -1;
 
@@ -116,7 +116,7 @@ const USMap = ({ regionData, r, indexToggle }) => {
               <State
                 stateData={STATES[index]}
                 // regionData={regionData[index]} //might not need
-                bgColor={colorRange(STATES[index].dimValue)}
+                bgColor={colorRange(10)}
                 key={`${index}`}
                 x={xOff * (x + rowOffset)}
                 y={yOff * y}

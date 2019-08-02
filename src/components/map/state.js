@@ -22,6 +22,7 @@ const State = ({ stateData, classes, x = 0, y = 0, r = 10, bgColor }) => {
   const PI_SIX = Math.PI / 6;
   const COS_SIX = Math.cos(PI_SIX);
   const SIN_SIX = Math.sin(PI_SIX);
+  //calculates size of hexagon
   let hexPoints = [
     [0, 0 - r].join(","),
     [0 + COS_SIX * r, 0 - SIN_SIX * r].join(","),
@@ -30,7 +31,6 @@ const State = ({ stateData, classes, x = 0, y = 0, r = 10, bgColor }) => {
     [0 - COS_SIX * r, 0 + SIN_SIX * r].join(","),
     [0 - COS_SIX * r, 0 - SIN_SIX * r].join(",")
   ];
-
   return (
     <Motion
       defaultStyle={{ xPos: 100 * Math.random(), yPos: 100 * Math.random() }}
@@ -38,12 +38,12 @@ const State = ({ stateData, classes, x = 0, y = 0, r = 10, bgColor }) => {
         xPos: spring(x, presets.gentle),
         yPos: spring(y, presets.gentle)
       }}
-    >
+    > 
       {({ xPos, yPos }) => (
         <g
           className={classes.state}
           style={{ fill: bgColor }}
-          transform={`translate(${xPos},${yPos})`}
+          transform={`translate(${x},${y})`}
         >
           <polygon className="background" points={hexPoints.join(" ")} />
           <text className={classes.stateName} transform={`translate(0,1)`}>

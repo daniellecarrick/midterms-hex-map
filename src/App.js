@@ -1,24 +1,14 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import "./App.css";
+import USMap from "./components/map/map";
 
 function App() {
+  const RADIUS = 6;
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <svg id="main-map" viewBox={`0 0 ${23 * RADIUS} ${13 * RADIUS}`}>
+         <USMap r={RADIUS}/>
+      </svg>
     </div>
   );
 }
