@@ -1,6 +1,9 @@
-import React from "react";
-import "./App.css";
+import React from 'react';
+import './App.css';
 import USMap from "./components/map/map";
+import BarChart from "./components/bar-chart/bar";
+import withStyles from "react-jss";
+
 
 function App() {
   const RADIUS = 6;
