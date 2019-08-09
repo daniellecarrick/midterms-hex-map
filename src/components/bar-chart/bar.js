@@ -23,7 +23,7 @@ const BarChart = ({classes}) => {
   const margin = {
     top: 10,
     left: 10,
-    bottom: 10,
+    bottom: 20,
     right: 10
   };
   const ROWPADDING = 20;
@@ -37,16 +37,20 @@ const BarChart = ({classes}) => {
     .range([0, HEIGHT]);
 
   return (
+    <>
+     <h1>Bar chart</h1>
     <svg width={"100%"} height={HEIGHT}>
       {data.map((bar, i) => {
         return (
           <g transform={`translate(${ROWPADDING * i},${0})`}>
-            <text>{bar.dimension}</text>
-            <rect width={10} height={y(bar.value)} className={classes.bar} />
+            <rect width={10} height={HEIGHT-y(bar.value)} className={classes.bar} y={y(bar.value)}/>
+            <text y={HEIGHT}>{bar.dimension}</text>
+            <text y={y(bar.value)}>{(bar.value).toFixed(1)}</text>
           </g>
         );
       })}
     </svg>
+    </>
   );
 };
 

@@ -1,0 +1,5468 @@
+{
+  "timestamp": "2019-01-30T17:08:51.720Z",
+  "G": {
+    "12": [
+      "12",
+      "Florida",
+      [
+        ["Ron", "DeSantis", "GOP", 0.496, 4076186, 1, 0, 0],
+        ["Andrew", "Gillum", "Dem", 0.492, 4043723, 0, 0, 0],
+        ["Darcy", "Richardson", "RP", 0.006, 47140, 0, 0, 0],
+        ["Kyle", "Gibson", "NPA", 0.003, 24310, 0, 0, 0],
+        ["Ryan", "Foley", "NPA", 0.002, 14630, 0, 0, 0],
+        ["Bruce", "Stanley", "NPA", 0.002, 14505, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "13": [
+      "13",
+      "Georgia",
+      [
+        ["Brian", "Kemp", "GOP", 0.502, 1978408, 1, 0, 0],
+        ["Stacey", "Abrams", "Dem", 0.488, 1923685, 0, 0, 0],
+        ["Ted", "Metz", "Lib", 0.009, 37235, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "15": [
+      "15",
+      "Hawaii",
+      [
+        ["David", "Ige", "Dem", 0.627, 244934, 1, 0, 1],
+        ["Andria", "Tupola", "GOP", 0.337, 131719, 0, 0, 0],
+        ["Jim", "Brewer", "Grn", 0.026, 10123, 0, 0, 0],
+        ["Terrence", "Teruya", "NP", 0.01, 4067, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "16": [
+      "16",
+      "Idaho",
+      [
+        ["Brad", "Little", "GOP", 0.598, 361661, 1, 0, 0],
+        ["Paulette", "Jordan", "Dem", 0.382, 231081, 0, 0, 0],
+        ["Bev", "Boeck", "Lib", 0.011, 6551, 0, 0, 0],
+        ["Walt", "Bayes", "CST", 0.01, 5787, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "17": [
+      "17",
+      "Illinois",
+      [
+        ["JB", "Pritzker", "Dem", 0.545, 2479746, 1, 0, 0],
+        ["Bruce", "Rauner", "GOP", 0.388, 1765751, 0, 0, 1],
+        ["Sam", "McCann", "Con", 0.042, 192527, 0, 0, 0],
+        ["Kash", "Jackson", "Lib", 0.024, 109518, 0, 0, 0]
+      ],
+      100,
+      1
+    ],
+    "19": [
+      "19",
+      "Iowa",
+      [
+        ["Kim", "Reynolds", "GOP", 0.503, 667275, 1, 0, 1],
+        ["Fred", "Hubbell", "Dem", 0.475, 630986, 0, 0, 0],
+        ["Jake", "Porter", "Lib", 0.016, 21426, 0, 0, 0],
+        ["Gary", "Siegwarth", "Oth", 0.006, 7463, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "20": [
+      "20",
+      "Kansas",
+      [
+        ["Laura", "Kelly", "Dem", 0.48, 506509, 1, 0, 0],
+        ["Kris", "Kobach", "GOP", 0.43, 453030, 0, 0, 0],
+        ["Greg", "Orman", "Ind", 0.065, 68498, 0, 0, 0],
+        ["Jeff", "Caldwell", "Lib", 0.019, 20009, 0, 0, 0],
+        ["Rick", "Kloos", "Ind", 0.006, 6576, 0, 0, 0]
+      ],
+      100,
+      1
+    ],
+    "23": [
+      "23",
+      "Maine",
+      [
+        ["Janet", "Mills", "Dem", 0.509, 320962, 1, 0, 0],
+        ["Shawn", "Moody", "GOP", 0.432, 272311, 0, 0, 0],
+        ["Terry", "Hayes", "Ind", 0.059, 37268, 0, 0, 0]
+      ],
+      100,
+      1
+    ],
+    "24": [
+      "24",
+      "Maryland",
+      [
+        ["Larry", "Hogan", "GOP", 0.554, 1275644, 1, 0, 1],
+        ["Ben", "Jealous", "Dem", 0.435, 1002639, 0, 0, 0],
+        ["Shawn", "Quinn", "Lib", 0.006, 13241, 0, 0, 0],
+        ["Ian", "Schlakman", "Grn", 0.005, 11175, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "25": [
+      "25",
+      "Massachusetts",
+      [
+        ["Charlie", "Baker", "GOP", 0.668, 1781982, 1, 0, 1],
+        ["Jay", "Gonzalez", "Dem", 0.332, 886281, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "26": [
+      "26",
+      "Michigan",
+      [
+        ["Gretchen", "Whitmer", "Dem", 0.533, 2266193, 1, 0, 0],
+        ["Bill", "Schuette", "GOP", 0.437, 1859534, 0, 0, 0],
+        ["Bill", "Gelineau", "Lib", 0.013, 56606, 0, 0, 0],
+        ["Todd", "Schleiger", "UST", 0.007, 29219, 0, 0, 0],
+        ["Jennifer", "Kurland", "Grn", 0.007, 28799, 0, 0, 0],
+        ["Keith", "Butkovich", "NLP", 0.002, 10202, 0, 0, 0]
+      ],
+      100,
+      1
+    ],
+    "27": [
+      "27",
+      "Minnesota",
+      [
+        ["Tim", "Walz", "Dem", 0.539, 1393096, 1, 0, 0],
+        ["Jeff", "Johnson", "GOP", 0.424, 1097705, 0, 0, 0],
+        ["Chris", "Wright", "GRP", 0.027, 68667, 0, 0, 0],
+        ["Josh", "Welter", "Lib", 0.01, 26735, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "31": [
+      "31",
+      "Nebraska",
+      [
+        ["Pete", "Ricketts", "GOP", 0.59, 411812, 1, 0, 1],
+        ["Bob", "Krist", "Dem", 0.41, 286169, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "32": [
+      "32",
+      "Nevada",
+      [
+        ["Steve", "Sisolak", "Dem", 0.494, 480007, 1, 0, 0],
+        ["Adam", "Laxalt", "GOP", 0.453, 440320, 0, 0, 0],
+        [null, "None of these candidates", "NPD", 0.019, 18865, 0, 0, 0],
+        ["Ryan", "Bundy", "NPP", 0.014, 13891, 0, 0, 0],
+        ["Russell", "Best", "IAP", 0.01, 10076, 0, 0, 0],
+        ["Jared", "Lord", "Lib", 0.009, 8640, 0, 0, 0]
+      ],
+      100,
+      1
+    ],
+    "33": [
+      "33",
+      "New Hampshire",
+      [
+        ["Chris", "Sununu", "GOP", 0.528, 302764, 1, 0, 1],
+        ["Molly", "Kelly", "Dem", 0.458, 262359, 0, 0, 0],
+        ["Jilletta", "Jarvis", "Lib", 0.014, 8197, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "35": [
+      "35",
+      "New Mexico",
+      [
+        ["Michelle", "Lujan Grisham", "Dem", 0.572, 398368, 1, 0, 0],
+        ["Steve", "Pearce", "GOP", 0.428, 298091, 0, 0, 0]
+      ],
+      100,
+      1
+    ],
+    "36": [
+      "36",
+      "New York",
+      [
+        ["Andrew", "Cuomo", "Dem", 0.596, 3635340, 1, 0, 1],
+        ["Marc", "Molinaro", "GOP", 0.362, 2207602, 0, 0, 0],
+        ["Howie", "Hawkins", "Grn", 0.017, 103946, 0, 0, 0],
+        ["Larry", "Sharpe", "Lib", 0.016, 95033, 0, 0, 0],
+        ["Stephanie", "Miner", "Oth", 0.009, 55441, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "39": [
+      "39",
+      "Ohio",
+      [
+        ["Mike", "DeWine", "GOP", 0.504, 2235825, 1, 0, 0],
+        ["Richard", "Cordray", "Dem", 0.467, 2070046, 0, 0, 0],
+        ["Travis", "Irvine", "Lib", 0.018, 80055, 0, 0, 0],
+        ["Constance", "Gadell-Newton", "Grn", 0.011, 49536, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "40": [
+      "40",
+      "Oklahoma",
+      [
+        ["Kevin", "Stitt", "GOP", 0.543, 644579, 1, 0, 0],
+        ["Drew", "Edmondson", "Dem", 0.422, 500973, 0, 0, 0],
+        ["Chris", "Powell", "Lib", 0.034, 40833, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "41": [
+      "41",
+      "Oregon",
+      [
+        ["Kate", "Brown", "Dem", 0.501, 934498, 1, 0, 1],
+        ["Knute", "Buehler", "GOP", 0.437, 814988, 0, 0, 0],
+        ["Patrick", "Starnes", "IP", 0.029, 53392, 0, 0, 0],
+        ["Nick", "Chen", "Lib", 0.016, 28927, 0, 0, 0],
+        ["Aaron", "Auer", "CST", 0.011, 21145, 0, 0, 0],
+        ["Chris", "Henry", "Prg", 0.006, 11013, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "42": [
+      "42",
+      "Pennsylvania",
+      [
+        ["Tom", "Wolf", "Dem", 0.578, 2895652, 1, 0, 1],
+        ["Scott", "Wagner", "GOP", 0.407, 2039882, 0, 0, 0],
+        ["Kenneth", "Krawchuk", "Lib", 0.01, 49229, 0, 0, 0],
+        ["Paul", "Glover", "Grn", 0.006, 27792, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "44": [
+      "44",
+      "Rhode Island",
+      [
+        ["Gina", "Raimondo", "Dem", 0.528, 198122, 1, 0, 1],
+        ["Allan", "Fung", "GOP", 0.373, 139932, 0, 0, 0],
+        ["Joseph", "Trillo", "Ind", 0.044, 16532, 0, 0, 0],
+        ["William", "Gilbert", "Mod", 0.027, 10155, 0, 0, 0],
+        ["Luis", "Munoz", "Ind", 0.017, 6223, 0, 0, 0],
+        ["Anne", "Armstrong", "Oth", 0.011, 4191, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "45": [
+      "45",
+      "South Carolina",
+      [
+        ["Henry", "McMaster", "GOP", 0.54, 921342, 1, 0, 1],
+        ["James", "Smith", "Dem", 0.46, 784182, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "46": [
+      "46",
+      "South Dakota",
+      [
+        ["Kristi", "Noem", "GOP", 0.51, 172912, 1, 0, 0],
+        ["Billie", "Sutton", "Dem", 0.476, 161454, 0, 0, 0],
+        ["Kurt", "Evans", "Lib", 0.014, 4848, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "47": [
+      "47",
+      "Tennessee",
+      [
+        ["Bill", "Lee", "GOP", 0.596, 1336106, 1, 0, 0],
+        ["Karl", "Dean", "Dem", 0.386, 864863, 0, 0, 0],
+        ["Mark", "Wright", "Ind", 0.002, 4687, 0, 0, 0],
+        ["Sherry", "Clark", "Ind", 0.002, 5198, 0, 0, 0],
+        ["Patrick", "Whitlock", "Ind", 0.002, 3631, 0, 0, 0],
+        ["Heather", "Scott", "Ind", 0.001, 2969, 0, 0, 0],
+        ["Mark", "Brown", "Ind", 0.001, 2841, 0, 0, 0],
+        ["Yvonne", "Neubert", "Ind", 0.001, 3070, 0, 0, 0],
+        ["George", "Smith", "Ind", 0.001, 1550, 0, 0, 0],
+        ["Cory", "King", "Ind", 0.001, 1502, 0, 0, 0],
+        ["Tracy", "Tisdale", "Ind", 0.001, 1396, 0, 0, 0],
+        ["Justin", "Cornett", "Ind", 0.001, 1217, 0, 0, 0],
+        ["Joe", "Wilmoth", "Ind", 0.001, 2444, 0, 0, 0],
+        ["Chad", "Riden", "Ind", 0, 1096, 0, 0, 0],
+        ["William", "Helmstetter", "Ind", 0, 496, 0, 0, 0],
+        ["Vinnie", "Vineyard", "Ind", 0, 1012, 0, 0, 0],
+        ["Rick", "Tyler", "Ind", 0, 981, 0, 0, 0],
+        ["Gabriel", "Fancher", "Ind", 0, 869, 0, 0, 0],
+        ["Sean", "Fleming", "Ind", 0, 814, 0, 0, 0],
+        ["Alfred", "Rapoza", "Ind", 0, 800, 0, 0, 0],
+        ["Jessie", "McDonald", "Ind", 0, 755, 0, 0, 0],
+        ["Toney", "Mitchell", "Ind", 0, 739, 0, 0, 0],
+        ["Mike", "Toews", "Ind", 0, 726, 0, 0, 0],
+        ["Matthew", "Koch", "Ind", 0, 652, 0, 0, 0],
+        ["Jeremy", "Stephenson", "Ind", 0, 613, 0, 0, 0],
+        ["Tommy", "McAnally", "Ind", 0, 609, 0, 0, 0],
+        ["Jaron", "Weidner", "Ind", 0, 588, 0, 0, 0],
+        ["Robert", "Sawyers", "Ind", 0, 1059, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "48": [
+      "48",
+      "Texas",
+      [
+        ["Greg", "Abbott", "GOP", 0.558, 4656196, 1, 0, 1],
+        ["Lupe", "Valdez", "Dem", 0.425, 3546615, 0, 0, 0],
+        ["Mark", "Tippetts", "Lib", 0.017, 140632, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "50": [
+      "50",
+      "Vermont",
+      [
+        ["Phil", "Scott", "GOP", 0.554, 151261, 1, 0, 1],
+        ["Christine", "Hallquist", "Dem", 0.404, 110335, 0, 0, 0],
+        ["Trevor", "Barlow", "Ind", 0.012, 3266, 0, 0, 0],
+        ["Charles", "Laramie", "Ind", 0.008, 2287, 0, 0, 0],
+        ["Cris", "Ericson", "Ind", 0.008, 2129, 0, 0, 0],
+        ["Stephen", "Marx", "Oth", 0.007, 1855, 0, 0, 0],
+        ["Em", "Peyton", "LUn", 0.007, 1839, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "55": [
+      "55",
+      "Wisconsin",
+      [
+        ["Tony", "Evers", "Dem", 0.496, 1324307, 1, 0, 0],
+        ["Scott", "Walker", "GOP", 0.485, 1295080, 0, 0, 1],
+        ["Phil", "Anderson", "Lib", 0.008, 20225, 0, 0, 0],
+        ["Maggie", "Turnbull", "Ind", 0.007, 18884, 0, 0, 0],
+        ["Michael", "White", "Grn", 0.004, 11087, 0, 0, 0],
+        ["Arnie", "Enz", "Ind", 0.001, 2745, 0, 0, 0]
+      ],
+      100,
+      1
+    ],
+    "56": [
+      "56",
+      "Wyoming",
+      [
+        ["Mark", "Gordon", "GOP", 0.675, 136412, 1, 0, 0],
+        ["Mary", "Throne", "Dem", 0.277, 55965, 0, 0, 0],
+        ["Rex", "Rammell", "CST", 0.033, 6751, 0, 0, 0],
+        ["Lawrence", "Struempf", "Lib", 0.015, 3010, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "02": [
+      "02",
+      "Alaska",
+      [
+        ["Mike", "Dunleavy", "GOP", 0.515, 145631, 1, 0, 0],
+        ["Mark", "Begich", "Dem", 0.445, 125739, 0, 0, 0],
+        ["Bill", "Walker", "Udl", 0.02, 5757, 0, 0, 1],
+        ["Billy", "Toien", "Lib", 0.019, 5402, 0, 0, 0]
+      ],
+      100,
+      1
+    ],
+    "01": [
+      "01",
+      "Alabama",
+      [
+        ["Kay", "Ivey", "GOP", 0.596, 1022457, 1, 0, 1],
+        ["Walt", "Maddox", "Dem", 0.404, 694495, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "05": [
+      "05",
+      "Arkansas",
+      [
+        ["Asa", "Hutchinson", "GOP", 0.653, 582406, 1, 0, 1],
+        ["Jared", "Henderson", "Dem", 0.318, 283218, 0, 0, 0],
+        ["Mark", "West", "Lib", 0.029, 25885, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "04": [
+      "04",
+      "Arizona",
+      [
+        ["Doug", "Ducey", "GOP", 0.56, 1330863, 1, 0, 1],
+        ["David", "Garcia", "Dem", 0.418, 994341, 0, 0, 0],
+        ["Angel", "Torres", "Grn", 0.021, 50962, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "06": [
+      "06",
+      "California",
+      [
+        ["Gavin", "Newsom", "Dem", 0.619, 7721410, 1, 0, 0],
+        ["John", "Cox", "GOP", 0.381, 4742825, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "08": [
+      "08",
+      "Colorado",
+      [
+        ["Jared", "Polis", "Dem", 0.534, 1348888, 1, 0, 0],
+        ["Walker", "Stapleton", "GOP", 0.428, 1080801, 0, 0, 0],
+        ["Scott", "Helker", "Lib", 0.028, 69519, 0, 0, 0],
+        ["Bill", "Hammons", "Uty", 0.01, 25854, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "09": [
+      "09",
+      "Connecticut",
+      [
+        ["Ned", "Lamont", "Dem", 0.494, 694510, 1, 0, 0],
+        ["Bob", "Stefanowski", "GOP", 0.462, 650138, 0, 0, 0],
+        ["Oz", "Griebel", "Oth", 0.039, 54741, 0, 0, 0],
+        ["Rodney", "Hanscomb", "Lib", 0.004, 6086, 0, 0, 0],
+        ["Mark", "Greenstein", "Oth", 0.001, 1254, 0, 0, 0]
+      ],
+      100,
+      0
+    ]
+  },
+  "S": {
+    "10": [
+      "10",
+      "Delaware",
+      [
+        ["Tom", "Carper", "Dem", 0.6, 217385, 1, 0, 1],
+        ["Robert", "Arlett", "GOP", 0.378, 137127, 0, 0, 0],
+        ["Demitri", "Theodoropoulos", "Grn", 0.012, 4170, 0, 0, 0],
+        ["Nadine", "Frost", "Lib", 0.011, 3910, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "12": [
+      "12",
+      "Florida",
+      [
+        ["Rick", "Scott", "GOP", 0.501, 4099505, 1, 0, 0],
+        ["Bill", "Nelson", "Dem", 0.499, 4089472, 0, 0, 1]
+      ],
+      100,
+      1
+    ],
+    "15": [
+      "15",
+      "Hawaii",
+      [
+        ["Mazie", "Hirono", "Dem", 0.712, 276316, 1, 0, 1],
+        ["Ron", "Curtis", "GOP", 0.288, 112035, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "18": [
+      "18",
+      "Indiana",
+      [
+        ["Mike", "Braun", "GOP", 0.51, 1158000, 1, 0, 0],
+        ["Joe", "Donnelly", "Dem", 0.451, 1023553, 0, 0, 1],
+        ["Lucy", "Brenton", "Lib", 0.039, 88551, 0, 0, 0]
+      ],
+      100,
+      1
+    ],
+    "23": [
+      "23",
+      "Maine",
+      [
+        ["Angus", "King", "Ind", 0.543, 344575, 1, 0, 1],
+        ["Eric", "Brakey", "GOP", 0.352, 223502, 0, 0, 0],
+        ["Zak", "Ringelstein", "Dem", 0.104, 66268, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "24": [
+      "24",
+      "Maryland",
+      [
+        ["Ben", "Cardin", "Dem", 0.649, 1491614, 1, 0, 1],
+        ["Tony", "Campbell", "GOP", 0.303, 697017, 0, 0, 0],
+        ["Neal", "Simon", "Una", 0.037, 85964, 0, 0, 0],
+        ["Arvin", "Vohra", "Lib", 0.01, 22943, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "25": [
+      "25",
+      "Massachusetts",
+      [
+        ["Elizabeth", "Warren", "Dem", 0.604, 1634213, 1, 0, 1],
+        ["Geoff", "Diehl", "GOP", 0.362, 979507, 0, 0, 0],
+        ["Shiva", "Ayyadurai", "Ind", 0.034, 91732, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "26": [
+      "26",
+      "Michigan",
+      [
+        ["Debbie", "Stabenow", "Dem", 0.523, 2214478, 1, 0, 1],
+        ["John", "James", "GOP", 0.458, 1938818, 0, 0, 0],
+        ["Marcia", "Squier", "Grn", 0.009, 40204, 0, 0, 0],
+        ["George", "Huffman", "UST", 0.006, 27251, 0, 0, 0],
+        ["John", "Wilhelm", "NLP", 0.004, 16502, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "27": [
+      "27",
+      "Minnesota",
+      [
+        ["Amy", "Klobuchar", "Dem", 0.603, 1566174, 1, 0, 1],
+        ["Jim", "Newberger", "GOP", 0.362, 940437, 0, 0, 0],
+        ["Dennis", "Schuller", "LMN", 0.026, 66236, 0, 0, 0],
+        ["Paula", "Overby", "Grn", 0.009, 23101, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "28": [
+      "28",
+      "Mississippi",
+      [
+        ["Roger", "Wicker", "GOP", 0.585, 547619, 1, 0, 1],
+        ["David", "Baria", "Dem", 0.395, 369567, 0, 0, 0],
+        ["Danny", "Bedwell", "Lib", 0.014, 12981, 0, 0, 0],
+        ["Shawn", "O'Hara", "RP", 0.006, 6048, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "29": [
+      "29",
+      "Missouri",
+      [
+        ["Josh", "Hawley", "GOP", 0.514, 1254927, 1, 0, 0],
+        ["Claire", "McCaskill", "Dem", 0.456, 1112935, 0, 0, 1],
+        ["Craig", "O'Dear", "Ind", 0.014, 34398, 0, 0, 0],
+        ["Japheth", "Campbell", "Lib", 0.011, 27316, 0, 0, 0],
+        ["Jo", "Crain", "Grn", 0.005, 12706, 0, 0, 0]
+      ],
+      100,
+      1
+    ],
+    "30": [
+      "30",
+      "Montana",
+      [
+        ["Jon", "Tester", "Dem", 0.503, 253876, 1, 0, 1],
+        ["Matt", "Rosendale", "GOP", 0.468, 235963, 0, 0, 0],
+        ["Rick", "Breckenridge", "Lib", 0.029, 14545, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "31": [
+      "31",
+      "Nebraska",
+      [
+        ["Deb", "Fischer", "GOP", 0.577, 403151, 1, 0, 1],
+        ["Jane", "Raybould", "Dem", 0.386, 269917, 0, 0, 0],
+        ["Jim", "Schultz", "Lib", 0.036, 25349, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "32": [
+      "32",
+      "Nevada",
+      [
+        ["Jacky", "Rosen", "Dem", 0.504, 490071, 1, 0, 0],
+        ["Dean", "Heller", "GOP", 0.454, 441202, 0, 0, 1],
+        [null, "None of these candidates", "NPD", 0.016, 15303, 0, 0, 0],
+        ["Barry", "Michaels", "NPP", 0.01, 9269, 0, 0, 0],
+        ["Tim", "Hagan", "Lib", 0.009, 9196, 0, 0, 0],
+        ["Kamau", "Bakari", "IAP", 0.007, 7091, 0, 0, 0]
+      ],
+      100,
+      1
+    ],
+    "34": [
+      "34",
+      "New Jersey",
+      [
+        ["Bob", "Menendez", "Dem", 0.54, 1711654, 1, 0, 1],
+        ["Bob", "Hugin", "GOP", 0.428, 1357355, 0, 0, 0],
+        ["Madelyn", "Hoffman", "Ind", 0.008, 25150, 0, 0, 0],
+        ["Murray", "Sabrin", "Ind", 0.007, 21212, 0, 0, 0],
+        ["Natalie", "Rivera", "Ind", 0.006, 19897, 0, 0, 0],
+        ["Tricia", "Flanagan", "Ind", 0.005, 16101, 0, 0, 0],
+        ["Kevin", "Kimple", "Ind", 0.003, 9087, 0, 0, 0],
+        ["Hank", "Schroeder", "Ind", 0.003, 8854, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "35": [
+      "35",
+      "New Mexico",
+      [
+        ["Martin", "Heinrich", "Dem", 0.541, 376998, 1, 0, 1],
+        ["Mick", "Rich", "GOP", 0.305, 212813, 0, 0, 0],
+        ["Gary", "Johnson", "Lib", 0.154, 107201, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "36": [
+      "36",
+      "New York",
+      [
+        ["Kirsten", "Gillibrand", "Dem", 0.67, 4056931, 1, 0, 1],
+        ["Chele", "Farley", "GOP", 0.33, 1998220, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "38": [
+      "38",
+      "North Dakota",
+      [
+        ["Kevin", "Cramer", "GOP", 0.555, 179720, 1, 0, 0],
+        ["Heidi", "Heitkamp", "Dem", 0.445, 144376, 0, 0, 1]
+      ],
+      100,
+      1
+    ],
+    "39": [
+      "39",
+      "Ohio",
+      [
+        ["Sherrod", "Brown", "Dem", 0.534, 2358508, 1, 0, 1],
+        ["Jim", "Renacci", "GOP", 0.466, 2057559, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "42": [
+      "42",
+      "Pennsylvania",
+      [
+        ["Bob", "Casey", "Dem", 0.557, 2792437, 1, 0, 1],
+        ["Lou", "Barletta", "GOP", 0.426, 2134848, 0, 0, 0],
+        ["Dale", "Kerns", "Lib", 0.01, 50907, 0, 0, 0],
+        ["Neal", "Gale", "Grn", 0.006, 31208, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "44": [
+      "44",
+      "Rhode Island",
+      [
+        ["Sheldon", "Whitehouse", "Dem", 0.616, 231477, 1, 0, 1],
+        ["Robert", "Flanders", "GOP", 0.384, 144421, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "47": [
+      "47",
+      "Tennessee",
+      [
+        ["Marsha", "Blackburn", "GOP", 0.547, 1227483, 1, 0, 0],
+        ["Phil", "Bredesen", "Dem", 0.439, 985450, 0, 0, 0],
+        ["Trudy", "Austin", "Ind", 0.004, 9455, 0, 0, 0],
+        ["Dean", "Hill", "Ind", 0.004, 8717, 0, 0, 0],
+        ["Kris", "Todd", "Ind", 0.002, 5084, 0, 0, 0],
+        ["John", "Carico", "Ind", 0.002, 3398, 0, 0, 0],
+        ["Breton", "Phillips", "Ind", 0.001, 2226, 0, 0, 0],
+        ["Kevin", "McCants", "Ind", 0.001, 1927, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "48": [
+      "48",
+      "Texas",
+      [
+        ["Ted", "Cruz", "GOP", 0.509, 4260553, 1, 0, 1],
+        ["Beto", "O'Rourke", "Dem", 0.483, 4045632, 0, 0, 0],
+        ["Neal", "Dikeman", "Lib", 0.008, 65470, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "49": [
+      "49",
+      "Utah",
+      [
+        ["Mitt", "Romney", "GOP", 0.626, 665215, 1, 0, 0],
+        ["Jenny", "Wilson", "Dem", 0.309, 328541, 0, 0, 0],
+        ["Tim", "Aalders", "CST", 0.027, 28774, 0, 0, 0],
+        ["Craig", "Bowden", "Lib", 0.026, 27607, 0, 0, 0],
+        ["Reed", "McCandless", "IAP", 0.012, 12708, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "50": [
+      "50",
+      "Vermont",
+      [
+        ["Bernie", "Sanders", "Ind", 0.674, 183649, 1, 0, 1],
+        ["Lawrence", "Zupan", "GOP", 0.275, 74815, 0, 0, 0],
+        ["Brad", "Peacock", "Ind", 0.013, 3665, 0, 0, 0],
+        ["Russell", "Beste", "Ind", 0.01, 2763, 0, 0, 0],
+        ["Edward", "Gilbert", "Ind", 0.008, 2244, 0, 0, 0],
+        ["Folasade", "Adeluola", "Ind", 0.007, 1979, 0, 0, 0],
+        ["Reid", "Kane", "LUn", 0.004, 1171, 0, 0, 0],
+        ["Jon", "Svitavsky", "Ind", 0.004, 1130, 0, 0, 0],
+        ["Bruce", "Busa", "Ind", 0.003, 914, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "51": [
+      "51",
+      "Virginia",
+      [
+        ["Tim", "Kaine", "Dem", 0.571, 1910370, 1, 0, 1],
+        ["Corey", "Stewart", "GOP", 0.411, 1374313, 0, 0, 0],
+        ["Matt", "Waters", "Lib", 0.018, 61565, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "53": [
+      "53",
+      "Washington",
+      [
+        ["Maria", "Cantwell", "Dem", 0.584, 1803364, 1, 0, 1],
+        ["Susan", "Hutchison", "GOP", 0.416, 1282804, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "54": [
+      "54",
+      "West Virginia",
+      [
+        ["Joe", "Manchin", "Dem", 0.496, 290510, 1, 0, 1],
+        ["Patrick", "Morrisey", "GOP", 0.463, 271113, 0, 0, 0],
+        ["Rusty", "Hollen", "Lib", 0.042, 24411, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "55": [
+      "55",
+      "Wisconsin",
+      [
+        ["Tammy", "Baldwin", "Dem", 0.554, 1472914, 1, 0, 1],
+        ["Leah", "Vukmir", "GOP", 0.446, 1184885, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "56": [
+      "56",
+      "Wyoming",
+      [
+        ["John", "Barrasso", "GOP", 0.671, 136210, 1, 0, 1],
+        ["Gary", "Trauner", "Dem", 0.301, 61227, 0, 0, 0],
+        ["Joseph", "Porambo", "Lib", 0.028, 5658, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "04": [
+      "04",
+      "Arizona",
+      [
+        ["Kyrsten", "Sinema", "Dem", 0.5, 1191100, 1, 0, 0],
+        ["Martha", "McSally", "GOP", 0.476, 1135200, 0, 0, 0],
+        ["Angela", "Green", "Grn", 0.024, 57442, 0, 0, 0]
+      ],
+      100,
+      1
+    ],
+    "06": [
+      "06",
+      "California",
+      [
+        ["Dianne", "Feinstein", "Dem", 0.542, 6019422, 1, 0, 1],
+        ["Kevin", "de Leon", "Dem", 0.458, 5093942, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "09": [
+      "09",
+      "Connecticut",
+      [
+        ["Chris", "Murphy", "Dem", 0.595, 825579, 1, 0, 1],
+        ["Matthew", "Corey", "GOP", 0.394, 545717, 0, 0, 0],
+        ["Richard", "Lion", "Lib", 0.006, 8838, 0, 0, 0],
+        ["Jeff", "Russell", "Grn", 0.005, 6618, 0, 0, 0]
+      ],
+      100,
+      0
+    ]
+  },
+  "S_s": {
+    "27": [
+      "27",
+      "Minnesota",
+      [
+        ["Tina", "Smith", "Dem", 0.53, 1370540, 1, 0, 1],
+        ["Karin", "Housley", "GOP", 0.424, 1095777, 0, 0, 0],
+        ["Sarah", "Wellington", "LMN", 0.037, 95614, 0, 0, 0],
+        ["Jerry", "Trooien", "Una", 0.009, 24324, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "28": [
+      "28",
+      "Mississippi",
+      [
+        ["Cindy", "Hyde-Smith", "GOP", 0.412, 389995, 2, 0, 1],
+        ["Mike", "Espy", "Dem", 0.409, 386742, 2, 0, 0],
+        ["Chris", "McDaniel", "GOP", 0.164, 154878, 0, 0, 0],
+        ["Tobey", "Bartee", "Dem", 0.015, 13852, 0, 0, 0]
+      ],
+      100,
+      0
+    ]
+  },
+  "H": {
+    "1000": [
+      "1000",
+      "Delaware’s 1st district",
+      [
+        ["Lisa", "Rochester", "Dem", 0.645, 227353, 1, 0, 1],
+        ["Scott", "Walker", "GOP", 0.355, 125384, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "1201": [
+      "1201",
+      "Florida’s 1st district",
+      [
+        ["Matt", "Gaetz", "GOP", 0.671, 216189, 1, 0, 1],
+        ["Jennifer", "Zimmerman", "Dem", 0.329, 106199, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "1202": [
+      "1202",
+      "Florida’s 2nd district",
+      [
+        ["Neal", "Dunn", "GOP", 0.674, 199335, 1, 0, 1],
+        ["Bob", "Rackleff", "Dem", 0.326, 96233, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "1203": [
+      "1203",
+      "Florida’s 3rd district",
+      [
+        ["Ted", "Yoho", "GOP", 0.576, 176616, 1, 0, 1],
+        ["Yvonne", "Hayes Hinson", "Dem", 0.424, 129880, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "1204": [
+      "1204",
+      "Florida’s 4th district",
+      [
+        ["John", "Rutherford", "GOP", 0.652, 248420, 1, 0, 1],
+        ["Ges", "Selmont", "Dem", 0.324, 123351, 0, 0, 0],
+        ["Joceline", "Berrios", "NPA", 0.019, 7155, 0, 0, 0],
+        ["Jason", "Bulger", "NPA", 0.006, 2321, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "1205": [
+      "1205",
+      "Florida’s 5th district",
+      [
+        ["Al", "Lawson", "Dem", 0.668, 180527, 1, 0, 1],
+        ["Virginia", "Fuller", "GOP", 0.332, 89799, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "1206": [
+      "1206",
+      "Florida’s 6th district",
+      [
+        ["Michael", "Waltz", "GOP", 0.563, 187891, 1, 0, 0],
+        ["Nancy", "Soderberg", "Dem", 0.437, 145758, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "1207": [
+      "1207",
+      "Florida’s 7th district",
+      [
+        ["Stephanie", "Murphy", "Dem", 0.577, 183113, 1, 0, 1],
+        ["Mike", "Miller", "GOP", 0.423, 134285, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "1208": [
+      "1208",
+      "Florida’s 8th district",
+      [
+        ["Bill", "Posey", "GOP", 0.605, 218112, 1, 0, 1],
+        ["Sanjay", "Patel", "Dem", 0.395, 142415, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "1209": [
+      "1209",
+      "Florida’s 9th district",
+      [
+        ["Darren", "Soto", "Dem", 0.58, 172172, 1, 0, 1],
+        ["Wayne", "Liebnitzky", "GOP", 0.42, 124565, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "1210": [
+      "1210",
+      "Florida’s 10th district",
+      [["Val", "Demings", "Dem", 0, 0, 1, 1, 1]],
+      0,
+      0
+    ],
+    "1211": [
+      "1211",
+      "Florida’s 11th district",
+      [
+        ["Daniel", "Webster", "GOP", 0.652, 239395, 1, 0, 1],
+        ["Dana", "Cottrell", "Dem", 0.348, 128053, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "1212": [
+      "1212",
+      "Florida’s 12th district",
+      [
+        ["Gus", "Bilirakis", "GOP", 0.581, 194564, 1, 0, 1],
+        ["Chris", "Hunter", "Dem", 0.397, 132844, 0, 0, 0],
+        ["Angelika", "Purkis", "NPA", 0.022, 7510, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "1213": [
+      "1213",
+      "Florida’s 13th district",
+      [
+        ["Charlie", "Crist", "Dem", 0.576, 182717, 1, 0, 1],
+        ["George", "Buck", "GOP", 0.424, 134254, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "1214": [
+      "1214",
+      "Florida’s 14th district",
+      [["Kathy", "Castor", "Dem", 0, 0, 1, 1, 1]],
+      0,
+      0
+    ],
+    "1215": [
+      "1215",
+      "Florida’s 15th district",
+      [
+        ["Ross", "Spano", "GOP", 0.53, 151380, 1, 0, 0],
+        ["Kristen", "Carlson", "Dem", 0.47, 134132, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "1216": [
+      "1216",
+      "Florida’s 16th district",
+      [
+        ["Vern", "Buchanan", "GOP", 0.546, 197483, 1, 0, 1],
+        ["David", "Shapiro", "Dem", 0.454, 164463, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "1217": [
+      "1217",
+      "Florida’s 17th district",
+      [
+        ["Greg", "Steube", "GOP", 0.623, 193326, 1, 0, 0],
+        ["April", "Freeman-Allen Ellison", "Dem", 0.377, 117194, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "1218": [
+      "1218",
+      "Florida’s 18th district",
+      [
+        ["Brian", "Mast", "GOP", 0.543, 185905, 1, 0, 1],
+        ["Lauren", "Baer", "Dem", 0.457, 156454, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "1219": [
+      "1219",
+      "Florida’s 19th district",
+      [
+        ["Francis", "Rooney", "GOP", 0.623, 211465, 1, 0, 1],
+        ["David", "Holden", "Dem", 0.377, 128106, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "1220": [
+      "1220",
+      "Florida’s 20th district",
+      [["Alcee", "Hastings", "Dem", 0, 0, 1, 1, 1]],
+      0,
+      0
+    ],
+    "1221": [
+      "1221",
+      "Florida’s 21st district",
+      [["Lois", "Frankel", "Dem", 0, 0, 1, 1, 1]],
+      0,
+      0
+    ],
+    "1222": [
+      "1222",
+      "Florida’s 22nd district",
+      [
+        ["Ted", "Deutch", "Dem", 0.62, 184634, 1, 0, 1],
+        ["Nicolas", "Kimaz", "GOP", 0.38, 113049, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "1223": [
+      "1223",
+      "Florida’s 23rd district",
+      [
+        ["Debbie", "Wasserman Schultz", "Dem", 0.585, 161611, 1, 0, 1],
+        ["Joe", "Kaufman", "GOP", 0.36, 99446, 0, 0, 0],
+        ["Tim", "Canova", "NPA", 0.05, 13697, 0, 0, 0],
+        ["Don", "Endriss", "NPA", 0.006, 1612, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "1224": [
+      "1224",
+      "Florida’s 24th district",
+      [["Frederica", "Wilson", "Dem", 0, 0, 1, 1, 1]],
+      0,
+      0
+    ],
+    "1225": [
+      "1225",
+      "Florida’s 25th district",
+      [
+        ["Mario", "Diaz-Balart", "GOP", 0.605, 128672, 1, 0, 1],
+        ["Mary", "Barzee Flores", "Dem", 0.395, 84173, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "1226": [
+      "1226",
+      "Florida’s 26th district",
+      [
+        ["Debbie", "Mucarsel-Powell", "Dem", 0.509, 119797, 1, 0, 0],
+        ["Carlos", "Curbelo", "GOP", 0.491, 115678, 0, 0, 1]
+      ],
+      100,
+      1
+    ],
+    "1227": [
+      "1227",
+      "Florida’s 27th district",
+      [
+        ["Donna", "Shalala", "Dem", 0.518, 130743, 1, 0, 0],
+        ["Maria Elvira", "Salazar", "GOP", 0.458, 115588, 0, 0, 0],
+        ["Mayra", "Joli", "NPA", 0.025, 6255, 0, 0, 0]
+      ],
+      100,
+      1
+    ],
+    "1301": [
+      "1301",
+      "Georgia’s 1st district",
+      [
+        ["Buddy", "Carter", "GOP", 0.577, 144741, 1, 0, 1],
+        ["Lisa", "Ring", "Dem", 0.423, 105942, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "1302": [
+      "1302",
+      "Georgia’s 2nd district",
+      [
+        ["Sanford", "Bishop", "Dem", 0.596, 136699, 1, 0, 1],
+        ["Herman", "West", "GOP", 0.404, 92472, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "1303": [
+      "1303",
+      "Georgia’s 3rd district",
+      [
+        ["Drew", "Ferguson", "GOP", 0.655, 191996, 1, 0, 1],
+        ["Chuck", "Enderlin", "Dem", 0.345, 101010, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "1304": [
+      "1304",
+      "Georgia’s 4th district",
+      [
+        ["Hank", "Johnson", "Dem", 0.788, 227717, 1, 0, 1],
+        ["Joe", "Profit", "GOP", 0.212, 61092, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "1305": [
+      "1305",
+      "Georgia’s 5th district",
+      [["John", "Lewis", "Dem", 0, 0, 1, 1, 1]],
+      0,
+      0
+    ],
+    "1306": [
+      "1306",
+      "Georgia’s 6th district",
+      [
+        ["Lucy", "McBath", "Dem", 0.505, 160139, 1, 0, 0],
+        ["Karen", "Handel", "GOP", 0.495, 156875, 0, 0, 1]
+      ],
+      100,
+      1
+    ],
+    "1307": [
+      "1307",
+      "Georgia’s 7th district",
+      [
+        ["Rob", "Woodall", "GOP", 0.501, 140430, 1, 0, 1],
+        ["Carolyn", "Bourdeaux", "Dem", 0.499, 140011, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "1308": [
+      "1308",
+      "Georgia’s 8th district",
+      [["Austin", "Scott", "GOP", 0, 0, 1, 1, 1]],
+      0,
+      0
+    ],
+    "1309": [
+      "1309",
+      "Georgia’s 9th district",
+      [
+        ["Doug", "Collins", "GOP", 0.795, 224661, 1, 0, 1],
+        ["Josh", "McCall", "Dem", 0.205, 57912, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "1310": [
+      "1310",
+      "Georgia’s 10th district",
+      [
+        ["Jody", "Hice", "GOP", 0.629, 190396, 1, 0, 1],
+        ["Tabitha", "Johnson-Green", "Dem", 0.371, 112339, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "1311": [
+      "1311",
+      "Georgia’s 11th district",
+      [
+        ["Barry", "Loudermilk", "GOP", 0.618, 191887, 1, 0, 1],
+        ["Flynn", "Broady", "Dem", 0.382, 118653, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "1312": [
+      "1312",
+      "Georgia’s 12th district",
+      [
+        ["Rick", "Allen", "GOP", 0.595, 148986, 1, 0, 1],
+        ["Francys", "Johnson", "Dem", 0.405, 101503, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "1313": [
+      "1313",
+      "Georgia’s 13th district",
+      [
+        ["David", "Scott", "Dem", 0.762, 223157, 1, 0, 1],
+        ["David", "Callahan", "GOP", 0.238, 69760, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "1314": [
+      "1314",
+      "Georgia’s 14th district",
+      [
+        ["Tom", "Graves", "GOP", 0.765, 175743, 1, 0, 1],
+        ["Steven", "Foster", "Dem", 0.235, 53981, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "1501": [
+      "1501",
+      "Hawaii’s 1st district",
+      [
+        ["Ed", "Case", "Dem", 0.731, 134650, 1, 0, 0],
+        ["Cam", "Cavasso", "GOP", 0.231, 42498, 0, 0, 0],
+        ["Michelle", "Tippens", "Lib", 0.019, 3498, 0, 0, 0],
+        ["Zachary", "Burd", "Grn", 0.012, 2214, 0, 0, 0],
+        ["Calvin", "Griffin", "NP", 0.007, 1351, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "1502": [
+      "1502",
+      "Hawaii’s 2nd district",
+      [
+        ["Tulsi", "Gabbard", "Dem", 0.774, 153271, 1, 0, 1],
+        ["Brian", "Evans", "GOP", 0.226, 44850, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "1601": [
+      "1601",
+      "Idaho’s 1st district",
+      [
+        ["Russ", "Fulcher", "GOP", 0.628, 197719, 1, 0, 0],
+        ["Cristina", "McNeil", "Dem", 0.308, 96922, 0, 0, 0],
+        ["Natalie", "Fleming", "Ind", 0.02, 6188, 0, 0, 0],
+        ["W. Scott", "Howard", "Lib", 0.017, 5435, 0, 0, 0],
+        ["Paul", "Farmer", "Ind", 0.014, 4479, 0, 0, 0],
+        [null, "Pro-Life", "CST", 0.01, 3181, 0, 0, 0],
+        ["Gordon", "Counsil", "Ind", 0.003, 1054, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "1602": [
+      "1602",
+      "Idaho’s 2nd district",
+      [
+        ["Mike", "Simpson", "GOP", 0.607, 170274, 1, 0, 1],
+        ["Aaron", "Swisher", "Dem", 0.393, 110381, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "1701": [
+      "1701",
+      "Illinois’ 1st district",
+      [
+        ["Bobby", "Rush", "Dem", 0.735, 189560, 1, 0, 1],
+        ["Jimmy Lee", "Tillman", "GOP", 0.198, 50960, 0, 0, 0],
+        ["Thomas", "Rudbeck", "Ind", 0.067, 17365, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "1702": [
+      "1702",
+      "Illinois’ 2nd district",
+      [
+        ["Robin", "Kelly", "Dem", 0.811, 190684, 1, 0, 1],
+        ["David", "Merkle", "GOP", 0.189, 44567, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "1703": [
+      "1703",
+      "Illinois’ 3rd district",
+      [
+        ["Dan", "Lipinski", "Dem", 0.738, 163053, 1, 0, 1],
+        ["Arthur", "Jones", "GOP", 0.262, 57885, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "1704": [
+      "1704",
+      "Illinois’ 4th district",
+      [
+        ["Chuy", "Garcia", "Dem", 0.866, 143895, 1, 0, 0],
+        ["Mark", "Lorch", "GOP", 0.134, 22294, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "1705": [
+      "1705",
+      "Illinois’ 5th district",
+      [
+        ["Mike", "Quigley", "Dem", 0.767, 213992, 1, 0, 1],
+        ["Tom", "Hanson", "GOP", 0.233, 65134, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "1706": [
+      "1706",
+      "Illinois’ 6th district",
+      [
+        ["Sean", "Casten", "Dem", 0.536, 169001, 1, 0, 0],
+        ["Peter", "Roskam", "GOP", 0.464, 146445, 0, 0, 1]
+      ],
+      100,
+      1
+    ],
+    "1707": [
+      "1707",
+      "Illinois’ 7th district",
+      [
+        ["Danny", "Davis", "Dem", 0.876, 215746, 1, 0, 1],
+        ["Craig", "Cameron", "GOP", 0.124, 30497, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "1708": [
+      "1708",
+      "Illinois’ 8th district",
+      [
+        ["Raja", "Krishnamoorthi", "Dem", 0.66, 130054, 1, 0, 1],
+        ["JD", "Diganvker", "GOP", 0.34, 67073, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "1709": [
+      "1709",
+      "Illinois’ 9th district",
+      [
+        ["Jan", "Schakowsky", "Dem", 0.735, 213368, 1, 0, 1],
+        ["John", "Elleson", "GOP", 0.265, 76983, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "1710": [
+      "1710",
+      "Illinois’ 10th district",
+      [
+        ["Brad", "Schneider", "Dem", 0.656, 156540, 1, 0, 1],
+        ["Douglas", "Bennett", "GOP", 0.344, 82124, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "1711": [
+      "1711",
+      "Illinois’ 11th district",
+      [
+        ["Bill", "Foster", "Dem", 0.638, 145407, 1, 0, 1],
+        ["Nick", "Stella", "GOP", 0.362, 82358, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "1712": [
+      "1712",
+      "Illinois’ 12th district",
+      [
+        ["Mike", "Bost", "GOP", 0.516, 134884, 1, 0, 1],
+        ["Brendan", "Kelly", "Dem", 0.454, 118724, 0, 0, 0],
+        ["Randy", "Auxier", "Grn", 0.03, 7935, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "1713": [
+      "1713",
+      "Illinois’ 13th district",
+      [
+        ["Rodney", "Davis", "GOP", 0.504, 136516, 1, 0, 1],
+        ["Betsy", "Dirksen Londrigan", "Dem", 0.496, 134458, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "1714": [
+      "1714",
+      "Illinois’ 14th district",
+      [
+        ["Lauren", "Underwood", "Dem", 0.525, 156035, 1, 0, 0],
+        ["Randy", "Hultgren", "GOP", 0.475, 141164, 0, 0, 1]
+      ],
+      100,
+      1
+    ],
+    "1715": [
+      "1715",
+      "Illinois’ 15th district",
+      [
+        ["John", "Shimkus", "GOP", 0.709, 181294, 1, 0, 1],
+        ["Kevin", "Gaither", "Dem", 0.291, 74309, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "1716": [
+      "1716",
+      "Illinois’ 16th district",
+      [
+        ["Adam", "Kinzinger", "GOP", 0.591, 151254, 1, 0, 1],
+        ["Sara", "Dady", "Dem", 0.409, 104569, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "1717": [
+      "1717",
+      "Illinois’ 17th district",
+      [
+        ["Cheri", "Bustos", "Dem", 0.621, 142659, 1, 0, 1],
+        ["Bill", "Fawell", "GOP", 0.379, 87090, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "1718": [
+      "1718",
+      "Illinois’ 18th district",
+      [
+        ["Darin", "LaHood", "GOP", 0.672, 195927, 1, 0, 1],
+        ["Junius", "Rodriguez", "Dem", 0.328, 95486, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "1801": [
+      "1801",
+      "Indiana’s 1st district",
+      [
+        ["Peter", "Visclosky", "Dem", 0.651, 159611, 1, 0, 1],
+        ["Mark", "Leyva", "GOP", 0.349, 85594, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "1802": [
+      "1802",
+      "Indiana’s 2nd district",
+      [
+        ["Jackie", "Walorski", "GOP", 0.548, 125499, 1, 0, 1],
+        ["Mel", "Hall", "Dem", 0.452, 103363, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "1803": [
+      "1803",
+      "Indiana’s 3rd district",
+      [
+        ["Jim", "Banks", "GOP", 0.647, 158927, 1, 0, 1],
+        ["Courtney", "Tritch", "Dem", 0.353, 86610, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "1804": [
+      "1804",
+      "Indiana’s 4th district",
+      [
+        ["Jim", "Baird", "GOP", 0.641, 156539, 1, 0, 0],
+        ["Tobi", "Beck", "Dem", 0.359, 87824, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "1805": [
+      "1805",
+      "Indiana’s 5th district",
+      [
+        ["Susan", "Brooks", "GOP", 0.568, 180035, 1, 0, 1],
+        ["Dee", "Thornton", "Dem", 0.432, 137142, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "1806": [
+      "1806",
+      "Indiana’s 6th district",
+      [
+        ["Greg", "Pence", "GOP", 0.638, 154260, 1, 0, 0],
+        ["Jeannine", "Lake", "Dem", 0.329, 79430, 0, 0, 0],
+        ["Tom", "Ferkinhoff", "Lib", 0.033, 8030, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "1807": [
+      "1807",
+      "Indiana’s 7th district",
+      [
+        ["Andre", "Carson", "Dem", 0.649, 141139, 1, 0, 1],
+        ["Wayne", "Harmon", "GOP", 0.351, 76457, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "1808": [
+      "1808",
+      "Indiana’s 8th district",
+      [
+        ["Larry", "Bucshon", "GOP", 0.644, 157396, 1, 0, 1],
+        ["William", "Tanoos", "Dem", 0.356, 86895, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "1809": [
+      "1809",
+      "Indiana’s 9th district",
+      [
+        ["Trey", "Hollingsworth", "GOP", 0.565, 153271, 1, 0, 1],
+        ["Liz", "Watson", "Dem", 0.435, 118090, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "1901": [
+      "1901",
+      "Iowa’s 1st district",
+      [
+        ["Abby", "Finkenauer", "Dem", 0.51, 170342, 1, 0, 0],
+        ["Rod", "Blum", "GOP", 0.459, 153442, 0, 0, 1],
+        ["Troy", "Hageman", "Lib", 0.031, 10285, 0, 0, 0]
+      ],
+      100,
+      1
+    ],
+    "1902": [
+      "1902",
+      "Iowa’s 2nd district",
+      [
+        ["Dave", "Loebsack", "Dem", 0.548, 171446, 1, 0, 1],
+        ["Christopher", "Peters", "GOP", 0.426, 133287, 0, 0, 0],
+        ["Mark", "Strauss", "Lib", 0.02, 6181, 0, 0, 0],
+        ["Daniel", "Clark", "NPA", 0.006, 1837, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "1903": [
+      "1903",
+      "Iowa’s 3rd district",
+      [
+        ["Cindy", "Axne", "Dem", 0.493, 175642, 1, 0, 0],
+        ["David", "Young", "GOP", 0.472, 167933, 0, 0, 1],
+        ["Bryan", "Holder", "Lib", 0.02, 7267, 0, 0, 0],
+        ["Mark", "Elworth", "Oth", 0.006, 2015, 0, 0, 0],
+        ["Paul", "Knupp", "Grn", 0.005, 1888, 0, 0, 0],
+        ["Joe", "Grandanette", "NPA", 0.004, 1301, 0, 0, 0]
+      ],
+      100,
+      1
+    ],
+    "1904": [
+      "1904",
+      "Iowa’s 4th district",
+      [
+        ["Steve", "King", "GOP", 0.504, 157676, 1, 0, 1],
+        ["J.D.", "Scholten", "Dem", 0.47, 147246, 0, 0, 0],
+        ["Charles", "Aldrich", "Lib", 0.02, 6161, 0, 0, 0],
+        ["Edward", "Peterson", "NPA", 0.006, 1962, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "2001": [
+      "2001",
+      "Kansas’ 1st district",
+      [
+        ["Roger", "Marshall", "GOP", 0.681, 153082, 1, 0, 1],
+        ["Alan", "LaPolice", "Dem", 0.319, 71558, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "2002": [
+      "2002",
+      "Kansas’ 2nd district",
+      [
+        ["Steve", "Watkins", "GOP", 0.476, 126098, 1, 0, 0],
+        ["Paul", "Davis", "Dem", 0.468, 123859, 0, 0, 0],
+        ["Kelly", "Standley", "Lib", 0.056, 14731, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "2003": [
+      "2003",
+      "Kansas’ 3rd district",
+      [
+        ["Sharice", "Davids", "Dem", 0.536, 170518, 1, 0, 0],
+        ["Kevin", "Yoder", "GOP", 0.439, 139762, 0, 0, 1],
+        ["Chris", "Clemmons", "Lib", 0.025, 8021, 0, 0, 0]
+      ],
+      100,
+      1
+    ],
+    "2004": [
+      "2004",
+      "Kansas’ 4th district",
+      [
+        ["Ron", "Estes", "GOP", 0.593, 143459, 1, 0, 1],
+        ["James", "Thompson", "Dem", 0.407, 98304, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "2101": [
+      "2101",
+      "Kentucky’s 1st district",
+      [
+        ["James", "Comer", "GOP", 0.686, 172167, 1, 0, 1],
+        ["Paul", "Walker", "Dem", 0.314, 78849, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "2102": [
+      "2102",
+      "Kentucky’s 2nd district",
+      [
+        ["Brett", "Guthrie", "GOP", 0.667, 171700, 1, 0, 1],
+        ["Hank", "Linderman", "Dem", 0.311, 79964, 0, 0, 0],
+        ["Thomas", "Loecken", "Ind", 0.022, 5681, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "2103": [
+      "2103",
+      "Kentucky’s 3rd district",
+      [
+        ["John", "Yarmuth", "Dem", 0.621, 173002, 1, 0, 1],
+        ["Vickie", "Glisson", "GOP", 0.366, 101930, 0, 0, 0],
+        ["Gregory", "Boles", "Lib", 0.014, 3788, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "2104": [
+      "2104",
+      "Kentucky’s 4th district",
+      [
+        ["Thomas", "Massie", "GOP", 0.622, 162946, 1, 0, 1],
+        ["Seth", "Hall", "Dem", 0.346, 90536, 0, 0, 0],
+        ["Mike", "Moffett", "Ind", 0.032, 8318, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "2105": [
+      "2105",
+      "Kentucky’s 5th district",
+      [
+        ["Hal", "Rogers", "GOP", 0.789, 172093, 1, 0, 1],
+        ["Kenneth", "Stepp", "Dem", 0.211, 45890, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "2106": [
+      "2106",
+      "Kentucky’s 6th district",
+      [
+        ["Andy", "Barr", "GOP", 0.51, 154468, 1, 0, 1],
+        ["Amy", "McGrath", "Dem", 0.478, 144736, 0, 0, 0],
+        ["Frank", "Harris", "Lib", 0.007, 2150, 0, 0, 0],
+        ["Rikka", "Wallin", "Ind", 0.003, 1011, 0, 0, 0],
+        ["James", "Germalic", "Ind", 0.002, 523, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "2201": [
+      "2201",
+      "Louisiana’s 1st district",
+      [
+        ["Steve", "Scalise", "GOP", 0.715, 192555, 1, 0, 1],
+        ["Tammy", "Savoie", "Dem", 0.164, 44273, 0, 0, 0],
+        ["Lee Ann", "Dugas", "Dem", 0.069, 18560, 0, 0, 0],
+        ["Jim", "Francis", "Dem", 0.032, 8688, 0, 0, 0],
+        ["Howard", "Kearney", "Lib", 0.01, 2806, 0, 0, 0],
+        ["Ferd", "Jones", "Ind", 0.009, 2443, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "2202": [
+      "2202",
+      "Louisiana’s 2nd district",
+      [
+        ["Cedric", "Richmond", "Dem", 0.806, 190182, 1, 0, 1],
+        ["Jesse", "Schmidt", "NPA", 0.087, 20465, 0, 0, 0],
+        ["Belden", "Batiste", "Ind", 0.073, 17260, 0, 0, 0],
+        ["Shawndra", "Rodriguez", "NPA", 0.034, 8075, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "2203": [
+      "2203",
+      "Louisiana’s 3rd district",
+      [
+        ["Clay", "Higgins", "GOP", 0.557, 136876, 1, 0, 1],
+        ["Mimi", "Methvin", "Dem", 0.178, 43729, 0, 0, 0],
+        ["Josh", "Guillory", "GOP", 0.128, 31387, 0, 0, 0],
+        ["Rob", "Anderson", "Dem", 0.055, 13477, 0, 0, 0],
+        ["Larry", "Rader", "Dem", 0.039, 9692, 0, 0, 0],
+        ["Verone", "Thomas", "Dem", 0.032, 7815, 0, 0, 0],
+        ["Aaron", "Andrus", "Lib", 0.012, 2967, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "2204": [
+      "2204",
+      "Louisiana’s 4th district",
+      [
+        ["Mike", "Johnson", "GOP", 0.642, 139326, 1, 0, 1],
+        ["Ryan", "Trundle", "Dem", 0.336, 72934, 0, 0, 0],
+        ["Mark", "Halverson", "NPA", 0.021, 4612, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "2205": [
+      "2205",
+      "Louisiana’s 5th district",
+      [
+        ["Ralph", "Abraham", "GOP", 0.665, 149018, 1, 0, 1],
+        ["Jessee", "Fleenor", "Dem", 0.3, 67118, 0, 0, 0],
+        ["Billy", "Burkette", "Ind", 0.021, 4799, 0, 0, 0],
+        ["Kyle", "Randol", "Lib", 0.013, 3011, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "2206": [
+      "2206",
+      "Louisiana’s 6th district",
+      [
+        ["Garret", "Graves", "GOP", 0.695, 186553, 1, 0, 1],
+        ["Justin", "Dewitt", "Dem", 0.205, 55089, 0, 0, 0],
+        ["Andie", "Saizan", "Dem", 0.081, 21627, 0, 0, 0],
+        ["Devin", "Graham", "Ind", 0.02, 5256, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "2301": [
+      "2301",
+      "Maine’s 1st district",
+      [
+        ["Chellie", "Pingree", "Dem", 0.588, 201195, 1, 0, 1],
+        ["Mark", "Holbrook", "GOP", 0.325, 111188, 0, 0, 0],
+        ["Martin", "Grohman", "Ind", 0.087, 29670, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "2302": [
+      "2302",
+      "Maine’s 2nd district",
+      [
+        ["Jared", "Golden", "Dem", 0.456, 131954, 1, 0, 0],
+        ["Bruce", "Poliquin", "GOP", 0.463, 134061, 0, 0, 1],
+        ["Tiffany", "Bond", "Ind", 0.057, 16452, 0, 0, 0],
+        ["William", "Hoar", "Ind", 0.024, 6865, 0, 0, 0]
+      ],
+      100,
+      1
+    ],
+    "2401": [
+      "2401",
+      "Maryland’s 1st district",
+      [
+        ["Andy", "Harris", "GOP", 0.6, 183662, 1, 0, 1],
+        ["Jesse", "Colvin", "Dem", 0.381, 116631, 0, 0, 0],
+        ["Jenica", "Martin", "Lib", 0.019, 5744, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "2402": [
+      "2402",
+      "Maryland’s 2nd district",
+      [
+        ["Dutch", "Ruppersberger", "Dem", 0.661, 167201, 1, 0, 1],
+        ["Liz", "Matory", "GOP", 0.307, 77782, 0, 0, 0],
+        ["Michael", "Carney", "Lib", 0.021, 5215, 0, 0, 0],
+        ["Guy", "Mimoun", "Grn", 0.011, 2904, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "2403": [
+      "2403",
+      "Maryland’s 3rd district",
+      [
+        ["John", "Sarbanes", "Dem", 0.692, 202407, 1, 0, 1],
+        ["Charles", "Anthony", "GOP", 0.283, 82774, 0, 0, 0],
+        ["David", "Lashar", "Lib", 0.026, 7476, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "2404": [
+      "2404",
+      "Maryland’s 4th district",
+      [
+        ["Anthony", "Brown", "Dem", 0.781, 209642, 1, 0, 1],
+        ["George", "McDermott", "GOP", 0.199, 53327, 0, 0, 0],
+        ["Dave", "Bishop", "Lib", 0.02, 5326, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "2405": [
+      "2405",
+      "Maryland’s 5th district",
+      [
+        ["Steny", "Hoyer", "Dem", 0.704, 213796, 1, 0, 1],
+        ["William", "Devine", "GOP", 0.271, 82361, 0, 0, 0],
+        ["Patrick", "Elder", "Grn", 0.013, 4082, 0, 0, 0],
+        ["Jacob", "Pulcher", "Lib", 0.012, 3592, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "2406": [
+      "2406",
+      "Maryland’s 6th district",
+      [
+        ["David", "Trone", "Dem", 0.59, 163346, 1, 0, 0],
+        ["Amie", "Hoeber", "GOP", 0.38, 105209, 0, 0, 0],
+        ["Kevin", "Caldwell", "Lib", 0.018, 4972, 0, 0, 0],
+        ["George", "Gluck", "Grn", 0.012, 3275, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "2407": [
+      "2407",
+      "Maryland’s 7th district",
+      [
+        ["Elijah", "Cummings", "Dem", 0.765, 202345, 1, 0, 1],
+        ["Richmond", "Davis", "GOP", 0.213, 56266, 0, 0, 0],
+        ["David", "Griggs", "Lib", 0.022, 5827, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "2408": [
+      "2408",
+      "Maryland’s 8th district",
+      [
+        ["Jamie", "Raskin", "Dem", 0.682, 217679, 1, 0, 1],
+        ["John", "Walsh", "GOP", 0.303, 96525, 0, 0, 0],
+        ["Jasen", "Wunder", "Lib", 0.015, 4853, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "2501": [
+      "2501",
+      "Massachusetts’ 1st district",
+      [["Richard", "Neal", "Dem", 0, 0, 1, 1, 1]],
+      0,
+      0
+    ],
+    "2502": [
+      "2502",
+      "Massachusetts’ 2nd district",
+      [
+        ["Jim", "McGovern", "Dem", 0.672, 191332, 1, 0, 1],
+        ["Tracy", "Lovvorn", "GOP", 0.328, 93391, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "2503": [
+      "2503",
+      "Massachusetts’ 3rd district",
+      [
+        ["Lori", "Trahan", "Dem", 0.62, 173175, 1, 0, 0],
+        ["Rick", "Green", "GOP", 0.335, 93445, 0, 0, 0],
+        ["Michael", "Mullen", "Ind", 0.045, 12572, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "2504": [
+      "2504",
+      "Massachusetts’ 4th district",
+      [["Joseph", "Kennedy", "Dem", 0, 0, 1, 1, 1]],
+      0,
+      0
+    ],
+    "2505": [
+      "2505",
+      "Massachusetts’ 5th district",
+      [
+        ["Katherine", "Clark", "Dem", 0.759, 236243, 1, 0, 1],
+        ["John", "Hugo", "GOP", 0.241, 74856, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "2506": [
+      "2506",
+      "Massachusetts’ 6th district",
+      [
+        ["Seth", "Moulton", "Dem", 0.652, 217703, 1, 0, 1],
+        ["Joseph", "Schneider", "GOP", 0.314, 104798, 0, 0, 0],
+        ["Mary Jean", "Charbonneau", "Ind", 0.034, 11309, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "2507": [
+      "2507",
+      "Massachusetts’ 7th district",
+      [["Ayanna", "Pressley", "Dem", 0, 0, 1, 1, 0]],
+      0,
+      0
+    ],
+    "2508": [
+      "2508",
+      "Massachusetts’ 8th district",
+      [["Stephen", "Lynch", "Dem", 0, 0, 1, 1, 1]],
+      0,
+      0
+    ],
+    "2509": [
+      "2509",
+      "Massachusetts’ 9th district",
+      [
+        ["Bill", "Keating", "Dem", 0.595, 193224, 1, 0, 1],
+        ["Peter", "Tedeschi", "GOP", 0.405, 131739, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "2601": [
+      "2601",
+      "Michigan’s 1st district",
+      [
+        ["Jack", "Bergman", "GOP", 0.563, 187251, 1, 0, 1],
+        ["Matthew", "Morgan", "Dem", 0.437, 145246, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "2602": [
+      "2602",
+      "Michigan’s 2nd district",
+      [
+        ["Bill", "Huizenga", "GOP", 0.553, 168970, 1, 0, 1],
+        ["Rob", "Davidson", "Dem", 0.43, 131254, 0, 0, 0],
+        ["Ronald", "Graeser", "UST", 0.017, 5239, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "2603": [
+      "2603",
+      "Michigan’s 3rd district",
+      [
+        ["Justin", "Amash", "GOP", 0.544, 169107, 1, 0, 1],
+        ["Cathy", "Albro", "Dem", 0.432, 134185, 0, 0, 0],
+        ["Ted", "Gerrard", "UST", 0.024, 7445, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "2604": [
+      "2604",
+      "Michigan’s 4th district",
+      [
+        ["John", "Moolenaar", "GOP", 0.626, 178510, 1, 0, 1],
+        ["Jerry", "Hilliard", "Dem", 0.374, 106540, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "2605": [
+      "2605",
+      "Michigan’s 5th district",
+      [
+        ["Daniel", "Kildee", "Dem", 0.595, 164502, 1, 0, 1],
+        ["Travis", "Wines", "GOP", 0.359, 99265, 0, 0, 0],
+        ["Kathy", "Goodwin", "WCP", 0.046, 12646, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "2606": [
+      "2606",
+      "Michigan’s 6th district",
+      [
+        ["Fred", "Upton", "GOP", 0.502, 147436, 1, 0, 1],
+        ["Matt", "Longjohn", "Dem", 0.457, 134082, 0, 0, 0],
+        ["Stephen", "Young", "UST", 0.041, 11920, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "2607": [
+      "2607",
+      "Michigan’s 7th district",
+      [
+        ["Tim", "Walberg", "GOP", 0.538, 158730, 1, 0, 1],
+        ["Gretchen", "Driskell", "Dem", 0.462, 136330, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "2608": [
+      "2608",
+      "Michigan’s 8th district",
+      [
+        ["Elissa", "Slotkin", "Dem", 0.506, 172880, 1, 0, 0],
+        ["Mike", "Bishop", "GOP", 0.468, 159782, 0, 0, 1],
+        ["Brian", "Ellison", "Lib", 0.018, 6302, 0, 0, 0],
+        ["David", "Lillis", "UST", 0.008, 2629, 0, 0, 0]
+      ],
+      100,
+      1
+    ],
+    "2609": [
+      "2609",
+      "Michigan’s 9th district",
+      [
+        ["Andy", "Levin", "Dem", 0.597, 181734, 1, 0, 0],
+        ["Candius", "Stearns", "GOP", 0.368, 112123, 0, 0, 0],
+        ["Andrea", "Kirby", "WCP", 0.022, 6797, 0, 0, 0],
+        ["John", "McDermott", "Grn", 0.013, 3909, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "2610": [
+      "2610",
+      "Michigan’s 10th district",
+      [
+        ["Paul", "Mitchell", "GOP", 0.603, 182808, 1, 0, 1],
+        ["Kimberly", "Bizon", "Dem", 0.35, 106061, 0, 0, 0],
+        ["Jeremy", "Peruski", "NPA", 0.037, 11344, 0, 0, 0],
+        ["Harley", "Mikkelson", "Grn", 0.009, 2851, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "2611": [
+      "2611",
+      "Michigan’s 11th district",
+      [
+        ["Haley", "Stevens", "Dem", 0.518, 181912, 1, 0, 0],
+        ["Lena", "Epstein", "GOP", 0.452, 158463, 0, 0, 0],
+        ["Leonard", "Schwartz", "Lib", 0.017, 5799, 0, 0, 0],
+        ["Cooper", "Nye", "NPA", 0.013, 4727, 0, 0, 0]
+      ],
+      100,
+      1
+    ],
+    "2612": [
+      "2612",
+      "Michigan’s 12th district",
+      [
+        ["Debbie", "Dingell", "Dem", 0.681, 200588, 1, 0, 1],
+        ["Jeff", "Jones", "GOP", 0.289, 85115, 0, 0, 0],
+        ["Gary", "Walkowicz", "WCP", 0.023, 6712, 0, 0, 0],
+        ["Niles", "Niemuth", "NPA", 0.008, 2213, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "2613": [
+      "2613",
+      "Michigan’s 13th district",
+      [
+        ["Rashida", "Tlaib", "Dem", 0.846, 165355, 1, 0, 0],
+        ["Sam", "Johnson", "WCP", 0.113, 22186, 0, 0, 0],
+        ["Etta", "Wilcoxon", "Grn", 0.041, 7980, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "2614": [
+      "2614",
+      "Michigan’s 14th district",
+      [
+        ["Brenda", "Lawrence", "Dem", 0.809, 214334, 1, 0, 1],
+        ["Marc", "Herschfus", "GOP", 0.173, 45899, 0, 0, 0],
+        ["Philip", "Kolody", "WCP", 0.018, 4761, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "2701": [
+      "2701",
+      "Minnesota’s 1st district",
+      [
+        ["Jim", "Hagedorn", "GOP", 0.502, 146200, 1, 0, 0],
+        ["Dan", "Feehan", "Dem", 0.498, 144885, 0, 0, 0]
+      ],
+      100,
+      1
+    ],
+    "2702": [
+      "2702",
+      "Minnesota’s 2nd district",
+      [
+        ["Angie", "Craig", "Dem", 0.528, 177958, 1, 0, 0],
+        ["Jason", "Lewis", "GOP", 0.472, 159344, 0, 0, 1]
+      ],
+      100,
+      1
+    ],
+    "2703": [
+      "2703",
+      "Minnesota’s 3rd district",
+      [
+        ["Dean", "Phillips", "Dem", 0.557, 202404, 1, 0, 0],
+        ["Erik", "Paulsen", "GOP", 0.443, 160839, 0, 0, 1]
+      ],
+      100,
+      1
+    ],
+    "2704": [
+      "2704",
+      "Minnesota’s 4th district",
+      [
+        ["Betty", "McCollum", "Dem", 0.66, 216865, 1, 0, 1],
+        ["Greg", "Ryan", "GOP", 0.298, 97747, 0, 0, 0],
+        ["Susan", "Pendergast Sindt", "LMN", 0.042, 13776, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "2705": [
+      "2705",
+      "Minnesota’s 5th district",
+      [
+        ["Ilhan", "Omar", "Dem", 0.782, 267703, 1, 0, 0],
+        ["Jennifer", "Zielinski", "GOP", 0.218, 74440, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "2706": [
+      "2706",
+      "Minnesota’s 6th district",
+      [
+        ["Tom", "Emmer", "GOP", 0.612, 192931, 1, 0, 1],
+        ["Ian", "Todd", "Dem", 0.388, 122332, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "2707": [
+      "2707",
+      "Minnesota’s 7th district",
+      [
+        ["Collin", "Peterson", "Dem", 0.521, 146672, 1, 0, 1],
+        ["Dave", "Hughes", "GOP", 0.479, 134668, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "2708": [
+      "2708",
+      "Minnesota’s 8th district",
+      [
+        ["Pete", "Stauber", "GOP", 0.507, 159364, 1, 0, 0],
+        ["Joe", "Radinovich", "Dem", 0.452, 141950, 0, 0, 0],
+        ["Skip", "Sandman", "Inp", 0.041, 12741, 0, 0, 0]
+      ],
+      100,
+      1
+    ],
+    "2801": [
+      "2801",
+      "Mississippi’s 1st district",
+      [
+        ["Trent", "Kelly", "GOP", 0.669, 158245, 1, 0, 1],
+        ["Randy", "Wadkins", "Dem", 0.324, 76601, 0, 0, 0],
+        ["Tracella", "O'Hara Hill", "RP", 0.007, 1675, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "2802": [
+      "2802",
+      "Mississippi’s 2nd district",
+      [
+        ["Bennie", "Thompson", "Dem", 0.718, 158921, 1, 0, 1],
+        ["Troy", "Ray", "Ind", 0.217, 48104, 0, 0, 0],
+        ["Irving", "Harris", "RP", 0.065, 14354, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "2803": [
+      "2803",
+      "Mississippi’s 3rd district",
+      [
+        ["Michael", "Guest", "GOP", 0.623, 160284, 1, 0, 0],
+        ["Michael", "Evans", "Dem", 0.367, 94461, 0, 0, 0],
+        ["Matthew", "Holland", "RP", 0.01, 2526, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "2804": [
+      "2804",
+      "Mississippi’s 4th district",
+      [
+        ["Steven", "Palazzo", "GOP", 0.682, 152633, 1, 0, 1],
+        ["Jeramey", "Anderson", "Dem", 0.307, 68787, 0, 0, 0],
+        ["Lajena", "Sheets", "RP", 0.01, 2312, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "2901": [
+      "2901",
+      "Missouri’s 1st district",
+      [
+        ["Lacy", "Clay", "Dem", 0.801, 219781, 1, 0, 1],
+        ["Robert", "Vroman", "GOP", 0.167, 45867, 0, 0, 0],
+        ["Robb", "Cunningham", "Lib", 0.032, 8727, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "2902": [
+      "2902",
+      "Missouri’s 2nd district",
+      [
+        ["Ann", "Wagner", "GOP", 0.512, 192477, 1, 0, 1],
+        ["Cort", "VanOstran", "Dem", 0.472, 177611, 0, 0, 0],
+        ["Larry", "Kirk", "Lib", 0.011, 4229, 0, 0, 0],
+        ["David", "Arnold", "Grn", 0.005, 1740, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "2903": [
+      "2903",
+      "Missouri’s 3rd district",
+      [
+        ["Blaine", "Luetkemeyer", "GOP", 0.651, 211243, 1, 0, 1],
+        ["Katy", "Geppert", "Dem", 0.328, 106589, 0, 0, 0],
+        ["Donald", "Stolle", "Lib", 0.021, 6776, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "2904": [
+      "2904",
+      "Missouri’s 4th district",
+      [
+        ["Vicky", "Hartzler", "GOP", 0.648, 190138, 1, 0, 1],
+        ["Renee", "Hoagenson", "Dem", 0.327, 95968, 0, 0, 0],
+        ["Mark", "Bliss", "Lib", 0.025, 7210, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "2905": [
+      "2905",
+      "Missouri’s 5th district",
+      [
+        ["Emanuel", "Cleaver", "Dem", 0.617, 175019, 1, 0, 1],
+        ["Jacob", "Turk", "GOP", 0.356, 101069, 0, 0, 0],
+        ["Alexander", "Howell", "Lib", 0.017, 4725, 0, 0, 0],
+        ["Maurice", "Copeland", "Grn", 0.007, 2091, 0, 0, 0],
+        ["E.C.", "Fredland", "CST", 0.003, 876, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "2906": [
+      "2906",
+      "Missouri’s 6th district",
+      [
+        ["Sam", "Graves", "GOP", 0.654, 199796, 1, 0, 1],
+        ["Henry", "Martin", "Dem", 0.32, 97660, 0, 0, 0],
+        ["Dan", "Hogan", "Lib", 0.026, 7953, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "2907": [
+      "2907",
+      "Missouri’s 7th district",
+      [
+        ["Billy", "Long", "GOP", 0.662, 196343, 1, 0, 1],
+        ["Jamie", "Schoolcraft", "Dem", 0.301, 89190, 0, 0, 0],
+        ["Benjamin", "Brixey", "Lib", 0.037, 10920, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "2908": [
+      "2908",
+      "Missouri’s 8th district",
+      [
+        ["Jason", "Smith", "GOP", 0.734, 194042, 1, 0, 1],
+        ["Kathy", "Ellis", "Dem", 0.25, 66151, 0, 0, 0],
+        ["Jonathan", "Shell", "Lib", 0.016, 4206, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "3000": [
+      "3000",
+      "Montana’s 1st district",
+      [
+        ["Greg", "Gianforte", "GOP", 0.509, 256661, 1, 0, 1],
+        ["Kathleen", "Williams", "Dem", 0.462, 233284, 0, 0, 0],
+        ["Elinor", "Swanson", "Lib", 0.029, 14476, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "3101": [
+      "3101",
+      "Nebraska’s 1st district",
+      [
+        ["Jeff", "Fortenberry", "GOP", 0.604, 141712, 1, 0, 1],
+        ["Jessica", "McClure", "Dem", 0.396, 93069, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "3102": [
+      "3102",
+      "Nebraska’s 2nd district",
+      [
+        ["Don", "Bacon", "GOP", 0.51, 126715, 1, 0, 1],
+        ["Kara", "Eastman", "Dem", 0.49, 121770, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "3103": [
+      "3103",
+      "Nebraska’s 3rd district",
+      [
+        ["Adrian", "Smith", "GOP", 0.767, 163650, 1, 0, 1],
+        ["Paul", "Theobald", "Dem", 0.233, 49654, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "3201": [
+      "3201",
+      "Nevada’s 1st district",
+      [
+        ["Dina", "Titus", "Dem", 0.662, 100707, 1, 0, 1],
+        ["Joyce", "Bentley", "GOP", 0.309, 46978, 0, 0, 0],
+        ["Dan", "Garfield", "IAP", 0.016, 2454, 0, 0, 0],
+        ["Robert", "Strawder", "Lib", 0.014, 2062, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "3202": [
+      "3202",
+      "Nevada’s 2nd district",
+      [
+        ["Mark", "Amodei", "GOP", 0.582, 167435, 1, 0, 1],
+        ["Clint", "Koble", "Dem", 0.418, 120102, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "3203": [
+      "3203",
+      "Nevada’s 3rd district",
+      [
+        ["Susie", "Lee", "Dem", 0.519, 148501, 1, 0, 0],
+        ["Danny", "Tarkanian", "GOP", 0.428, 122566, 0, 0, 0],
+        ["Steve", "Brown", "Lib", 0.016, 4555, 0, 0, 0],
+        ["David", "Goossen", "NPP", 0.013, 3627, 0, 0, 0],
+        ["Harry", "Vickers", "IAP", 0.012, 3481, 0, 0, 0],
+        ["Gil", "Eisner", "NPP", 0.007, 1887, 0, 0, 0],
+        ["Tony", "Gumina", "NPP", 0.005, 1551, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "3204": [
+      "3204",
+      "Nevada’s 4th district",
+      [
+        ["Steven", "Horsford", "Dem", 0.519, 121962, 1, 0, 0],
+        ["Cresent", "Hardy", "GOP", 0.437, 102748, 0, 0, 0],
+        ["Warren", "Markowitz", "IAP", 0.014, 3180, 0, 0, 0],
+        ["Rodney", "Smith", "NPP", 0.012, 2733, 0, 0, 0],
+        ["Gregg", "Luckner", "Lib", 0.009, 2213, 0, 0, 0],
+        ["Dean", "McGonigle", "NPP", 0.009, 2032, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "3301": [
+      "3301",
+      "New Hampshire’s 1st district",
+      [
+        ["Chris", "Pappas", "Dem", 0.536, 155884, 1, 0, 0],
+        ["Eddie", "Edwards", "GOP", 0.45, 130996, 0, 0, 0],
+        ["Dan", "Belforti", "Lib", 0.014, 4048, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "3302": [
+      "3302",
+      "New Hampshire’s 2nd district",
+      [
+        ["Ann", "McLane Kuster", "Dem", 0.556, 155358, 1, 0, 1],
+        ["Steven", "Negron", "GOP", 0.422, 117990, 0, 0, 0],
+        ["Justin", "O'Donnell", "Lib", 0.022, 6206, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "3401": [
+      "3401",
+      "New Jersey’s 1st district",
+      [
+        ["Donald", "Norcross", "Dem", 0.644, 169628, 1, 0, 1],
+        ["Paul", "Dilks", "GOP", 0.333, 87617, 0, 0, 0],
+        ["Robert", "Shapiro", "Ind", 0.011, 2821, 0, 0, 0],
+        ["Paul", "Hamlin", "Ind", 0.009, 2368, 0, 0, 0],
+        ["Mohammad", "Kabir", "Ind", 0.004, 984, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "3402": [
+      "3402",
+      "New Jersey’s 2nd district",
+      [
+        ["Jeff", "Van Drew", "Dem", 0.529, 136685, 1, 0, 0],
+        ["Seth", "Grossman", "GOP", 0.452, 116866, 0, 0, 0],
+        ["John", "Ordille", "Ind", 0.007, 1726, 0, 0, 0],
+        ["Steven", "Fenichel", "Ind", 0.004, 1154, 0, 0, 0],
+        ["Anthony", "Sanchez", "Ind", 0.004, 1064, 0, 0, 0],
+        ["William", "Benfer", "Ind", 0.003, 868, 0, 0, 0]
+      ],
+      100,
+      1
+    ],
+    "3403": [
+      "3403",
+      "New Jersey’s 3rd district",
+      [
+        ["Andy", "Kim", "Dem", 0.5, 153473, 1, 0, 0],
+        ["Tom", "MacArthur", "GOP", 0.487, 149500, 0, 0, 1],
+        ["Lawrence", "Berlinski", "Ind", 0.013, 3902, 0, 0, 0]
+      ],
+      100,
+      1
+    ],
+    "3404": [
+      "3404",
+      "New Jersey’s 4th district",
+      [
+        ["Chris", "Smith", "GOP", 0.554, 163065, 1, 0, 1],
+        ["Joshua", "Welle", "Dem", 0.431, 126766, 0, 0, 0],
+        ["Michael", "Rufo", "Ind", 0.005, 1387, 0, 0, 0],
+        ["Edward", "Stackhouse", "Ind", 0.004, 1064, 0, 0, 0],
+        ["Brian", "Reynolds", "Ind", 0.003, 851, 0, 0, 0],
+        ["Felicia", "Stoler", "Ind", 0.003, 844, 0, 0, 0],
+        ["Allen", "Yusufov", "Ind", 0.001, 371, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "3405": [
+      "3405",
+      "New Jersey’s 5th district",
+      [
+        ["Josh", "Gottheimer", "Dem", 0.562, 169546, 1, 0, 1],
+        ["John", "McCann", "GOP", 0.425, 128255, 0, 0, 0],
+        ["James", "Tosone", "Ind", 0.007, 2115, 0, 0, 0],
+        ["Wendy", "Goetz", "Ind", 0.006, 1907, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "3406": [
+      "3406",
+      "New Jersey’s 6th district",
+      [
+        ["Frank", "Pallone", "Dem", 0.636, 140752, 1, 0, 1],
+        ["Richard", "Pezzullo", "GOP", 0.364, 80443, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "3407": [
+      "3407",
+      "New Jersey’s 7th district",
+      [
+        ["Tom", "Malinowski", "Dem", 0.517, 166985, 1, 0, 0],
+        ["Leonard", "Lance", "GOP", 0.467, 150785, 0, 0, 1],
+        ["Diane", "Moxley", "Ind", 0.008, 2676, 0, 0, 0],
+        ["Gregg", "Mele", "Ind", 0.007, 2296, 0, 0, 0]
+      ],
+      100,
+      1
+    ],
+    "3408": [
+      "3408",
+      "New Jersey’s 8th district",
+      [
+        ["Albio", "Sires", "Dem", 0.781, 119881, 1, 0, 1],
+        ["John", "Muniz", "GOP", 0.187, 28725, 0, 0, 0],
+        ["Mahmoud", "Mahmoud", "Ind", 0.024, 3658, 0, 0, 0],
+        ["Dan", "Delaney", "Ind", 0.008, 1191, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "3409": [
+      "3409",
+      "New Jersey’s 9th district",
+      [
+        ["Bill", "Pascrell", "Dem", 0.703, 140832, 1, 0, 1],
+        ["Eric", "Fisher", "GOP", 0.289, 57854, 0, 0, 0],
+        ["Claudio", "Belusic", "Ind", 0.009, 1730, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "3410": [
+      "3410",
+      "New Jersey’s 10th district",
+      [
+        ["Donald", "Payne Jr.", "Dem", 0.876, 175253, 1, 0, 1],
+        ["Agha", "Khan", "GOP", 0.101, 20191, 0, 0, 0],
+        ["Cynthia", "Johnson", "Ind", 0.01, 2070, 0, 0, 0],
+        ["Joanne", "Miller", "Ind", 0.01, 2038, 0, 0, 0],
+        ["Scott", "Diroma", "Ind", 0.003, 607, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "3411": [
+      "3411",
+      "New Jersey’s 11th district",
+      [
+        ["Mikie", "Sherrill", "Dem", 0.568, 183684, 1, 0, 0],
+        ["Jay", "Webber", "GOP", 0.421, 136322, 0, 0, 0],
+        ["Robert", "Crook", "Ind", 0.007, 2182, 0, 0, 0],
+        ["Ryan", "Martinez", "Ind", 0.004, 1386, 0, 0, 0]
+      ],
+      100,
+      1
+    ],
+    "3412": [
+      "3412",
+      "New Jersey’s 12th district",
+      [
+        ["Bonnie", "Watson Coleman", "Dem", 0.687, 173334, 1, 0, 1],
+        ["Daryl", "Kipnis", "GOP", 0.313, 79041, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "3501": [
+      "3501",
+      "New Mexico’s 1st district",
+      [
+        ["Debra", "Haaland", "Dem", 0.591, 147336, 1, 0, 0],
+        ["Janice", "Arnold-Jones", "GOP", 0.363, 90507, 0, 0, 0],
+        ["Lloyd", "Princeton", "Lib", 0.045, 11319, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "3502": [
+      "3502",
+      "New Mexico’s 2nd district",
+      [
+        ["Xochitl Torres", "Small", "Dem", 0.509, 101489, 1, 0, 0],
+        ["Yvette", "Herrell", "GOP", 0.491, 97767, 0, 0, 0]
+      ],
+      100,
+      1
+    ],
+    "3503": [
+      "3503",
+      "New Mexico’s 3rd district",
+      [
+        ["Ben Ray", "Lujan", "Dem", 0.634, 155201, 1, 0, 1],
+        ["Jerald Steve", "McFall", "GOP", 0.312, 76427, 0, 0, 0],
+        ["Christopher", "Manning", "Lib", 0.054, 13265, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "3601": [
+      "3601",
+      "New York’s 1st district",
+      [
+        ["Lee", "Zeldin", "GOP", 0.515, 139027, 1, 0, 1],
+        ["Perry", "Gershon", "Dem", 0.474, 127991, 0, 0, 0],
+        ["Kate", "Browning", "WEq", 0.011, 2988, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "3602": [
+      "3602",
+      "New York’s 2nd district",
+      [
+        ["Peter", "King", "GOP", 0.531, 128078, 1, 0, 1],
+        ["Liuba", "Grechen Shirley", "Dem", 0.469, 113074, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "3603": [
+      "3603",
+      "New York’s 3rd district",
+      [
+        ["Thomas", "Suozzi", "Dem", 0.59, 157456, 1, 0, 1],
+        ["Dan", "DeBono", "GOP", 0.41, 109514, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "3604": [
+      "3604",
+      "New York’s 4th district",
+      [
+        ["Kathleen", "Rice", "Dem", 0.613, 159535, 1, 0, 1],
+        ["Ameer", "Benno", "GOP", 0.387, 100571, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "3605": [
+      "3605",
+      "New York’s 5th district",
+      [["Gregory", "Meeks", "Dem", 0, 0, 1, 1, 1]],
+      0,
+      0
+    ],
+    "3606": [
+      "3606",
+      "New York’s 6th district",
+      [
+        ["Grace", "Meng", "Dem", 0.909, 111646, 1, 0, 1],
+        ["Tom", "Hillgardner", "Grn", 0.091, 11209, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "3607": [
+      "3607",
+      "New York’s 7th district",
+      [
+        ["Nydia", "Velazquez", "Dem", 0.934, 146687, 1, 0, 1],
+        ["Joseph", "Lieberman", "Con", 0.055, 8670, 0, 0, 0],
+        ["Jeffrey", "Kurzon", "RP", 0.011, 1740, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "3608": [
+      "3608",
+      "New York’s 8th district",
+      [
+        ["Hakeem", "Jeffries", "Dem", 0.942, 180376, 1, 0, 1],
+        ["Ernest", "Johnson", "Con", 0.052, 9997, 0, 0, 0],
+        ["Jessica", "White", "RP", 0.005, 1031, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "3609": [
+      "3609",
+      "New York’s 9th district",
+      [
+        ["Yvette", "Clarke", "Dem", 0.893, 181455, 1, 0, 1],
+        ["Lutchi", "Gayot", "GOP", 0.103, 20901, 0, 0, 0],
+        ["Joel", "Anabilah-Azumah", "RP", 0.004, 779, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "3610": [
+      "3610",
+      "New York’s 10th district",
+      [
+        ["Jerrold", "Nadler", "Dem", 0.821, 173095, 1, 0, 1],
+        ["Naomi", "Levin", "GOP", 0.179, 37619, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "3611": [
+      "3611",
+      "New York’s 11th district",
+      [
+        ["Max", "Rose", "Dem", 0.53, 101823, 1, 0, 0],
+        ["Dan", "Donovan", "GOP", 0.466, 89441, 0, 0, 1],
+        ["Henry", "Bardel", "Grn", 0.004, 774, 0, 0, 0]
+      ],
+      100,
+      1
+    ],
+    "3612": [
+      "3612",
+      "New York’s 12th district",
+      [
+        ["Carolyn", "Maloney", "Dem", 0.864, 217430, 1, 0, 1],
+        ["Eliot", "Rabin", "GOP", 0.121, 30446, 0, 0, 0],
+        ["Scott", "Hutchins", "Grn", 0.015, 3728, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "3613": [
+      "3613",
+      "New York’s 13th district",
+      [
+        ["Adriano", "Espaillat", "Dem", 0.946, 180035, 1, 0, 1],
+        ["Jineea", "Butler", "GOP", 0.054, 10268, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "3614": [
+      "3614",
+      "New York’s 14th district",
+      [
+        ["Alexandria", "Ocasio-Cortez", "Dem", 0.782, 110318, 1, 0, 0],
+        ["Anthony", "Pappas", "GOP", 0.136, 19202, 0, 0, 0],
+        ["Joe", "Crowley", "WF", 0.066, 9348, 0, 0, 0],
+        ["Elizabeth", "Perri", "Con", 0.016, 2254, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "3615": [
+      "3615",
+      "New York’s 15th district",
+      [
+        ["Jose E.", "Serrano", "Dem", 0.96, 124469, 1, 0, 1],
+        ["Jason", "Gonzalez", "GOP", 0.04, 5205, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "3616": [
+      "3616",
+      "New York’s 16th district",
+      [["Eliot", "Engel", "Dem", 0, 0, 1, 1, 1]],
+      0,
+      0
+    ],
+    "3617": [
+      "3617",
+      "New York’s 17th district",
+      [
+        ["Nita", "Lowey", "Dem", 0.88, 170168, 1, 0, 1],
+        ["Joe", "Ciardullo", "RP", 0.12, 23150, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "3618": [
+      "3618",
+      "New York’s 18th district",
+      [
+        ["Sean Patrick", "Maloney", "Dem", 0.555, 139564, 1, 0, 1],
+        ["James", "O'Donnell", "GOP", 0.445, 112035, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "3619": [
+      "3619",
+      "New York’s 19th district",
+      [
+        ["Antonio", "Delgado", "Dem", 0.514, 147873, 1, 0, 0],
+        ["John", "Faso", "GOP", 0.462, 132873, 0, 0, 1],
+        ["Steven", "Greenfield", "Grn", 0.015, 4313, 0, 0, 0],
+        ["Diane", "Neal", "Oth", 0.01, 2835, 0, 0, 0]
+      ],
+      100,
+      1
+    ],
+    "3620": [
+      "3620",
+      "New York’s 20th district",
+      [
+        ["Paul", "Tonko", "Dem", 0.665, 176811, 1, 0, 1],
+        ["Joe", "Vitollo", "GOP", 0.335, 89058, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "3621": [
+      "3621",
+      "New York’s 21st district",
+      [
+        ["Elise", "Stefanik", "GOP", 0.561, 131981, 1, 0, 1],
+        ["Tedra", "Cobb", "Dem", 0.424, 99791, 0, 0, 0],
+        ["Lynn", "Kahn", "Grn", 0.015, 3437, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "3622": [
+      "3622",
+      "New York’s 22nd district",
+      [
+        ["Anthony", "Brindisi", "Dem", 0.509, 127715, 1, 0, 0],
+        ["Claudia", "Tenney", "GOP", 0.491, 123242, 0, 0, 1]
+      ],
+      100,
+      1
+    ],
+    "3623": [
+      "3623",
+      "New York’s 23rd district",
+      [
+        ["Thomas", "Reed", "GOP", 0.542, 130323, 1, 0, 1],
+        ["Tracy", "Mitrano", "Dem", 0.458, 109932, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "3624": [
+      "3624",
+      "New York’s 24th district",
+      [
+        ["John", "Katko", "GOP", 0.526, 136920, 1, 0, 1],
+        ["Dana", "Balter", "Dem", 0.474, 123226, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "3625": [
+      "3625",
+      "New York’s 25th district",
+      [
+        ["Joseph", "Morelle", "Dem", 0.59, 159244, 1, 0, 0],
+        ["Jim", "Maxwell", "GOP", 0.41, 110736, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "3626": [
+      "3626",
+      "New York’s 26th district",
+      [
+        ["Brian", "Higgins", "Dem", 0.733, 169166, 1, 0, 1],
+        ["Renee", "Zeno", "GOP", 0.267, 61488, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "3627": [
+      "3627",
+      "New York’s 27th district",
+      [
+        ["Chris", "Collins", "GOP", 0.491, 140146, 1, 0, 1],
+        ["Nate", "McMurray", "Dem", 0.488, 139059, 0, 0, 0],
+        ["Larry", "Piegza", "RP", 0.021, 5973, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "3701": [
+      "3701",
+      "North Carolina’s 1st district",
+      [
+        ["G.K.", "Butterfield", "Dem", 0.698, 190457, 1, 0, 1],
+        ["Roger", "Allison", "GOP", 0.302, 82218, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "3702": [
+      "3702",
+      "North Carolina’s 2nd district",
+      [
+        ["George", "Holding", "GOP", 0.513, 170072, 1, 0, 1],
+        ["Linda", "Coleman", "Dem", 0.458, 151977, 0, 0, 0],
+        ["Jeff", "Matemu", "Lib", 0.029, 9655, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "3703": [
+      "3703",
+      "North Carolina’s 3rd district",
+      [["Walter", "Jones", "GOP", 0, 0, 1, 1, 1]],
+      0,
+      0
+    ],
+    "3704": [
+      "3704",
+      "North Carolina’s 4th district",
+      [
+        ["David", "Price", "Dem", 0.724, 247067, 1, 0, 1],
+        ["Steve", "Loor", "GOP", 0.24, 82052, 0, 0, 0],
+        ["Barbara", "Howe", "Lib", 0.036, 12284, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "3705": [
+      "3705",
+      "North Carolina’s 5th district",
+      [
+        ["Virginia", "Foxx", "GOP", 0.57, 159917, 1, 0, 1],
+        ["DD", "Adams", "Dem", 0.43, 120468, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "3706": [
+      "3706",
+      "North Carolina’s 6th district",
+      [
+        ["Mark", "Walker", "GOP", 0.565, 160709, 1, 0, 1],
+        ["Ryan", "Watts", "Dem", 0.435, 123651, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "3707": [
+      "3707",
+      "North Carolina’s 7th district",
+      [
+        ["David", "Rouzer", "GOP", 0.555, 156809, 1, 0, 1],
+        ["Kyle", "Horton", "Dem", 0.428, 120838, 0, 0, 0],
+        ["David", "Fallin", "CST", 0.017, 4665, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "3708": [
+      "3708",
+      "North Carolina’s 8th district",
+      [
+        ["Richard", "Hudson", "GOP", 0.553, 141402, 1, 0, 1],
+        ["Frank", "McNeill", "Dem", 0.447, 114119, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "3709": [
+      "3709",
+      "North Carolina’s 9th district",
+      [
+        ["Mark", "Harris", "GOP", 0.493, 139246, 0, 0, 0],
+        ["Dan", "McCready", "Dem", 0.489, 138341, 0, 0, 0],
+        ["Jeff", "Scott", "Lib", 0.018, 5130, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "3710": [
+      "3710",
+      "North Carolina’s 10th district",
+      [
+        ["Patrick", "McHenry", "GOP", 0.593, 164969, 1, 0, 1],
+        ["David", "Brown", "Dem", 0.407, 113259, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "3711": [
+      "3711",
+      "North Carolina’s 11th district",
+      [
+        ["Mark", "Meadows", "GOP", 0.592, 178012, 1, 0, 1],
+        ["Phillip", "Price", "Dem", 0.387, 116508, 0, 0, 0],
+        ["Clifton", "Ingram", "Lib", 0.02, 6146, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "3712": [
+      "3712",
+      "North Carolina’s 12th district",
+      [
+        ["Alma", "Adams", "Dem", 0.731, 203974, 1, 0, 1],
+        ["Paul", "Wright", "GOP", 0.269, 75164, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "3713": [
+      "3713",
+      "North Carolina’s 13th district",
+      [
+        ["Ted", "Budd", "GOP", 0.515, 147570, 1, 0, 1],
+        ["Kathy", "Manning", "Dem", 0.455, 130402, 0, 0, 0],
+        ["Tom", "Bailey", "Lib", 0.019, 5513, 0, 0, 0],
+        ["Robert", "Corriher", "Grn", 0.01, 2831, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "3800": [
+      "3800",
+      "North Dakota’s 1st district",
+      [
+        ["Kelly", "Armstrong", "GOP", 0.603, 193568, 1, 0, 0],
+        ["Mac", "Schneider", "Dem", 0.356, 114377, 0, 0, 0],
+        ["Charles", "Tuttle", "Ind", 0.041, 13066, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "3901": [
+      "3901",
+      "Ohio’s 1st district",
+      [
+        ["Steve", "Chabot", "GOP", 0.513, 154409, 1, 0, 1],
+        ["Aftab", "Pureval", "Dem", 0.469, 141118, 0, 0, 0],
+        ["Dirk", "Kubala", "Lib", 0.018, 5339, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "3902": [
+      "3902",
+      "Ohio’s 2nd district",
+      [
+        ["Brad", "Wenstrup", "GOP", 0.576, 166714, 1, 0, 1],
+        ["Jill", "Schiller", "Dem", 0.412, 119333, 0, 0, 0],
+        ["James", "Condit", "Grn", 0.012, 3606, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "3903": [
+      "3903",
+      "Ohio’s 3rd district",
+      [
+        ["Joyce", "Beatty", "Dem", 0.736, 181575, 1, 0, 1],
+        ["Jim", "Burgess", "GOP", 0.264, 65040, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "3904": [
+      "3904",
+      "Ohio’s 4th district",
+      [
+        ["Jim", "Jordan", "GOP", 0.653, 167993, 1, 0, 1],
+        ["Janet", "Garrett", "Dem", 0.347, 89412, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "3905": [
+      "3905",
+      "Ohio’s 5th district",
+      [
+        ["Bob", "Latta", "GOP", 0.623, 176569, 1, 0, 1],
+        ["Michael", "Galbraith", "Dem", 0.351, 99655, 0, 0, 0],
+        ["Don", "Kissick", "Lib", 0.026, 7393, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "3906": [
+      "3906",
+      "Ohio’s 6th district",
+      [
+        ["Bill", "Johnson", "GOP", 0.693, 172774, 1, 0, 1],
+        ["Shawna", "Roberts", "Dem", 0.307, 76716, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "3907": [
+      "3907",
+      "Ohio’s 7th district",
+      [
+        ["Bob", "Gibbs", "GOP", 0.587, 153117, 1, 0, 1],
+        ["Ken", "Harbaugh", "Dem", 0.413, 107536, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "3908": [
+      "3908",
+      "Ohio’s 8th district",
+      [
+        ["Warren", "Davidson", "GOP", 0.665, 177892, 1, 0, 1],
+        ["Vanessa", "Enoch", "Dem", 0.335, 89451, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "3909": [
+      "3909",
+      "Ohio’s 9th district",
+      [
+        ["Marcy", "Kaptur", "Dem", 0.678, 157219, 1, 0, 1],
+        ["Steven", "Kraus", "GOP", 0.322, 74670, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "3910": [
+      "3910",
+      "Ohio’s 10th district",
+      [
+        ["Mike", "Turner", "GOP", 0.559, 157554, 1, 0, 1],
+        ["Theresa", "Gasper", "Dem", 0.422, 118785, 0, 0, 0],
+        ["David", "Harlow", "Lib", 0.019, 5387, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "3911": [
+      "3911",
+      "Ohio’s 11th district",
+      [
+        ["Marcia", "Fudge", "Dem", 0.822, 206138, 1, 0, 1],
+        ["Beverly", "Goldstein", "GOP", 0.178, 44486, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "3912": [
+      "3912",
+      "Ohio’s 12th district",
+      [
+        ["Troy", "Balderson", "GOP", 0.514, 175677, 1, 0, 1],
+        ["Danny", "O'Connor", "Dem", 0.472, 161251, 0, 0, 0],
+        ["Joe", "Manchik", "Grn", 0.014, 4718, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "3913": [
+      "3913",
+      "Ohio’s 13th district",
+      [
+        ["Tim", "Ryan", "Dem", 0.61, 153323, 1, 0, 1],
+        ["Chris", "DePizzo", "GOP", 0.39, 98047, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "3914": [
+      "3914",
+      "Ohio’s 14th district",
+      [
+        ["David", "Joyce", "GOP", 0.552, 169809, 1, 0, 1],
+        ["Betsy", "Rader", "Dem", 0.448, 137549, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "3915": [
+      "3915",
+      "Ohio’s 15th district",
+      [
+        ["Steve", "Stivers", "GOP", 0.583, 170593, 1, 0, 1],
+        ["Rick", "Neal", "Dem", 0.397, 116112, 0, 0, 0],
+        ["Johnathan", "Miller", "Lib", 0.02, 5738, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "3916": [
+      "3916",
+      "Ohio’s 16th district",
+      [
+        ["Anthony", "Gonzalez", "GOP", 0.567, 170029, 1, 0, 0],
+        ["Susan Moran", "Palmer", "Dem", 0.433, 129681, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "4001": [
+      "4001",
+      "Oklahoma’s 1st district",
+      [
+        ["Kevin", "Hern", "GOP", 0.593, 150129, 1, 0, 0],
+        ["Tim", "Gilpin", "Dem", 0.407, 103042, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "4002": [
+      "4002",
+      "Oklahoma’s 2nd district",
+      [
+        ["Markwayne", "Mullin", "GOP", 0.65, 140451, 1, 0, 1],
+        ["Jason", "Nichols", "Dem", 0.301, 65021, 0, 0, 0],
+        ["John", "Foreman", "Ind", 0.03, 6390, 0, 0, 0],
+        ["Richard", "Castaldo", "Lib", 0.019, 4140, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "4003": [
+      "4003",
+      "Oklahoma’s 3rd district",
+      [
+        ["Frank", "Lucas", "GOP", 0.739, 172913, 1, 0, 1],
+        ["Frankie", "Robbins", "Dem", 0.261, 61152, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "4004": [
+      "4004",
+      "Oklahoma’s 4th district",
+      [
+        ["Tom", "Cole", "GOP", 0.631, 149227, 1, 0, 1],
+        ["Mary", "Brannon", "Dem", 0.33, 78088, 0, 0, 0],
+        ["Ruby", "Peters", "Ind", 0.039, 9323, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "4005": [
+      "4005",
+      "Oklahoma’s 5th district",
+      [
+        ["Kendra", "Horn", "Dem", 0.507, 121149, 1, 0, 0],
+        ["Steve", "Russell", "GOP", 0.493, 117811, 0, 0, 1]
+      ],
+      100,
+      1
+    ],
+    "4101": [
+      "4101",
+      "Oregon’s 1st district",
+      [
+        ["Suzanne", "Bonamici", "Dem", 0.637, 231198, 1, 0, 1],
+        ["John", "Verbeek", "GOP", 0.321, 116446, 0, 0, 0],
+        ["Drew", "Layda", "PAG", 0.042, 15121, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "4102": [
+      "4102",
+      "Oregon’s 2nd district",
+      [
+        ["Greg", "Walden", "GOP", 0.563, 207597, 1, 0, 1],
+        ["Jamie", "McLeod-Skinner", "Dem", 0.394, 145298, 0, 0, 0],
+        ["Mark", "Roberts", "IP", 0.042, 15536, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "4103": [
+      "4103",
+      "Oregon’s 3rd district",
+      [
+        ["Earl", "Blumenauer", "Dem", 0.727, 279019, 1, 0, 1],
+        ["Tom", "Harrison", "GOP", 0.199, 76187, 0, 0, 0],
+        ["Marc", "Koller", "IP", 0.056, 21352, 0, 0, 0],
+        ["Gary", "Dye", "Lib", 0.015, 5767, 0, 0, 0],
+        ["Michael", "Marsh", "CST", 0.004, 1487, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "4104": [
+      "4104",
+      "Oregon’s 4th district",
+      [
+        ["Peter", "DeFazio", "Dem", 0.56, 208710, 1, 0, 1],
+        ["Art", "Robinson", "GOP", 0.409, 152414, 0, 0, 0],
+        ["Mike", "Beilstein", "PAG", 0.016, 5956, 0, 0, 0],
+        ["Richard", "Jacobson", "Lib", 0.014, 5370, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "4105": [
+      "4105",
+      "Oregon’s 5th district",
+      [
+        ["Kurt", "Schrader", "Dem", 0.551, 197187, 1, 0, 1],
+        ["Mark", "Callahan", "GOP", 0.419, 149887, 0, 0, 0],
+        ["Dan", "Souza", "Lib", 0.017, 6054, 0, 0, 0],
+        ["Marvin", "Sandnes", "PAG", 0.013, 4802, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "4201": [
+      "4201",
+      "Pennsylvania’s 1st district",
+      [
+        ["Brian", "Fitzpatrick", "GOP", 0.513, 169053, 1, 0, 1],
+        ["Scott", "Wallace", "Dem", 0.487, 160745, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "4202": [
+      "4202",
+      "Pennsylvania’s 2nd district",
+      [
+        ["Brendan", "Boyle", "Dem", 0.79, 159600, 1, 0, 1],
+        ["David", "Torres", "GOP", 0.21, 42382, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "4203": [
+      "4203",
+      "Pennsylvania’s 3rd district",
+      [
+        ["Dwight", "Evans", "Dem", 0.934, 287610, 1, 0, 1],
+        ["Bryan", "Leib", "GOP", 0.066, 20387, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "4204": [
+      "4204",
+      "Pennsylvania’s 4th district",
+      [
+        ["Madeleine", "Dean", "Dem", 0.635, 211524, 1, 0, 0],
+        ["Dan", "David", "GOP", 0.365, 121467, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "4205": [
+      "4205",
+      "Pennsylvania’s 5th district",
+      [
+        ["Mary", "Scanlon", "Dem", 0.652, 198639, 1, 0, 0],
+        ["Pearl", "Kim", "GOP", 0.348, 106075, 0, 0, 0]
+      ],
+      100,
+      1
+    ],
+    "4206": [
+      "4206",
+      "Pennsylvania’s 6th district",
+      [
+        ["Chrissy", "Houlahan", "Dem", 0.589, 177704, 1, 0, 0],
+        ["Greg", "McCauley", "GOP", 0.411, 124124, 0, 0, 0]
+      ],
+      100,
+      1
+    ],
+    "4207": [
+      "4207",
+      "Pennsylvania’s 7th district",
+      [
+        ["Susan", "Wild", "Dem", 0.535, 140813, 1, 0, 0],
+        ["Marty", "Nothstein", "GOP", 0.435, 114437, 0, 0, 0],
+        ["Tim", "Silfies", "Lib", 0.03, 8011, 0, 0, 0]
+      ],
+      100,
+      1
+    ],
+    "4208": [
+      "4208",
+      "Pennsylvania’s 8th district",
+      [
+        ["Matt", "Cartwright", "Dem", 0.546, 135603, 1, 0, 1],
+        ["John", "Chrin", "GOP", 0.454, 112563, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "4209": [
+      "4209",
+      "Pennsylvania’s 9th district",
+      [
+        ["Dan", "Meuser", "GOP", 0.597, 148723, 1, 0, 0],
+        ["Denny", "Wolff", "Dem", 0.403, 100204, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "4210": [
+      "4210",
+      "Pennsylvania’s 10th district",
+      [
+        ["Scott", "Perry", "GOP", 0.513, 149365, 1, 0, 1],
+        ["George", "Scott", "Dem", 0.487, 141668, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "4211": [
+      "4211",
+      "Pennsylvania’s 11th district",
+      [
+        ["Lloyd", "Smucker", "GOP", 0.59, 163708, 1, 0, 1],
+        ["Jess", "King", "Dem", 0.41, 113876, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "4212": [
+      "4212",
+      "Pennsylvania’s 12th district",
+      [
+        ["Tom", "Marino", "GOP", 0.66, 161047, 1, 0, 1],
+        ["Marc", "Friedenberg", "Dem", 0.34, 82825, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "4213": [
+      "4213",
+      "Pennsylvania’s 13th district",
+      [
+        ["John", "Joyce", "GOP", 0.705, 178533, 1, 0, 0],
+        ["Brent", "Ottaway", "Dem", 0.295, 74733, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "4214": [
+      "4214",
+      "Pennsylvania’s 14th district",
+      [
+        ["Guy", "Reschenthaler", "GOP", 0.579, 151386, 1, 0, 0],
+        ["Bibiana", "Boerio", "Dem", 0.421, 110051, 0, 0, 0]
+      ],
+      100,
+      1
+    ],
+    "4215": [
+      "4215",
+      "Pennsylvania’s 15th district",
+      [
+        ["Glenn", "Thompson", "GOP", 0.678, 165245, 1, 0, 1],
+        ["Susan", "Boser", "Dem", 0.322, 78327, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "4216": [
+      "4216",
+      "Pennsylvania’s 16th district",
+      [
+        ["Mike", "Kelly", "GOP", 0.516, 135348, 1, 0, 1],
+        ["Ron", "DiNicola", "Dem", 0.473, 124109, 0, 0, 0],
+        ["Bill", "Beeman", "Lib", 0.011, 2939, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "4217": [
+      "4217",
+      "Pennsylvania’s 17th district",
+      [
+        ["Conor", "Lamb", "Dem", 0.563, 183162, 1, 0, 1],
+        ["Keith", "Rothfus", "GOP", 0.437, 142417, 0, 0, 1]
+      ],
+      100,
+      1
+    ],
+    "4218": [
+      "4218",
+      "Pennsylvania’s 18th district",
+      [["Mike", "Doyle", "Dem", 0, 0, 1, 1, 1]],
+      0,
+      0
+    ],
+    "4401": [
+      "4401",
+      "Rhode Island’s 1st district",
+      [
+        ["David", "Cicilline", "Dem", 0.669, 116099, 1, 0, 1],
+        ["Patrick", "Donovan", "GOP", 0.331, 57567, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "4402": [
+      "4402",
+      "Rhode Island’s 2nd district",
+      [
+        ["James", "Langevin", "Dem", 0.636, 126476, 1, 0, 1],
+        ["Salvatore", "Caiozzo", "GOP", 0.364, 72271, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "4501": [
+      "4501",
+      "South Carolina’s 1st district",
+      [
+        ["Joe", "Cunningham", "Dem", 0.507, 145455, 1, 0, 0],
+        ["Katie", "Arrington", "GOP", 0.493, 141473, 0, 0, 0]
+      ],
+      100,
+      1
+    ],
+    "4502": [
+      "4502",
+      "South Carolina’s 2nd district",
+      [
+        ["Joe", "Wilson", "GOP", 0.563, 144642, 1, 0, 1],
+        ["Sean", "Carrigan", "Dem", 0.425, 109199, 0, 0, 0],
+        ["Sonny", "Narang", "Amr", 0.012, 3111, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "4503": [
+      "4503",
+      "South Carolina’s 3rd district",
+      [
+        ["Jeff", "Duncan", "GOP", 0.678, 153338, 1, 0, 1],
+        ["Mary", "Geren", "Dem", 0.31, 70046, 0, 0, 0],
+        ["Dave", "Moore", "Amr", 0.012, 2697, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "4504": [
+      "4504",
+      "South Carolina’s 4th district",
+      [
+        ["William", "Timmons", "GOP", 0.596, 145321, 1, 0, 0],
+        ["Brandon", "Brown", "Dem", 0.366, 89182, 0, 0, 0],
+        ["Guy", "Furay", "Amr", 0.038, 9203, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "4505": [
+      "4505",
+      "South Carolina’s 5th district",
+      [
+        ["Ralph", "Norman", "GOP", 0.571, 141757, 1, 0, 1],
+        ["Archie", "Parnell", "Dem", 0.415, 103129, 0, 0, 0],
+        ["Michael", "Chandler", "CST", 0.014, 3443, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "4506": [
+      "4506",
+      "South Carolina’s 6th district",
+      [
+        ["Jim", "Clyburn", "Dem", 0.702, 144765, 1, 0, 1],
+        ["Gerhard", "Gressmann", "GOP", 0.283, 58282, 0, 0, 0],
+        ["Bryan", "Pugh", "Grn", 0.016, 3214, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "4507": [
+      "4507",
+      "South Carolina’s 7th district",
+      [
+        ["Tom", "Rice", "GOP", 0.596, 142681, 1, 0, 1],
+        ["Robert", "Williams", "Dem", 0.404, 96564, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "4600": [
+      "4600",
+      "South Dakota’s 1st district",
+      [
+        ["Dusty", "Johnson", "GOP", 0.603, 202695, 1, 0, 0],
+        ["Tim", "Bjorkman", "Dem", 0.36, 121033, 0, 0, 0],
+        ["Ron", "Wieczorek", "Ind", 0.022, 7323, 0, 0, 0],
+        ["George", "Hendrickson", "Lib", 0.015, 4914, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "4701": [
+      "4701",
+      "Tennessee’s 1st district",
+      [
+        ["Phil", "Roe", "GOP", 0.771, 172835, 1, 0, 1],
+        ["Marty", "Olsen", "Dem", 0.21, 47138, 0, 0, 0],
+        ["Michael", "Salyer", "Ind", 0.019, 4309, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "4702": [
+      "4702",
+      "Tennessee’s 2nd district",
+      [
+        ["Tim", "Burchett", "GOP", 0.659, 172856, 1, 0, 0],
+        ["Renee", "Hoyos", "Dem", 0.331, 86668, 0, 0, 0],
+        ["Greg", "Samples", "Ind", 0.004, 967, 0, 0, 0],
+        ["Jeffrey", "Grunau", "Ind", 0.003, 657, 0, 0, 0],
+        ["Marc", "Whitmire", "Ind", 0.002, 637, 0, 0, 0],
+        ["Keith", "LaTorre", "Ind", 0.001, 349, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "4703": [
+      "4703",
+      "Tennessee’s 3rd district",
+      [
+        ["Chuck", "Fleischmann", "GOP", 0.637, 156512, 1, 0, 1],
+        ["Danielle", "Mitchell", "Dem", 0.345, 84731, 0, 0, 0],
+        ["Rick", "Tyler", "Ind", 0.018, 4522, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "4704": [
+      "4704",
+      "Tennessee’s 4th district",
+      [
+        ["Scott", "DesJarlais", "GOP", 0.634, 147323, 1, 0, 1],
+        ["Mariah", "Phillips", "Dem", 0.336, 78065, 0, 0, 0],
+        ["Michael", "Shupe", "Ind", 0.03, 7056, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "4705": [
+      "4705",
+      "Tennessee’s 5th district",
+      [
+        ["Jim", "Cooper", "Dem", 0.678, 177923, 1, 0, 1],
+        ["Jody", "Ball", "GOP", 0.322, 84317, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "4706": [
+      "4706",
+      "Tennessee’s 6th district",
+      [
+        ["John", "Rose", "GOP", 0.695, 172810, 1, 0, 0],
+        ["Dawn", "Barlow", "Dem", 0.283, 70370, 0, 0, 0],
+        ["David", "Ross", "Ind", 0.014, 3426, 0, 0, 0],
+        ["Lloyd", "Dunn", "Ind", 0.009, 2134, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "4707": [
+      "4707",
+      "Tennessee’s 7th district",
+      [
+        ["Mark", "Green", "GOP", 0.669, 170071, 1, 0, 0],
+        ["Justin", "Kanew", "Dem", 0.321, 81661, 0, 0, 0],
+        ["Lenny", "Ladner", "Ind", 0.006, 1582, 0, 0, 0],
+        ["Brent", "Legendre", "Ind", 0.004, 1070, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "4708": [
+      "4708",
+      "Tennessee’s 8th district",
+      [
+        ["David", "Kustoff", "GOP", 0.677, 168030, 1, 0, 1],
+        ["Erika", "Pearson", "Dem", 0.301, 74755, 0, 0, 0],
+        ["James", "Hart", "Ind", 0.022, 5560, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "4709": [
+      "4709",
+      "Tennessee’s 9th district",
+      [
+        ["Steve", "Cohen", "Dem", 0.8, 145139, 1, 0, 1],
+        ["Charlotte", "Bergmann", "GOP", 0.192, 34901, 0, 0, 0],
+        ["Leo", "AwGoWhat", "Ind", 0.008, 1436, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "4801": [
+      "4801",
+      "Texas’ 1st district",
+      [
+        ["Louie", "Gohmert", "GOP", 0.723, 168165, 1, 0, 1],
+        ["Shirley", "McKellar", "Dem", 0.263, 61263, 0, 0, 0],
+        ["Jeff", "Callaway", "Lib", 0.014, 3292, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "4802": [
+      "4802",
+      "Texas’ 2nd district",
+      [
+        ["Dan", "Crenshaw", "GOP", 0.528, 139188, 1, 0, 0],
+        ["Todd", "Litton", "Dem", 0.456, 119992, 0, 0, 0],
+        ["Patrick", "Gunnels", "Lib", 0.009, 2373, 0, 0, 0],
+        ["Scott", "Cubbler", "Ind", 0.007, 1839, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "4803": [
+      "4803",
+      "Texas’ 3rd district",
+      [
+        ["Van", "Taylor", "GOP", 0.543, 169520, 1, 0, 0],
+        ["Lorie", "Burch", "Dem", 0.443, 138234, 0, 0, 0],
+        ["Christopher", "Claytor", "Lib", 0.015, 4604, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "4804": [
+      "4804",
+      "Texas’ 4th district",
+      [
+        ["John", "Ratcliffe", "GOP", 0.757, 188667, 1, 0, 1],
+        ["Catherine", "Krantz", "Dem", 0.23, 57400, 0, 0, 0],
+        ["Ken", "Ashby", "Lib", 0.013, 3178, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "4805": [
+      "4805",
+      "Texas’ 5th district",
+      [
+        ["Lance", "Gooden", "GOP", 0.624, 130617, 1, 0, 0],
+        ["Dan", "Wood", "Dem", 0.376, 78666, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "4806": [
+      "4806",
+      "Texas’ 6th district",
+      [
+        ["Ron", "Wright", "GOP", 0.531, 135961, 1, 0, 0],
+        ["Jana Lynne", "Sanchez", "Dem", 0.454, 116350, 0, 0, 0],
+        ["Jason", "Harber", "Lib", 0.015, 3731, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "4807": [
+      "4807",
+      "Texas’ 7th district",
+      [
+        ["Lizzie", "Fletcher", "Dem", 0.525, 127959, 1, 0, 0],
+        ["John", "Culberson", "GOP", 0.475, 115642, 0, 0, 1]
+      ],
+      100,
+      1
+    ],
+    "4808": [
+      "4808",
+      "Texas’ 8th district",
+      [
+        ["Kevin", "Brady", "GOP", 0.734, 200619, 1, 0, 1],
+        ["Steven", "David", "Dem", 0.249, 67930, 0, 0, 0],
+        ["Chris", "Duncan", "Lib", 0.017, 4621, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "4809": [
+      "4809",
+      "Texas’ 9th district",
+      [
+        ["Al", "Green", "Dem", 0.891, 136256, 1, 0, 1],
+        ["Phil", "Kurtz", "Lib", 0.039, 5940, 0, 0, 0],
+        ["Benjamin", "Hernandez", "Ind", 0.038, 5774, 0, 0, 0],
+        ["Kesha", "Rogers", "Ind", 0.033, 5031, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "4810": [
+      "4810",
+      "Texas’ 10th district",
+      [
+        ["Michael", "McCaul", "GOP", 0.511, 157166, 1, 0, 1],
+        ["Mike", "Siegel", "Dem", 0.468, 144034, 0, 0, 0],
+        ["Mike", "Ryan", "Lib", 0.022, 6627, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "4811": [
+      "4811",
+      "Texas’ 11th district",
+      [
+        ["Mike", "Conaway", "GOP", 0.801, 176603, 1, 0, 1],
+        ["Jennie Lou", "Leeder", "Dem", 0.184, 40631, 0, 0, 0],
+        ["Rhett", "Smith", "Lib", 0.014, 3143, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "4812": [
+      "4812",
+      "Texas’ 12th district",
+      [
+        ["Kay", "Granger", "GOP", 0.643, 172557, 1, 0, 1],
+        ["Vanessa", "Adia", "Dem", 0.339, 90994, 0, 0, 0],
+        ["Jacob", "Leddy", "Lib", 0.018, 4940, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "4813": [
+      "4813",
+      "Texas’ 13th district",
+      [
+        ["Mac", "Thornberry", "GOP", 0.815, 169027, 1, 0, 1],
+        ["Greg", "Sagan", "Dem", 0.169, 35083, 0, 0, 0],
+        ["Calvin", "DeWeese", "Lib", 0.015, 3175, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "4814": [
+      "4814",
+      "Texas’ 14th district",
+      [
+        ["Randy", "Weber", "GOP", 0.592, 138942, 1, 0, 1],
+        ["Adrienne", "Bell", "Dem", 0.393, 92212, 0, 0, 0],
+        ["Don", "Conley", "Lib", 0.014, 3374, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "4815": [
+      "4815",
+      "Texas’ 15th district",
+      [
+        ["Vicente", "Gonzalez", "Dem", 0.597, 98333, 1, 0, 1],
+        ["Tim", "Westley", "GOP", 0.388, 63862, 0, 0, 0],
+        ["Anthony", "Cristo", "Lib", 0.016, 2607, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "4816": [
+      "4816",
+      "Texas’ 16th district",
+      [
+        ["Veronica", "Escobar", "Dem", 0.685, 124437, 1, 0, 0],
+        ["Rick", "Seeberger", "GOP", 0.27, 49127, 0, 0, 0],
+        ["Ben", "Mendoza", "Ind", 0.045, 8147, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "4817": [
+      "4817",
+      "Texas’ 17th district",
+      [
+        ["Bill", "Flores", "GOP", 0.568, 134841, 1, 0, 1],
+        ["Rick", "Kennedy", "Dem", 0.413, 98070, 0, 0, 0],
+        ["Peter", "Churchman", "Lib", 0.019, 4440, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "4818": [
+      "4818",
+      "Texas’ 18th district",
+      [
+        ["Sheila", "Jackson Lee", "Dem", 0.752, 138704, 1, 0, 1],
+        ["Ava", "Pate", "GOP", 0.208, 38368, 0, 0, 0],
+        ["Luke", "Spencer", "Lib", 0.022, 4067, 0, 0, 0],
+        ["Vince", "Duncan", "Ind", 0.017, 3193, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "4819": [
+      "4819",
+      "Texas’ 19th district",
+      [
+        ["Jodey", "Arrington", "GOP", 0.752, 151946, 1, 0, 1],
+        ["Miguel", "Levario", "Dem", 0.248, 50039, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "4820": [
+      "4820",
+      "Texas’ 20th district",
+      [
+        ["Joaquin", "Castro", "Dem", 0.809, 139038, 1, 0, 1],
+        ["Jeffrey", "Blunt", "Lib", 0.191, 32925, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "4821": [
+      "4821",
+      "Texas’ 21st district",
+      [
+        ["Chip", "Roy", "GOP", 0.502, 177654, 1, 0, 0],
+        ["Joseph", "Kopser", "Dem", 0.476, 168421, 0, 0, 0],
+        ["Lee", "Santos", "Lib", 0.021, 7542, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "4822": [
+      "4822",
+      "Texas’ 22nd district",
+      [
+        ["Pete", "Olson", "GOP", 0.514, 152750, 1, 0, 1],
+        ["Sri", "Kulkarni", "Dem", 0.465, 138153, 0, 0, 0],
+        ["John", "McElligott", "Lib", 0.011, 3261, 0, 0, 0],
+        ["Kellen", "Sweny", "Ind", 0.011, 3241, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "4823": [
+      "4823",
+      "Texas’ 23rd district",
+      [
+        ["Will", "Hurd", "GOP", 0.492, 103285, 1, 0, 1],
+        ["Gina", "Ortiz Jones", "Dem", 0.487, 102359, 0, 0, 0],
+        ["Ruben", "Corvalan", "Lib", 0.021, 4425, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "4824": [
+      "4824",
+      "Texas’ 24th district",
+      [
+        ["Kenny", "Marchant", "GOP", 0.506, 133317, 1, 0, 1],
+        ["Jan", "McDowell", "Dem", 0.475, 125231, 0, 0, 0],
+        ["Mike", "Kolls", "Lib", 0.018, 4870, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "4825": [
+      "4825",
+      "Texas’ 25th district",
+      [
+        ["Roger", "Williams", "GOP", 0.535, 163023, 1, 0, 1],
+        ["Julie", "Oliver", "Dem", 0.448, 136385, 0, 0, 0],
+        ["Desarae", "Lindsey", "Lib", 0.017, 5145, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "4826": [
+      "4826",
+      "Texas’ 26th district",
+      [
+        ["Michael", "Burgess", "GOP", 0.594, 185551, 1, 0, 1],
+        ["Linsey", "Fagan", "Dem", 0.39, 121938, 0, 0, 0],
+        ["Mark", "Boler", "Lib", 0.016, 5016, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "4827": [
+      "4827",
+      "Texas’ 27th district",
+      [
+        ["Michael", "Cloud", "GOP", 0.603, 125118, 1, 0, 1],
+        ["Eric", "Holguin", "Dem", 0.366, 75929, 0, 0, 0],
+        ["James", "Duerr", "Ind", 0.021, 4274, 0, 0, 0],
+        ["Daniel", "Tinus", "Lib", 0.01, 2100, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "4828": [
+      "4828",
+      "Texas’ 28th district",
+      [
+        ["Henry", "Cuellar", "Dem", 0.844, 117494, 1, 0, 1],
+        ["Arthur", "Thomas", "Lib", 0.156, 21732, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "4829": [
+      "4829",
+      "Texas’ 29th district",
+      [
+        ["Sylvia", "Garcia", "Dem", 0.751, 88188, 1, 0, 0],
+        ["Phillip", "Aronoff", "GOP", 0.239, 28098, 0, 0, 0],
+        ["Cullen", "Burns", "Lib", 0.01, 1199, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "4830": [
+      "4830",
+      "Texas’ 30th district",
+      [
+        ["Eddie Bernice", "Johnson", "Dem", 0.911, 166784, 1, 0, 1],
+        ["Shawn", "Jones", "Lib", 0.089, 16390, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "4831": [
+      "4831",
+      "Texas’ 31st district",
+      [
+        ["John", "Carter", "GOP", 0.506, 144680, 1, 0, 1],
+        ["Mary", "Hegar", "Dem", 0.477, 136362, 0, 0, 0],
+        ["Jason", "Hope", "Lib", 0.017, 4965, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "4832": [
+      "4832",
+      "Texas’ 32nd district",
+      [
+        ["Colin", "Allred", "Dem", 0.523, 144067, 1, 0, 0],
+        ["Pete", "Sessions", "GOP", 0.458, 126101, 0, 0, 1],
+        ["Melina", "Baker", "Lib", 0.02, 5452, 0, 0, 0]
+      ],
+      100,
+      1
+    ],
+    "4833": [
+      "4833",
+      "Texas’ 33rd district",
+      [
+        ["Marc", "Veasey", "Dem", 0.762, 90805, 1, 0, 1],
+        ["Willie", "Billups", "GOP", 0.219, 26120, 0, 0, 0],
+        ["Jason", "Reeves", "Lib", 0.019, 2299, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "4834": [
+      "4834",
+      "Texas’ 34th district",
+      [
+        ["Filemon", "Vela", "Dem", 0.6, 85825, 1, 0, 1],
+        ["Rey", "Gonzalez", "GOP", 0.4, 57243, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "4835": [
+      "4835",
+      "Texas’ 35th district",
+      [
+        ["Lloyd", "Doggett", "Dem", 0.713, 138278, 1, 0, 1],
+        ["David", "Smalling", "GOP", 0.26, 50553, 0, 0, 0],
+        ["Clark", "Patterson", "Lib", 0.027, 5236, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "4836": [
+      "4836",
+      "Texas’ 36th district",
+      [
+        ["Brian", "Babin", "GOP", 0.726, 161048, 1, 0, 1],
+        ["Dayna", "Steele", "Dem", 0.274, 60908, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "4901": [
+      "4901",
+      "Utah’s 1st district",
+      [
+        ["Rob", "Bishop", "GOP", 0.616, 156692, 1, 0, 1],
+        ["Lee", "Castillo", "Dem", 0.249, 63308, 0, 0, 0],
+        ["Eric", "Eliason", "UUT", 0.116, 29547, 0, 0, 0],
+        ["Adam", "Davis", "Grn", 0.019, 4786, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "4902": [
+      "4902",
+      "Utah’s 2nd district",
+      [
+        ["Chris", "Stewart", "GOP", 0.561, 151489, 1, 0, 1],
+        ["Shireen", "Ghorbani", "Dem", 0.389, 105051, 0, 0, 0],
+        ["Jeffrey", "Whipple", "Lib", 0.05, 13504, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "4903": [
+      "4903",
+      "Utah’s 3rd district",
+      [
+        ["John", "Curtis", "GOP", 0.675, 174856, 1, 0, 1],
+        ["James", "Singer", "Dem", 0.273, 70686, 0, 0, 0],
+        ["Gregory", "Duerden", "IAP", 0.026, 6686, 0, 0, 0],
+        ["Timothy", "Zeidner", "UUT", 0.026, 6630, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "4904": [
+      "4904",
+      "Utah’s 4th district",
+      [
+        ["Ben", "McAdams", "Dem", 0.501, 134964, 1, 0, 0],
+        ["Mia", "Love", "GOP", 0.499, 134270, 0, 0, 1]
+      ],
+      100,
+      1
+    ],
+    "5000": [
+      "5000",
+      "Vermont’s 1st district",
+      [
+        ["Peter", "Welch", "Dem", 0.692, 188547, 1, 0, 1],
+        ["Anya", "Tynio", "GOP", 0.26, 70705, 0, 0, 0],
+        ["Cris", "Ericson", "Ind", 0.033, 9110, 0, 0, 0],
+        ["Laura", "Potter", "LUn", 0.014, 3924, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "5101": [
+      "5101",
+      "Virginia’s 1st district",
+      [
+        ["Rob", "Wittman", "GOP", 0.552, 183250, 1, 0, 1],
+        ["Vangie", "Williams", "Dem", 0.448, 148464, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "5102": [
+      "5102",
+      "Virginia’s 2nd district",
+      [
+        ["Elaine", "Luria", "Dem", 0.511, 139571, 1, 0, 0],
+        ["Scott", "Taylor", "GOP", 0.489, 133458, 0, 0, 1]
+      ],
+      100,
+      1
+    ],
+    "5103": [
+      "5103",
+      "Virginia’s 3rd district",
+      [["Bobby", "Scott", "Dem", 0, 0, 1, 1, 1]],
+      0,
+      0
+    ],
+    "5104": [
+      "5104",
+      "Virginia’s 4th district",
+      [
+        ["Donald", "McEachin", "Dem", 0.626, 187642, 1, 0, 1],
+        ["Ryan", "McAdams", "GOP", 0.36, 107706, 0, 0, 0],
+        ["Pete", "Wells", "Lib", 0.014, 4233, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "5105": [
+      "5105",
+      "Virginia’s 5th district",
+      [
+        ["Denver", "Riggleman", "GOP", 0.533, 165339, 1, 0, 0],
+        ["Leslie", "Cockburn", "Dem", 0.467, 145040, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "5106": [
+      "5106",
+      "Virginia’s 6th district",
+      [
+        ["Ben", "Cline", "GOP", 0.598, 167957, 1, 0, 0],
+        ["Jennifer", "Lewis", "Dem", 0.402, 113133, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "5107": [
+      "5107",
+      "Virginia’s 7th district",
+      [
+        ["Abigail", "Spanberger", "Dem", 0.504, 176079, 1, 0, 0],
+        ["Dave", "Brat", "GOP", 0.484, 169295, 0, 0, 1],
+        ["Joseph", "Walton", "Lib", 0.012, 4216, 0, 0, 0]
+      ],
+      100,
+      1
+    ],
+    "5108": [
+      "5108",
+      "Virginia’s 8th district",
+      [
+        ["Donald", "Beyer", "Dem", 0.763, 247137, 1, 0, 1],
+        ["Thomas", "Oh", "GOP", 0.237, 76899, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "5109": [
+      "5109",
+      "Virginia’s 9th district",
+      [
+        ["Morgan", "Griffith", "GOP", 0.652, 160933, 1, 0, 1],
+        ["Anthony", "Flaccavento", "Dem", 0.348, 85833, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "5110": [
+      "5110",
+      "Virginia’s 10th district",
+      [
+        ["Jennifer", "Wexton", "Dem", 0.562, 206356, 1, 0, 0],
+        ["Barbara", "Comstock", "GOP", 0.438, 160841, 0, 0, 1]
+      ],
+      100,
+      1
+    ],
+    "5111": [
+      "5111",
+      "Virginia’s 11th district",
+      [
+        ["Gerry", "Connolly", "Dem", 0.712, 219191, 1, 0, 1],
+        ["Jeff", "Dove", "GOP", 0.27, 83023, 0, 0, 0],
+        ["Stevan", "Porter", "Lib", 0.018, 5546, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "5301": [
+      "5301",
+      "Washington’s 1st district",
+      [
+        ["Suzan", "DelBene", "Dem", 0.593, 197209, 1, 0, 1],
+        ["Jeffrey", "Beeler", "GOP", 0.407, 135534, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "5302": [
+      "5302",
+      "Washington’s 2nd district",
+      [
+        ["Rick", "Larsen", "Dem", 0.713, 210187, 1, 0, 1],
+        ["Brian", "Luke", "Lib", 0.287, 84646, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "5303": [
+      "5303",
+      "Washington’s 3rd district",
+      [
+        ["Jaime", "Herrera Beutler", "GOP", 0.527, 161819, 1, 0, 1],
+        ["Carolyn", "Long", "Dem", 0.473, 145407, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "5304": [
+      "5304",
+      "Washington’s 4th district",
+      [
+        ["Dan", "Newhouse", "GOP", 0.628, 141551, 1, 0, 1],
+        ["Christine", "Brown", "Dem", 0.372, 83785, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "5305": [
+      "5305",
+      "Washington’s 5th district",
+      [
+        ["Cathy", "McMorris Rodgers", "GOP", 0.548, 175422, 1, 0, 1],
+        ["Lisa", "Brown", "Dem", 0.452, 144925, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "5306": [
+      "5306",
+      "Washington’s 6th district",
+      [
+        ["Derek", "Kilmer", "Dem", 0.639, 206409, 1, 0, 1],
+        ["Douglas", "Dightman", "GOP", 0.361, 116677, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "5307": [
+      "5307",
+      "Washington’s 7th district",
+      [
+        ["Pramila", "Jayapal", "Dem", 0.836, 329800, 1, 0, 1],
+        ["Craig", "Keller", "GOP", 0.164, 64881, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "5308": [
+      "5308",
+      "Washington’s 8th district",
+      [
+        ["Kim", "Schrier", "Dem", 0.524, 164089, 1, 0, 0],
+        ["Dino", "Rossi", "GOP", 0.476, 148968, 0, 0, 0]
+      ],
+      100,
+      1
+    ],
+    "5309": [
+      "5309",
+      "Washington’s 9th district",
+      [
+        ["Adam", "Smith", "Dem", 0.679, 163345, 1, 0, 1],
+        ["Sarah", "Smith", "Dem", 0.321, 77222, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "5310": [
+      "5310",
+      "Washington’s 10th district",
+      [
+        ["Denny", "Heck", "Dem", 0.615, 166215, 1, 0, 1],
+        ["Joseph", "Brumbles", "GOP", 0.385, 103860, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "5401": [
+      "5401",
+      "West Virginia’s 1st district",
+      [
+        ["David", "McKinley", "GOP", 0.646, 127997, 1, 0, 1],
+        ["Kendra", "Fershee", "Dem", 0.354, 70217, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "5402": [
+      "5402",
+      "West Virginia’s 2nd district",
+      [
+        ["Alex", "Mooney", "GOP", 0.54, 110504, 1, 0, 1],
+        ["Talley", "Sergent", "Dem", 0.43, 88011, 0, 0, 0],
+        ["Daniel", "Lutz", "Mnt", 0.031, 6277, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "5403": [
+      "5403",
+      "West Virginia’s 3rd district",
+      [
+        ["Carol", "Miller", "GOP", 0.564, 98645, 1, 0, 0],
+        ["Richard", "Ojeda", "Dem", 0.436, 76340, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "5501": [
+      "5501",
+      "Wisconsin’s 1st district",
+      [
+        ["Bryan", "Steil", "GOP", 0.546, 177492, 1, 0, 0],
+        ["Randy", "Bryce", "Dem", 0.423, 137508, 0, 0, 0],
+        ["Ken", "Yorgan", "Ind", 0.031, 10006, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "5502": [
+      "5502",
+      "Wisconsin’s 2nd district",
+      [["Mark", "Pocan", "Dem", 0, 0, 1, 1, 1]],
+      0,
+      0
+    ],
+    "5503": [
+      "5503",
+      "Wisconsin’s 3rd district",
+      [
+        ["Ron", "Kind", "Dem", 0.597, 187888, 1, 0, 1],
+        ["Steve", "Toft", "GOP", 0.403, 126980, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "5504": [
+      "5504",
+      "Wisconsin’s 4th district",
+      [
+        ["Gwen", "Moore", "Dem", 0.757, 206487, 1, 0, 1],
+        ["Tim", "Rogers", "GOP", 0.217, 59091, 0, 0, 0],
+        ["Robert", "Raymond", "Ind", 0.026, 7170, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "5505": [
+      "5505",
+      "Wisconsin’s 5th district",
+      [
+        ["Jim", "Sensenbrenner", "GOP", 0.62, 225619, 1, 0, 1],
+        ["Tom", "Palzewicz", "Dem", 0.38, 138385, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "5506": [
+      "5506",
+      "Wisconsin’s 6th district",
+      [
+        ["Glenn", "Grothman", "GOP", 0.555, 180311, 1, 0, 1],
+        ["Dan", "Kohl", "Dem", 0.445, 144536, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "5507": [
+      "5507",
+      "Wisconsin’s 7th district",
+      [
+        ["Sean", "Duffy", "GOP", 0.601, 194061, 1, 0, 1],
+        ["Margaret", "Engebretson", "Dem", 0.385, 124307, 0, 0, 0],
+        ["Ken", "Driessen", "Ind", 0.014, 4416, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "5508": [
+      "5508",
+      "Wisconsin’s 8th district",
+      [
+        ["Mike", "Gallagher", "GOP", 0.637, 209410, 1, 0, 1],
+        ["Beau", "Liegeois", "Dem", 0.363, 119265, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "5600": [
+      "5600",
+      "Wyoming’s 1st district",
+      [
+        ["Liz", "Cheney", "GOP", 0.637, 127963, 1, 0, 1],
+        ["Greg", "Hunter", "Dem", 0.298, 59903, 0, 0, 0],
+        ["Richard", "Brubaker", "Lib", 0.034, 6918, 0, 0, 0],
+        ["Daniel", "Cummings", "CST", 0.03, 6070, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "0200": [
+      "0200",
+      "Alaska’s 1st district",
+      [
+        ["Don", "Young", "GOP", 0.533, 149779, 1, 0, 1],
+        ["Alyse", "Galvin", "Udl", 0.467, 131199, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "0101": [
+      "0101",
+      "Alabama’s 1st district",
+      [
+        ["Bradley", "Byrne", "GOP", 0.632, 153228, 1, 0, 1],
+        ["Robert", "Kennedy", "Dem", 0.368, 89226, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "0104": [
+      "0104",
+      "Alabama’s 4th district",
+      [
+        ["Robert", "Aderholt", "GOP", 0.799, 184255, 1, 0, 1],
+        ["Lee", "Auman", "Dem", 0.201, 46492, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "0102": [
+      "0102",
+      "Alabama’s 2nd district",
+      [
+        ["Martha", "Roby", "GOP", 0.615, 138879, 1, 0, 1],
+        ["Tabitha", "Isner", "Dem", 0.385, 86931, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "0103": [
+      "0103",
+      "Alabama’s 3rd district",
+      [
+        ["Mike", "Rogers", "GOP", 0.638, 147770, 1, 0, 1],
+        ["Mallory", "Hagan", "Dem", 0.362, 83996, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "0105": [
+      "0105",
+      "Alabama’s 5th district",
+      [
+        ["Mo", "Brooks", "GOP", 0.611, 159063, 1, 0, 1],
+        ["Peter", "Joffrion", "Dem", 0.389, 101388, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "0106": [
+      "0106",
+      "Alabama’s 6th district",
+      [
+        ["Gary", "Palmer", "GOP", 0.692, 192542, 1, 0, 1],
+        ["Danner", "Kline", "Dem", 0.308, 85644, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "0107": [
+      "0107",
+      "Alabama’s 7th district",
+      [["Terri", "Sewell", "Dem", 0, 0, 1, 1, 1]],
+      0,
+      0
+    ],
+    "0501": [
+      "0501",
+      "Arkansas’ 1st district",
+      [
+        ["Rick", "Crawford", "GOP", 0.689, 138757, 1, 0, 1],
+        ["Chintan", "Desai", "Dem", 0.288, 57907, 0, 0, 0],
+        ["Elvis", "Presley", "Lib", 0.023, 4581, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "0502": [
+      "0502",
+      "Arkansas’ 2nd district",
+      [
+        ["French", "Hill", "GOP", 0.521, 132125, 1, 0, 1],
+        ["Clarke", "Tucker", "Dem", 0.458, 116135, 0, 0, 0],
+        ["Joe", "Swafford", "Lib", 0.02, 5193, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "0504": [
+      "0504",
+      "Arkansas’ 4th district",
+      [
+        ["Bruce", "Westerman", "GOP", 0.668, 136740, 1, 0, 1],
+        ["Hayden", "Shamel", "Dem", 0.313, 63984, 0, 0, 0],
+        ["Tom", "Canada", "Lib", 0.019, 3952, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "0503": [
+      "0503",
+      "Arkansas’ 3rd district",
+      [
+        ["Steve", "Womack", "GOP", 0.648, 148717, 1, 0, 1],
+        ["Josh", "Mahony", "Dem", 0.326, 74952, 0, 0, 0],
+        ["Michael", "Kalagias", "Lib", 0.026, 5899, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "0401": [
+      "0401",
+      "Arizona’s 1st district",
+      [
+        ["Tom", "O'Halleran", "Dem", 0.538, 143240, 1, 0, 1],
+        ["Wendy", "Rogers", "GOP", 0.462, 122784, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "0402": [
+      "0402",
+      "Arizona’s 2nd district",
+      [
+        ["Ann", "Kirkpatrick", "Dem", 0.547, 161000, 1, 0, 0],
+        ["Lea", "Marquez Peterson", "GOP", 0.453, 133083, 0, 0, 0]
+      ],
+      100,
+      1
+    ],
+    "0403": [
+      "0403",
+      "Arizona’s 3rd district",
+      [
+        ["Raul", "Grijalva", "Dem", 0.639, 114650, 1, 0, 1],
+        ["Nick", "Pierson", "GOP", 0.361, 64868, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "0404": [
+      "0404",
+      "Arizona’s 4th district",
+      [
+        ["Paul", "Gosar", "GOP", 0.682, 188842, 1, 0, 1],
+        ["David", "Brill", "Dem", 0.305, 84521, 0, 0, 0],
+        ["Haryaksha", "Knauer", "Grn", 0.013, 3672, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "0405": [
+      "0405",
+      "Arizona’s 5th district",
+      [
+        ["Andy", "Biggs", "GOP", 0.594, 186037, 1, 0, 1],
+        ["Joan", "Greene", "Dem", 0.406, 127027, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "0406": [
+      "0406",
+      "Arizona’s 6th district",
+      [
+        ["David", "Schweikert", "GOP", 0.552, 173140, 1, 0, 1],
+        ["Anita", "Malik", "Dem", 0.448, 140559, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "0407": [
+      "0407",
+      "Arizona’s 7th district",
+      [
+        ["Ruben", "Gallego", "Dem", 0.858, 113044, 1, 0, 1],
+        ["Gary", "Swing", "Grn", 0.142, 18706, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "0408": [
+      "0408",
+      "Arizona’s 8th district",
+      [
+        ["Debbie", "Lesko", "GOP", 0.555, 168835, 1, 0, 1],
+        ["Hiral", "Tipirneni", "Dem", 0.445, 135569, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "0409": [
+      "0409",
+      "Arizona’s 9th district",
+      [
+        ["Greg", "Stanton", "Dem", 0.611, 159583, 1, 0, 0],
+        ["Steve", "Ferrara", "GOP", 0.389, 101662, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "0602": [
+      "0602",
+      "California’s 2nd district",
+      [
+        ["Jared", "Huffman", "Dem", 0.77, 243081, 1, 0, 1],
+        ["Dale", "Mensing", "GOP", 0.23, 72576, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "0603": [
+      "0603",
+      "California’s 3rd district",
+      [
+        ["John", "Garamendi", "Dem", 0.581, 134875, 1, 0, 1],
+        ["Charlie", "Schaupp", "GOP", 0.419, 97376, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "0604": [
+      "0604",
+      "California’s 4th district",
+      [
+        ["Tom", "McClintock", "GOP", 0.541, 184401, 1, 0, 1],
+        ["Jessica", "Morse", "Dem", 0.459, 156253, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "0605": [
+      "0605",
+      "California’s 5th district",
+      [
+        ["Mike", "Thompson", "Dem", 0.789, 205860, 1, 0, 1],
+        ["Anthony", "Mills", "NPP", 0.211, 55158, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "0606": [
+      "0606",
+      "California’s 6th district",
+      [
+        ["Doris", "Matsui", "Dem", 0.804, 162411, 1, 0, 1],
+        ["Jrmar", "Jefferson", "Dem", 0.196, 39528, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "0607": [
+      "0607",
+      "California’s 7th district",
+      [
+        ["Ami", "Bera", "Dem", 0.55, 155016, 1, 0, 1],
+        ["Andrew", "Grant", "GOP", 0.45, 126601, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "0608": [
+      "0608",
+      "California’s 8th district",
+      [
+        ["Paul", "Cook", "GOP", 0.6, 102415, 1, 0, 1],
+        ["Tim", "Donnelly", "GOP", 0.4, 68370, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "0609": [
+      "0609",
+      "California’s 9th district",
+      [
+        ["Jerry", "McNerney", "Dem", 0.565, 113414, 1, 0, 1],
+        ["Marla", "Livengood", "GOP", 0.435, 87349, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "0611": [
+      "0611",
+      "California’s 11th district",
+      [
+        ["Mark", "DeSaulnier", "Dem", 0.741, 204369, 1, 0, 1],
+        ["John", "Fitzgerald", "GOP", 0.259, 71312, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "0612": [
+      "0612",
+      "California’s 12th district",
+      [
+        ["Nancy", "Pelosi", "Dem", 0.868, 275292, 1, 0, 1],
+        ["Lisa", "Remmer", "GOP", 0.132, 41780, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "0613": [
+      "0613",
+      "California’s 13th district",
+      [
+        ["Barbara", "Lee", "Dem", 0.884, 260580, 1, 0, 1],
+        ["Laura", "Wells", "Grn", 0.116, 34257, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "0614": [
+      "0614",
+      "California’s 14th district",
+      [
+        ["Jackie", "Speier", "Dem", 0.792, 211384, 1, 0, 1],
+        ["Cristina", "Osmena", "GOP", 0.208, 55439, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "0615": [
+      "0615",
+      "California’s 15th district",
+      [
+        ["Eric", "Swalwell", "Dem", 0.73, 177989, 1, 0, 1],
+        ["Rudy", "Peters", "GOP", 0.27, 65940, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "0616": [
+      "0616",
+      "California’s 16th district",
+      [
+        ["Jim", "Costa", "Dem", 0.575, 82266, 1, 0, 1],
+        ["Elizabeth", "Heng", "GOP", 0.425, 60693, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "0617": [
+      "0617",
+      "California’s 17th district",
+      [
+        ["Ro", "Khanna", "Dem", 0.753, 159105, 1, 0, 1],
+        ["Ron", "Cohen", "GOP", 0.247, 52057, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "0618": [
+      "0618",
+      "California’s 18th district",
+      [
+        ["Anna", "Eshoo", "Dem", 0.745, 225142, 1, 0, 1],
+        ["Christine", "Russell", "GOP", 0.255, 77096, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "0619": [
+      "0619",
+      "California’s 19th district",
+      [
+        ["Zoe", "Lofgren", "Dem", 0.738, 162496, 1, 0, 1],
+        ["Justin", "Aguilera", "GOP", 0.262, 57823, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "0620": [
+      "0620",
+      "California’s 20th district",
+      [
+        ["Jimmy", "Panetta", "Dem", 0.814, 183677, 1, 0, 1],
+        ["Ronald", "Kabat", "NPP", 0.186, 42044, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "0621": [
+      "0621",
+      "California’s 21st district",
+      [
+        ["TJ", "Cox", "Dem", 0.504, 57239, 1, 0, 0],
+        ["David", "Valadao", "GOP", 0.496, 56377, 0, 0, 1]
+      ],
+      100,
+      1
+    ],
+    "0622": [
+      "0622",
+      "California’s 22nd district",
+      [
+        ["Devin", "Nunes", "GOP", 0.527, 117243, 1, 0, 1],
+        ["Andrew", "Janz", "Dem", 0.473, 105136, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "0623": [
+      "0623",
+      "California’s 23rd district",
+      [
+        ["Kevin", "McCarthy", "GOP", 0.637, 131113, 1, 0, 1],
+        ["Tatiana", "Matta", "Dem", 0.363, 74661, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "0624": [
+      "0624",
+      "California’s 24th district",
+      [
+        ["Salud", "Carbajal", "Dem", 0.586, 166550, 1, 0, 1],
+        ["Justin", "Fareed", "GOP", 0.414, 117881, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "0625": [
+      "0625",
+      "California’s 25th district",
+      [
+        ["Katie", "Hill", "Dem", 0.544, 133209, 1, 0, 0],
+        ["Steve", "Knight", "GOP", 0.456, 111813, 0, 0, 1]
+      ],
+      100,
+      1
+    ],
+    "0626": [
+      "0626",
+      "California’s 26th district",
+      [
+        ["Julia", "Brownley", "Dem", 0.619, 158216, 1, 0, 1],
+        ["Antonio", "Sabato", "GOP", 0.381, 97210, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "0627": [
+      "0627",
+      "California’s 27th district",
+      [
+        ["Judy", "Chu", "Dem", 0.792, 160504, 1, 0, 1],
+        ["Bryan", "Witt", "Dem", 0.208, 42132, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "0628": [
+      "0628",
+      "California’s 28th district",
+      [
+        ["Adam", "Schiff", "Dem", 0.784, 196662, 1, 0, 1],
+        ["Johnny", "Nalbandian", "GOP", 0.216, 54272, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "0629": [
+      "0629",
+      "California’s 29th district",
+      [
+        ["Tony", "Cardenas", "Dem", 0.806, 124697, 1, 0, 1],
+        ["Benny", "Bernal", "GOP", 0.194, 29995, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "0630": [
+      "0630",
+      "California’s 30th district",
+      [
+        ["Brad", "Sherman", "Dem", 0.734, 191573, 1, 0, 1],
+        ["Mark", "Reed", "GOP", 0.266, 69420, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "0631": [
+      "0631",
+      "California’s 31st district",
+      [
+        ["Pete", "Aguilar", "Dem", 0.587, 110143, 1, 0, 1],
+        ["Sean", "Flynn", "GOP", 0.413, 77352, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "0632": [
+      "0632",
+      "California’s 32nd district",
+      [
+        ["Grace", "Napolitano", "Dem", 0.688, 121759, 1, 0, 1],
+        ["Joshua", "Scott", "GOP", 0.312, 55272, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "0633": [
+      "0633",
+      "California’s 33rd district",
+      [
+        ["Ted", "Lieu", "Dem", 0.7, 219091, 1, 0, 1],
+        ["Kenneth", "Wright", "GOP", 0.3, 93769, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "0635": [
+      "0635",
+      "California’s 35th district",
+      [
+        ["Norma", "Torres", "Dem", 0.694, 103420, 1, 0, 1],
+        ["Christian", "Valiente", "GOP", 0.306, 45604, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "0636": [
+      "0636",
+      "California’s 36th district",
+      [
+        ["Raul", "Ruiz", "Dem", 0.59, 122169, 1, 0, 1],
+        ["Kimberlin", "Pelzer", "GOP", 0.41, 84839, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "0637": [
+      "0637",
+      "California’s 37th district",
+      [
+        ["Karen", "Bass", "Dem", 0.891, 210555, 1, 0, 1],
+        ["Ron", "Bassilian", "GOP", 0.109, 25823, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "0638": [
+      "0638",
+      "California’s 38th district",
+      [
+        ["Linda", "Sanchez", "Dem", 0.689, 139188, 1, 0, 1],
+        ["Ryan", "Downing", "GOP", 0.311, 62968, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "0639": [
+      "0639",
+      "California’s 39th district",
+      [
+        ["Gil", "Cisneros", "Dem", 0.516, 126002, 1, 0, 0],
+        ["Young", "Kim", "GOP", 0.484, 118391, 0, 0, 0]
+      ],
+      100,
+      1
+    ],
+    "0640": [
+      "0640",
+      "California’s 40th district",
+      [
+        ["Lucille", "Roybal-Allard", "Dem", 0.773, 93938, 1, 0, 1],
+        ["Rodolfo", "Barragan", "Grn", 0.227, 27511, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "0641": [
+      "0641",
+      "California’s 41st district",
+      [
+        ["Mark", "Takano", "Dem", 0.651, 108227, 1, 0, 1],
+        ["Aja", "Smith", "GOP", 0.349, 58021, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "0642": [
+      "0642",
+      "California’s 42nd district",
+      [
+        ["Ken", "Calvert", "GOP", 0.565, 131040, 1, 0, 1],
+        ["Julia", "Peacock", "Dem", 0.435, 100892, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "0643": [
+      "0643",
+      "California’s 43rd district",
+      [
+        ["Maxine", "Waters", "Dem", 0.777, 152272, 1, 0, 1],
+        ["Omar", "Navarro", "GOP", 0.223, 43780, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "0644": [
+      "0644",
+      "California’s 44th district",
+      [
+        ["Nanette", "Barragan", "Dem", 0.683, 97944, 1, 0, 1],
+        ["Aja", "Brown", "Dem", 0.317, 45378, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "0645": [
+      "0645",
+      "California’s 45th district",
+      [
+        ["Katie", "Porter", "Dem", 0.521, 158906, 1, 0, 0],
+        ["Mimi", "Walters", "GOP", 0.479, 146383, 0, 0, 1]
+      ],
+      100,
+      1
+    ],
+    "0646": [
+      "0646",
+      "California’s 46th district",
+      [
+        ["Lou", "Correa", "Dem", 0.691, 102278, 1, 0, 1],
+        ["Russell", "Lambert", "GOP", 0.309, 45638, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "0647": [
+      "0647",
+      "California’s 47th district",
+      [
+        ["Alan", "Lowenthal", "Dem", 0.649, 143354, 1, 0, 1],
+        ["John", "Briscoe", "GOP", 0.351, 77682, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "0649": [
+      "0649",
+      "California’s 49th district",
+      [
+        ["Mike", "Levin", "Dem", 0.564, 166453, 1, 0, 0],
+        ["Diane", "Harkey", "GOP", 0.436, 128577, 0, 0, 0]
+      ],
+      100,
+      1
+    ],
+    "0650": [
+      "0650",
+      "California’s 50th district",
+      [
+        ["Duncan D.", "Hunter", "GOP", 0.517, 134362, 1, 0, 1],
+        ["Ammar", "Campa-Najjar", "Dem", 0.483, 125448, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "0651": [
+      "0651",
+      "California’s 51st district",
+      [
+        ["Juan", "Vargas", "Dem", 0.712, 109527, 1, 0, 1],
+        ["Juan", "Hidalgo", "GOP", 0.288, 44301, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "0653": [
+      "0653",
+      "California’s 53rd district",
+      [
+        ["Susan", "Davis", "Dem", 0.691, 185667, 1, 0, 1],
+        ["Morgan", "Murtaugh", "GOP", 0.309, 83127, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "0601": [
+      "0601",
+      "California’s 1st district",
+      [
+        ["Doug", "LaMalfa", "GOP", 0.549, 160046, 1, 0, 1],
+        ["Audrey", "Denney", "Dem", 0.451, 131548, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "0652": [
+      "0652",
+      "California’s 52nd district",
+      [
+        ["Scott", "Peters", "Dem", 0.638, 188992, 1, 0, 1],
+        ["Omar", "Qudrat", "GOP", 0.362, 107015, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "0648": [
+      "0648",
+      "California’s 48th district",
+      [
+        ["Harley", "Rouda", "Dem", 0.536, 157837, 1, 0, 0],
+        ["Dana", "Rohrabacher", "GOP", 0.464, 136899, 0, 0, 1]
+      ],
+      100,
+      1
+    ],
+    "0610": [
+      "0610",
+      "California’s 10th district",
+      [
+        ["Josh", "Harder", "Dem", 0.523, 115945, 1, 0, 0],
+        ["Jeff", "Denham", "GOP", 0.477, 105955, 0, 0, 1]
+      ],
+      100,
+      1
+    ],
+    "0634": [
+      "0634",
+      "California’s 34th district",
+      [
+        ["Jimmy", "Gomez", "Dem", 0.725, 110195, 1, 0, 1],
+        ["Kenneth", "Mejia", "Grn", 0.275, 41711, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "0802": [
+      "0802",
+      "Colorado’s 2nd district",
+      [
+        ["Joe", "Neguse", "Dem", 0.603, 259608, 1, 0, 0],
+        ["Peter", "Yu", "GOP", 0.336, 144901, 0, 0, 0],
+        ["Nick", "Thomas", "Una", 0.038, 16356, 0, 0, 0],
+        ["Roger", "Barris", "Lib", 0.023, 9749, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "0803": [
+      "0803",
+      "Colorado’s 3rd district",
+      [
+        ["Scott", "Tipton", "GOP", 0.515, 173205, 1, 0, 1],
+        ["Diane", "Mitsch Bush", "Dem", 0.436, 146426, 0, 0, 0],
+        ["Mary", "Malarsie", "Una", 0.032, 10831, 0, 0, 0],
+        ["Gaylon", "Kent", "Lib", 0.017, 5727, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "0804": [
+      "0804",
+      "Colorado’s 4th district",
+      [
+        ["Ken", "Buck", "GOP", 0.606, 224038, 1, 0, 1],
+        ["Karen", "McCormick", "Dem", 0.394, 145544, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "0805": [
+      "0805",
+      "Colorado’s 5th district",
+      [
+        ["Doug", "Lamborn", "GOP", 0.57, 184002, 1, 0, 1],
+        ["Stephany", "Spaulding", "Dem", 0.393, 126848, 0, 0, 0],
+        ["Douglas", "Randall", "Lib", 0.037, 11795, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "0806": [
+      "0806",
+      "Colorado’s 6th district",
+      [
+        ["Jason", "Crow", "Dem", 0.541, 187639, 1, 0, 0],
+        ["Mike", "Coffman", "GOP", 0.429, 148685, 0, 0, 1],
+        ["Kat", "Martin", "Lib", 0.017, 5886, 0, 0, 0],
+        ["Dan", "Chapin", "Una", 0.013, 4607, 0, 0, 0]
+      ],
+      100,
+      1
+    ],
+    "0807": [
+      "0807",
+      "Colorado’s 7th district",
+      [
+        ["Ed", "Perlmutter", "Dem", 0.604, 204260, 1, 0, 1],
+        ["Mark", "Barrington", "GOP", 0.354, 119734, 0, 0, 0],
+        ["Jennifer", "Nackerud", "Lib", 0.041, 14012, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "0801": [
+      "0801",
+      "Colorado’s 1st district",
+      [
+        ["Diana", "DeGette", "Dem", 0.738, 272886, 1, 0, 1],
+        ["Casper", "Stockham", "GOP", 0.23, 85207, 0, 0, 0],
+        ["Raymon", "Doane", "Lib", 0.031, 11600, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "0901": [
+      "0901",
+      "Connecticut’s 1st district",
+      [
+        ["John", "Larson", "Dem", 0.639, 175087, 1, 0, 1],
+        ["Jennifer", "Nye", "GOP", 0.35, 96024, 0, 0, 0],
+        ["Thomas", "McCormick", "Grn", 0.011, 3029, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "0902": [
+      "0902",
+      "Connecticut’s 2nd district",
+      [
+        ["Joe", "Courtney", "Dem", 0.622, 179731, 1, 0, 1],
+        ["Danny", "Postemski", "GOP", 0.354, 102483, 0, 0, 0],
+        ["Michelle", "Bicking", "Grn", 0.012, 3595, 0, 0, 0],
+        ["Daniel", "Reale", "Lib", 0.011, 3305, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "0903": [
+      "0903",
+      "Connecticut’s 3rd district",
+      [
+        ["Rosa", "DeLauro", "Dem", 0.646, 174572, 1, 0, 1],
+        ["Angel", "Cadena", "GOP", 0.354, 95667, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "0904": [
+      "0904",
+      "Connecticut’s 4th district",
+      [
+        ["Jim", "Himes", "Dem", 0.612, 168726, 1, 0, 1],
+        ["Harry", "Arora", "GOP", 0.388, 106921, 0, 0, 0]
+      ],
+      100,
+      0
+    ],
+    "0905": [
+      "0905",
+      "Connecticut’s 5th district",
+      [
+        ["Jahana", "Hayes", "Dem", 0.559, 151225, 1, 0, 0],
+        ["Manny", "Santos", "GOP", 0.441, 119426, 0, 0, 0]
+      ],
+      100,
+      0
+    ]
+  },
+  "totals": {
+    "H": {
+      "r_notup": 0,
+      "d_notup": 0,
+      "r_win": 199,
+      "d_win": 235,
+      "o_win": 0,
+      "no_result": 1,
+      "r_flipped": 3,
+      "d_flipped": 43
+    },
+    "S": {
+      "r_notup": 42,
+      "d_notup": 23,
+      "r_win": 10,
+      "d_win": 22,
+      "o_win": 2,
+      "no_result": 1,
+      "r_flipped": 4,
+      "d_flipped": 2
+    },
+    "G": {
+      "r_notup": 7,
+      "d_notup": 7,
+      "r_win": 20,
+      "d_win": 16,
+      "o_win": 0,
+      "no_result": 0,
+      "r_flipped": 1,
+      "d_flipped": 7
+    }
+  }
+}

@@ -6,15 +6,15 @@ import withStyles from "react-jss";
 
 
 function App() {
+  const RADIUS = 6;
   return (
     <div className="App">
-      <BarChart />
-      {/* <div className={classes.map}>
-      <svg>
-      <USMap />
+   
+    <BarChart />
+    <svg id="main-map" viewBox={`0 0 ${23 * RADIUS} ${13 * RADIUS}`}>
+         <USMap r={RADIUS}/>
       </svg>
-      </div> */}
-
+      
     </div>
   );
 }
