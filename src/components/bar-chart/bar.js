@@ -33,8 +33,8 @@ const BarChart = ({classes}) => {
   const max = 10;
   var y = d3
     .scaleLinear()
-    .domain([0, max])
-    .range([HEIGHT, 0]);
+    .domain([max, 0])
+    .range([0, HEIGHT]);
 
   return (
     <svg width={"100%"} height={HEIGHT}>
