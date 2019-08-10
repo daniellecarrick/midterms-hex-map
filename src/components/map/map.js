@@ -98,21 +98,22 @@ const USMap = ({ r, indexToggle }) => {
   // associate each state with the region value from props
   //STATES.forEach(state => (state.dimValue = regionData[state.region]));
   const govResults = results.G;
-  console.log(govResults["02"]); // G[""02""][2][""0""][1]
-  // STATES.forEach(state => {
-  //   if(state.name === )
-  // })
+  console.log('gov results', govResults); 
+  STATES.forEach(state => {
+    Object.keys(govResults).map(function(race) {
+      if(state.name == govResults[race][1]) {
+        console.log(state.name, govResults[race][1])
+        return state.results = govResults[race][2];
+      }
+    });
+  });
 
-  const array = [];
-  array.push(govResults);
-  console.log(array);
+  console.log(STATES);
 
-  // govResults.forEach((result, i) => {
-  //  // return (govResults[i] = result[1]);
-  // console.log(result);
-  // });
+  // wanted to use d3.group but it wasn't exported?!
+//Object.keys(govResults).map((state) => d3.group(govResults[state]));
 
-  //results.forEach(election => ())
+
   let index = -1;
 
   const PI_SIX = Math.PI / 6;
