@@ -36,6 +36,8 @@ const BarChart = ({classes}) => {
     .domain([0, max])
     .range([HEIGHT, 0]);
 
+  var yAxis = d3.axisLeft(y);
+
   return (
     <>
      <h1>Bar chart</h1>

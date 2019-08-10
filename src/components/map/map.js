@@ -2,6 +2,7 @@ import React from "react";
 import PropTypes from "prop-types";
 import * as d3 from "d3";
 import State from "./state";
+import results from "../../assets/results-top-level.json";
 
 const STATES = [
   { abbr: "AK", name: "Alaska", region: "west" },
@@ -75,9 +76,9 @@ const STATE_MATRIX = [
   [1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0]
 ];
 
-const USMap = ({ regionData, r, indexToggle }) => {
+const USMap = ({ r, indexToggle }) => {
   // Find the max data value (min will always be 0)
- // const valueArray = Object.keys(regionData).map(key => regionData[key]);
+  // const valueArray = Object.keys(regionData).map(key => regionData[key]);
   const max = 120;
 
   // Establish color range
@@ -96,7 +97,22 @@ const USMap = ({ regionData, r, indexToggle }) => {
 
   // associate each state with the region value from props
   //STATES.forEach(state => (state.dimValue = regionData[state.region]));
+  const govResults = results.G;
+  console.log(govResults["02"]); // G[""02""][2][""0""][1]
+  // STATES.forEach(state => {
+  //   if(state.name === )
+  // })
 
+  const array = [];
+  array.push(govResults);
+  console.log(array);
+
+  // govResults.forEach((result, i) => {
+  //  // return (govResults[i] = result[1]);
+  // console.log(result);
+  // });
+
+  //results.forEach(election => ())
   let index = -1;
 
   const PI_SIX = Math.PI / 6;
