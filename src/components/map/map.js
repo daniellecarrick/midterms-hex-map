@@ -82,18 +82,10 @@ const USMap = ({ r, indexToggle }) => {
   const max = 120;
 
   // Establish color range
-  let colorRange =
-    indexToggle === "index"
-      ? d3
-          .scaleLinear()
-          .domain([0, 99, 100, max])
-          .range(["#F1F1F1", "#C2C9D1", "#E1D1FE", "#572DF7"])
-          .interpolate(d3.interpolateRgb.gamma(2))
-      : d3
-          .scaleLinear()
-          .domain([0, max / 3, max * (2 / 3), max])
-          .range(["#F1F1F1", "#C2C9D1", "#E1D1FE", "#572DF7"])
-          .interpolate(d3.interpolateRgb.gamma(2));
+  let colorRange = d3
+    .scaleOrdinal()
+    .domain(["GOP", "Dem", null])
+    .range(["red", "blue", "grey"]);
 
   // associate each state with the region value from props
   //STATES.forEach(state => (state.dimValue = regionData[state.region]));
@@ -104,6 +96,8 @@ const USMap = ({ r, indexToggle }) => {
       if(state.name == govResults[race][1]) {
         console.log(state.name, govResults[race][1])
         return state.results = govResults[race][2];
+      } else if (!state.results) {
+        return state.results = null;
       }
     });
   });
@@ -133,7 +127,7 @@ const USMap = ({ r, indexToggle }) => {
               <State
                 stateData={STATES[index]}
                 // regionData={regionData[index]} //might not need
-                bgColor={colorRange(10)}
+                bgColor={STATES[index].results ? colorRange(STATES[index].results[0][2]) : 'grey'}
                 key={`${index}`}
                 x={xOff * (x + rowOffset)}
                 y={yOff * y}
@@ -147,18 +141,6 @@ const USMap = ({ r, indexToggle }) => {
       })}
     </g>
   );
-};
-
-USMap.propTypes = {
-  r: PropTypes.number,
-  regionData: PropTypes.shape({
-    northeast: PropTypes.number,
-    west: PropTypes.number,
-    southwest: PropTypes.number,
-    midwest: PropTypes.number,
-    southeast: PropTypes.number
-  }).isRequired,
-  indexToggle: PropTypes.oneOf(["index", "composite"])
 };
 
 export default USMap;
