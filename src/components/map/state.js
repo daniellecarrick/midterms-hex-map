@@ -1,6 +1,7 @@
 import React from "react";
 import PropTypes from "prop-types";
 import { Motion, spring, presets } from "react-motion";
+import Tooltip from "@material-ui/core/Tooltip";
 
 import withStyles from "react-jss";
 
@@ -18,7 +19,17 @@ const componentStyles = {
   }
 };
 
-const State = ({ stateData, classes, x = 0, y = 0, r = 10, bgColor }) => {
+const tooltipText = (results) => {
+  if(results) {
+   return results.map((row, i) => {
+      return <p>{row[0]} {row[1]} {(row[3]*100).toFixed(1)}%</p>
+    })
+  } else {
+    return <div>no election</div>
+  }
+};
+
+const State = ({ data, classes, x = 0, y = 0, r = 10, bgColor }) => {
   const PI_SIX = Math.PI / 6;
   const COS_SIX = Math.cos(PI_SIX);
   const SIN_SIX = Math.sin(PI_SIX);
@@ -38,18 +49,20 @@ const State = ({ stateData, classes, x = 0, y = 0, r = 10, bgColor }) => {
         xPos: spring(x, presets.gentle),
         yPos: spring(y, presets.gentle)
       }}
-    > 
+    >
       {({ xPos, yPos }) => (
-        <g
-          className={classes.state}
-          style={{ fill: bgColor }}
-          transform={`translate(${x},${y})`}
-        >
-          <polygon className="background" points={hexPoints.join(" ")} />
-          <text className={classes.stateName} transform={`translate(0,1)`}>
-            {stateData.abbr}
-          </text>
-        </g>
+        <Tooltip title={tooltipText(data.results)}>
+          <g
+            className={classes.state}
+            style={{ fill: bgColor }}
+            transform={`translate(${x},${y})`}
+          >
+            <polygon className="background" points={hexPoints.join(" ")} />
+            <text className={classes.stateName} transform={`translate(0,1)`}>
+              {data.abbr}
+            </text>
+          </g>
+        </Tooltip>
       )}
     </Motion>
   );
@@ -57,7 +70,7 @@ const State = ({ stateData, classes, x = 0, y = 0, r = 10, bgColor }) => {
 
 State.propTypes = {
   r: PropTypes.number,
-  stateData: PropTypes.shape({
+  data: PropTypes.shape({
     abbr: PropTypes.string,
     name: PropTypes.string,
     region: PropTypes.string

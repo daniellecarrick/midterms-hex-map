@@ -96,9 +96,9 @@ const USMap = ({ r, indexToggle }) => {
       if(state.name == govResults[race][1]) {
         console.log(state.name, govResults[race][1])
         return state.results = govResults[race][2];
-      } else if (!state.results) {
-        return state.results = null;
-      }
+      } // else if (!state.results) {
+      //   return state.results = null;
+      // }
     });
   });
 
@@ -125,8 +125,7 @@ const USMap = ({ r, indexToggle }) => {
             index++;
             return (
               <State
-                stateData={STATES[index]}
-                // regionData={regionData[index]} //might not need
+                data={STATES[index]}
                 bgColor={STATES[index].results ? colorRange(STATES[index].results[0][2]) : 'grey'}
                 key={`${index}`}
                 x={xOff * (x + rowOffset)}
