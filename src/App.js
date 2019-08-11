@@ -3,17 +3,16 @@ import "./App.css";
 import USMap from "./components/map/map";
 import BarChart from "./components/bar-chart/bar";
 import LineChart from "./components/line-chart/line";
-import withStyles from "react-jss";
+import { BrowserRouter as Router, Route, Link } from "react-router-dom";
 
 function App() {
-  const RADIUS = 6;
   return (
     <div className="App">
-      <BarChart />
-      <svg id="main-map" viewBox={`0 0 ${23 * RADIUS} ${13 * RADIUS}`}>
-        <USMap r={RADIUS} />
-      </svg>
-      <LineChart />
+      <Router>
+        <Route path="/" exact component={USMap} />
+        <Route path="/bar" component={BarChart} />
+        <Route path="/line" component={LineChart} />
+      </Router>
     </div>
   );
 }

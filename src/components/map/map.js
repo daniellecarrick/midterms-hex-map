@@ -1,5 +1,4 @@
 import React from "react";
-import PropTypes from "prop-types";
 import * as d3 from "d3";
 import State from "./state";
 import results from "../../assets/results-top-level.json";
@@ -76,36 +75,24 @@ const STATE_MATRIX = [
   [1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0]
 ];
 
-const USMap = ({ r, indexToggle }) => {
-  // Find the max data value (min will always be 0)
-  // const valueArray = Object.keys(regionData).map(key => regionData[key]);
-  const max = 120;
-
+// Map from https://github.com/schreiaj/frc-attrition-hex-map
+const USMap = ({ }) => {
+ const r = 6;
   // Establish color range
   let colorRange = d3
     .scaleOrdinal()
     .domain(["GOP", "Dem", null])
     .range(["red", "blue", "grey"]);
 
-  // associate each state with the region value from props
-  //STATES.forEach(state => (state.dimValue = regionData[state.region]));
+  // associate each state with the race result
   const govResults = results.G;
-  console.log('gov results', govResults); 
   STATES.forEach(state => {
     Object.keys(govResults).map(function(race) {
       if(state.name == govResults[race][1]) {
-        console.log(state.name, govResults[race][1])
         return state.results = govResults[race][2];
-      } // else if (!state.results) {
-      //   return state.results = null;
-      // }
+      } 
     });
   });
-
-  console.log(STATES);
-
-  // wanted to use d3.group but it wasn't exported?!
-//Object.keys(govResults).map((state) => d3.group(govResults[state]));
 
 
   let index = -1;
@@ -117,6 +104,8 @@ const USMap = ({ r, indexToggle }) => {
   const yOff = 3 * r * SIN_SIX;
 
   return (
+          <svg id="main-map" viewBox={`0 0 ${23 * r} ${13 * r}`}>
+
     <g className="state-map" transform={`translate(${xOff},${yOff})`}>
       {STATE_MATRIX.map((row, y) => {
         let rowOffset = (y % 2) * 0.5;
@@ -139,6 +128,7 @@ const USMap = ({ r, indexToggle }) => {
         });
       })}
     </g>
+    </svg>
   );
 };
 

@@ -16,6 +16,9 @@ const componentStyles = {
     stroke: "none",
     fontSize: "2px",
     textAnchor: "middle"
+  },
+  tooltip: {
+    backgroundColor: "red"
   }
 };
 
@@ -51,7 +54,7 @@ const State = ({ data, classes, x = 0, y = 0, r = 10, bgColor }) => {
       }}
     >
       {({ xPos, yPos }) => (
-        <Tooltip title={tooltipText(data.results)}>
+        <Tooltip title={tooltipText(data.results)} className={classes.tooltip}>
           <g
             className={classes.state}
             style={{ fill: bgColor }}
