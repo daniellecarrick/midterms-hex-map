@@ -1,7 +1,7 @@
 import React from "react";
 import withStyles from "react-jss";
 import * as d3 from "d3";
-import { Axis, axisPropsFromTickScale, LEFT, BOTTOM } from "react-d3-axis";
+import { Axis, axisPropsFromTickScale, axisPropsFromBandedScale, LEFT, BOTTOM } from "react-d3-axis";
 
 const componentStyles = {
   // bar: {
@@ -42,17 +42,18 @@ const BarChart = ({ classes }) => {
     .domain([max, 0])
     .range([0, HEIGHT]);
 
-  const x = d3
-    .scaleLinear()
-    .domain(d3.extent(data, data.High))
-    .range([0, 700]);
-
+  const xScale = d3
+    .scaleBand()
+    .domain([0, data.length])
+    .range([0, 700])
+    .round(true);
+console.log(xScale.bandwidth());
   const colorScale = d3
     .scaleLinear()
     .domain([0, max])
     .range(["blue", "tomato"]);
   const barPadding = 3;
-  const xAccessorScaled = d => x(d.x0) + barPadding;
+  const xAccessorScaled = d => xScale(d.x0) + barPadding;
 
   return (
     <>
@@ -66,7 +67,7 @@ const BarChart = ({ classes }) => {
                 height={HEIGHT - y(bar.High)}
                 className={classes.bar}
                 y={y(bar.High)}
-               // x={xAccessorScaled(x,d,i)}
+                //x={}
                 fill={colorScale(bar.High)}
               />
               <text y={HEIGHT}>{bar.Month}</text>
@@ -76,9 +77,9 @@ const BarChart = ({ classes }) => {
         })}
         <Axis {...axisPropsFromTickScale(y, 10)} style={{ orient: LEFT }} />
         <Axis
-          {...axisPropsFromTickScale(x, 10)}
+          {...axisPropsFromBandedScale(xScale, 10)}
           style={{ orient: BOTTOM }}
-          position={x}
+          position={xScale}
         />
       </svg>
     </>

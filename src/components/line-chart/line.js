@@ -5,6 +5,9 @@ import useElementSize from "../../hooks/useElementSize";
 import { Axis, axisPropsFromTickScale, LEFT, BOTTOM } from "react-d3-axis";
 import * as d3 from "d3";
 
+//new stuff
+import Chart from "../../components/chart-components/chart";
+
 const componentStyles = {
   sectionContainer: {
     color: "red",
@@ -75,17 +78,6 @@ const trendData = [
   }
 ];
 
-const data = [
-  {
-    measureName: "Weekly Visits",
-    value: 1200450
-  },
-  {
-    measureName: "Repeat Visits",
-    value: 515234
-  }
-];
-
 const height = 60;
 const margin = { top: 0, right: 0, bottom: 0, left: 0 };
 
@@ -142,7 +134,8 @@ const LineChart = ({ classes }) => {
           />
         </svg>
       </div>
-    </div>
+    </div> 
+
   );
 };
 
