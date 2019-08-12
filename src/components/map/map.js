@@ -4,64 +4,64 @@ import State from "./state";
 import { RED, BLUE, GREY, GREEN } from "../chart-components/colors";
 
 const STATES = [
-  { abbr: "AK", name: "Alaska", region: "west" },
-  { abbr: "ME", name: "Maine", region: "northeast" },
+  { abbr: "AK", name: "Alaska" },
+  { abbr: "ME", name: "Maine" },
 
-  { abbr: "VT", name: "Vermont", region: "northeast" },
-  { abbr: "NH", name: "New Hampshire", region: "northeast" },
+  { abbr: "VT", name: "Vermont" },
+  { abbr: "NH", name: "New Hampshire" },
 
-  { abbr: "WA", name: "Washington", region: "west" },
-  { abbr: "MT", name: "Montana", region: "west" },
-  { abbr: "ND", name: "North Dakota", region: "midwest" },
-  { abbr: "MN", name: "Minnesota", region: "midwest" },
-  { abbr: "WI", name: "Wisconsin", region: "midwest" },
-  { abbr: "MI", name: "Michigan", region: "midwest" },
-  { abbr: "NY", name: "New York", region: "northeast" },
-  { abbr: "MA", name: "Massachusetts", region: "northeast" },
-  { abbr: "RI", name: "Rhode Island", region: "northeast" },
+  { abbr: "WA", name: "Washington" },
+  { abbr: "MT", name: "Montana" },
+  { abbr: "ND", name: "North Dakota" },
+  { abbr: "MN", name: "Minnesota" },
+  { abbr: "WI", name: "Wisconsin" },
+  { abbr: "MI", name: "Michigan" },
+  { abbr: "NY", name: "New York" },
+  { abbr: "MA", name: "Massachusetts" },
+  { abbr: "RI", name: "Rhode Island" },
 
-  { abbr: "ID", name: "Idaho", region: "west" },
-  { abbr: "WY", name: "Wyoming", region: "west" },
-  { abbr: "SD", name: "South Dakota", region: "midwest" },
-  { abbr: "IA", name: "Iowa", region: "midwest" },
-  { abbr: "IL", name: "Illinois", region: "midwest" },
-  { abbr: "IN", name: "Indiana", region: "midwest" },
-  { abbr: "OH", name: "Ohio", region: "midwest" },
-  { abbr: "PA", name: "Pennsylvania", region: "northeast" },
-  { abbr: "NJ", name: "New Jersey", region: "northeast" },
-  { abbr: "CT", name: "Connecticut", region: "northeast" },
+  { abbr: "ID", name: "Idaho" },
+  { abbr: "WY", name: "Wyoming" },
+  { abbr: "SD", name: "South Dakota" },
+  { abbr: "IA", name: "Iowa" },
+  { abbr: "IL", name: "Illinois" },
+  { abbr: "IN", name: "Indiana" },
+  { abbr: "OH", name: "Ohio" },
+  { abbr: "PA", name: "Pennsylvania" },
+  { abbr: "NJ", name: "New Jersey" },
+  { abbr: "CT", name: "Connecticut" },
 
-  { abbr: "OR", name: "Oregon", region: "west" },
-  { abbr: "NV", name: "Nevada", region: "west" },
-  { abbr: "CO", name: "Colorado", region: "west" },
-  { abbr: "NE", name: "Nebraska", region: "midwest" },
-  { abbr: "MO", name: "Missouri", region: "midwest" },
-  { abbr: "KY", name: "Kentucky", region: "south" },
-  { abbr: "WV", name: "West Virgina", region: "south" },
-  { abbr: "VA", name: "Virginia", region: "south" },
-  { abbr: "MD", name: "Maryland", region: "south" },
-  { abbr: "DE", name: "Delaware", region: "south" },
+  { abbr: "OR", name: "Oregon" },
+  { abbr: "NV", name: "Nevada" },
+  { abbr: "CO", name: "Colorado" },
+  { abbr: "NE", name: "Nebraska" },
+  { abbr: "MO", name: "Missouri" },
+  { abbr: "KY", name: "Kentucky" },
+  { abbr: "WV", name: "West Virgina" },
+  { abbr: "VA", name: "Virginia" },
+  { abbr: "MD", name: "Maryland" },
+  { abbr: "DE", name: "Delaware" },
 
-  { abbr: "CA", name: "California", region: "west" },
-  { abbr: "UT", name: "Utah", region: "west" },
-  { abbr: "NM", name: "New Mexico", region: "west" },
-  { abbr: "KS", name: "Kansas", region: "midwest" },
-  { abbr: "AR", name: "Arkansas", region: "midwest" },
-  { abbr: "TN", name: "Tennessee", region: "south" },
-  { abbr: "NC", name: "North Carolina", region: "south" },
-  { abbr: "SC", name: "South Carolina", region: "south" },
-  { abbr: "DC", name: "District of Columbia", region: "south" },
+  { abbr: "CA", name: "California" },
+  { abbr: "UT", name: "Utah" },
+  { abbr: "NM", name: "New Mexico" },
+  { abbr: "KS", name: "Kansas" },
+  { abbr: "AR", name: "Arkansas" },
+  { abbr: "TN", name: "Tennessee" },
+  { abbr: "NC", name: "North Carolina" },
+  { abbr: "SC", name: "South Carolina" },
+  { abbr: "DC", name: "District of Columbia" },
 
-  { abbr: "AZ", name: "Arizona", region: "west" },
-  { abbr: "OK", name: "Oklahoma", region: "south" },
-  { abbr: "LA", name: "Louisiana", region: "south" },
-  { abbr: "MS", name: "Mississippi", region: "south" },
-  { abbr: "AL", name: "Alabama", region: "south" },
-  { abbr: "GA", name: "Georgia", region: "south" },
+  { abbr: "AZ", name: "Arizona" },
+  { abbr: "OK", name: "Oklahoma" },
+  { abbr: "LA", name: "Louisiana" },
+  { abbr: "MS", name: "Mississippi" },
+  { abbr: "AL", name: "Alabama" },
+  { abbr: "GA", name: "Georgia" },
 
-  { abbr: "HI", name: "Hawaii", region: "west" },
-  { abbr: "TX", name: "Texas", region: "south" },
-  { abbr: "FL", name: "Florida", region: "south" }
+  { abbr: "HI", name: "Hawaii" },
+  { abbr: "TX", name: "Texas" },
+  { abbr: "FL", name: "Florida" }
 ];
 
 const STATE_MATRIX = [
@@ -78,6 +78,7 @@ const STATE_MATRIX = [
 // Map from https://github.com/schreiaj/frc-attrition-hex-map
 const USMap = ({ data }) => {
   const r = 6;
+
   // Establish color range
   let colorRange = d3
     .scaleOrdinal()
@@ -94,7 +95,7 @@ const USMap = ({ data }) => {
   });
 
   let index = -1;
-
+  // math to build hexagons
   const PI_SIX = Math.PI / 6;
   const COS_SIX = Math.cos(PI_SIX);
   const SIN_SIX = Math.sin(PI_SIX);
