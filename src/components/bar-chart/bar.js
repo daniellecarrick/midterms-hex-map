@@ -32,7 +32,7 @@ const Bar = ({ classes }) => {
         width={width}
         height={height}
         y={y}
-        fill={fill)}
+        fill={fill}
         />
         <text y={HEIGHT}>{label}</text>
         <text y={y}>{data}</text>

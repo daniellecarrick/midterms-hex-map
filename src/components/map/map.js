@@ -2,6 +2,8 @@ import React from "react";
 import * as d3 from "d3";
 import State from "./state";
 import results from "../../assets/results-top-level.json";
+import ToggleButton from '@material-ui/lab/ToggleButton';
+import ToggleButtonGroup from '@material-ui/lab/ToggleButtonGroup';
 
 const STATES = [
   { abbr: "AK", name: "Alaska", region: "west" },
@@ -80,7 +82,7 @@ const BLUE = "#005BAA";
 const GRAY = "#ececec";
 
 // Map from https://github.com/schreiaj/frc-attrition-hex-map
-const USMap = ({}) => {
+const USMap = ({data}) => {
   const r = 6;
   // Establish color range
   let colorRange = d3
@@ -89,11 +91,10 @@ const USMap = ({}) => {
     .range([RED, BLUE, GRAY]);
 
   // associate each state with the race result
-  const govResults = results.G;
   STATES.forEach(state => {
-    Object.keys(govResults).map(function(race) {
-      if (state.name == govResults[race][1]) {
-        return (state.results = govResults[race][2]);
+    Object.keys(data).map(function(race) {
+      if (state.name == data[race][1]) {
+        return (state.results = data[race][2]);
       }
     });
   });
@@ -108,7 +109,7 @@ const USMap = ({}) => {
 
   return (
     <div>
-      <h1>Governor Election Results</h1>
+ 
     <svg id="main-map" viewBox={`0 0 ${23 * r} ${13 * r}`}>
       <g className="state-map" transform={`translate(${xOff},${yOff})`}>
         {STATE_MATRIX.map((row, y) => {
