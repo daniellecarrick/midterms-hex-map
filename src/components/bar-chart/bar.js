@@ -3,9 +3,9 @@ import withStyles from "react-jss";
 import * as d3 from "d3";
 
 const componentStyles = {
-  bar: {
-    fill: "tomato"
-  }
+  // bar: {
+  //   fill: "tomato"
+  // }
 };
 
 const data = [
@@ -23,45 +23,22 @@ const data = [
   { Month: "Dec", Low: 22.4, High: 38.0 }
 ];
 
-const BarChart = ({ classes }) => {
-  const margin = {
-    top: 10,
-    left: 10,
-    bottom: 20,
-    right: 10
-  };
-  const ROWPADDING = 20;
-  // configure the index chart dimensions
-  const width = 700 - margin.left - margin.right;
-  const HEIGHT = ROWPADDING * data.length + margin.top + margin.bottom;
-  // TO DO : programmattic max
-  const max = 100;
-  var y = d3
-    .scaleLinear()
-    .domain([max, 0])
-    .range([0, HEIGHT]);
-
+const Bar = ({ classes }) => {
+ 
   return (
-    <>
-      <h1>Bar chart</h1>
-      <svg width={"100%"} height={HEIGHT}>
-        {data.map((bar, i) => {
-          return (
-            <g transform={`translate(${ROWPADDING * i},${0})`}>
-              <rect
-                width={10}
-                height={HEIGHT - y(bar.Low)}
-                className={classes.bar}
-                y={y(bar.Low)}
-              />
-              <text y={HEIGHT}>{bar.Month}</text>
-              <text y={y(bar.Low)}>{bar.Low}</text>
-            </g>
-          );
-        })}
-      </svg>
-    </>
-  );
+      <>
+    <g transform={`translate(${(ROWPADDING+20) * i},${0})`}>
+        <rect
+        width={width}
+        height={height}
+        y={y}
+        fill={fill)}
+        />
+        <text y={HEIGHT}>{label}</text>
+        <text y={y}>{data}</text>
+    </g>
+       </> 
+  )
 };
 
-export default withStyles(componentStyles)(BarChart);
+export default withStyles(componentStyles)(Bar);
