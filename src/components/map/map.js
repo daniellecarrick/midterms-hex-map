@@ -1,9 +1,7 @@
 import React from "react";
 import * as d3 from "d3";
 import State from "./state";
-import {RED, BLUE, GREY} from "../chart-components/colors";
-import ToggleButton from "@material-ui/lab/ToggleButton";
-import ToggleButtonGroup from "@material-ui/lab/ToggleButtonGroup";
+import { RED, BLUE, GREY, GREEN } from "../chart-components/colors";
 
 const STATES = [
   { abbr: "AK", name: "Alaska", region: "west" },
@@ -83,8 +81,8 @@ const USMap = ({ data }) => {
   // Establish color range
   let colorRange = d3
     .scaleOrdinal()
-    .domain(["GOP", "Dem", null])
-    .range([RED, BLUE, GREY]);
+    .domain(["GOP", "Dem", "Ind", null])
+    .range([RED, BLUE, GREEN, GREY]);
 
   // associate each state with the race result
   STATES.forEach(state => {
@@ -118,7 +116,7 @@ const USMap = ({ data }) => {
                     bgColor={
                       STATES[index].results
                         ? colorRange(STATES[index].results[0][2])
-                        : "grey"
+                        : GREY
                     }
                     key={`${index}`}
                     x={xOff * (x + rowOffset)}
