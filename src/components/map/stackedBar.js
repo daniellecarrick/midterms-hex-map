@@ -51,7 +51,6 @@ const StackedBar = ({ classes, data, election }) => {
     .scaleLinear()
     .domain([0, max])
     .range([0, dimensions.innerWidth]);
-  console.log("max", max, dimensions.innerWidth);
   return (
     <div className={classes.chartContainer}>
       <p className={classes.demText}>
