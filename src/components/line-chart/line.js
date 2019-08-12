@@ -2,6 +2,7 @@ import React, { useRef } from "react";
 //import PropTypes from "prop-types";
 import withStyles from "react-jss";
 import useElementSize from "../../hooks/useElementSize";
+import { Axis, axisPropsFromTickScale, LEFT, BOTTOM } from "react-d3-axis";
 import * as d3 from "d3";
 
 const componentStyles = {
@@ -120,18 +121,25 @@ const formatNumbers = num => {
 const LineChart = ({ classes }) => {
   //set box height to box width
   const containerEl = useRef(null);
-  const size = useElementSize(containerEl);
-
+  // const size = useElementSize(containerEl);
+  const size = { width: 400 };
   // can't set range outside of the component bc of useElementSize hook
   x.range([margin.left, size.width - margin.right + 40]);
 
   return (
     <div>
+      <h1>Line Chart</h1>
       <div ref={containerEl} className={classes.lineChartContainer}>
-        <svg width={size.width + 40} height={height} style={{ fill: "none" }}>
+        <svg width={400} height={height} style={{ fill: "none" }}>
           <g className={classes.line}>
             <path d={line(trendData)} />
           </g>
+          <Axis {...axisPropsFromTickScale(y, 10)} style={{ orient: LEFT }} />
+          <Axis
+            {...axisPropsFromTickScale(x, 10)}
+            style={{ orient: BOTTOM }}
+            position={x}
+          />
         </svg>
       </div>
     </div>

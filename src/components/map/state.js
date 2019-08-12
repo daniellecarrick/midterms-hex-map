@@ -2,7 +2,6 @@ import React from "react";
 import PropTypes from "prop-types";
 import { Motion, spring, presets } from "react-motion";
 import Tooltip from "@material-ui/core/Tooltip";
-
 import withStyles from "react-jss";
 
 const componentStyles = {
@@ -16,16 +15,20 @@ const componentStyles = {
     stroke: "none",
     fontSize: "2px",
     textAnchor: "middle"
-  },
-  tooltip: {
-    backgroundColor: "red"
   }
 };
 
 const tooltipText = (results) => {
   if(results) {
    return results.map((row, i) => {
-      return <p>{row[0]} {row[1]} {(row[3]*100).toFixed(1)}%</p>
+      return row[3] > 0.01 ? (
+        <p>
+          {row[0]} {row[1]}{" "}
+          <span style={{ float: "right", marginLeft: "20px" }}>
+            {(row[3] * 100).toFixed(1)}%
+          </span>
+        </p>
+      ) : null;
     })
   } else {
     return <div>no election</div>

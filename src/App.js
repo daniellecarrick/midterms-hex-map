@@ -3,7 +3,7 @@ import "./App.css";
 import USMap from "./components/map/map";
 import BarChart from "./components/bar-chart/bar";
 import LineChart from "./components/line-chart/line";
-import { BrowserRouter as Router, Route, Link } from "react-router-dom";
+import { BrowserRouter as Router, Route } from "react-router-dom";
 
 function App() {
   return (

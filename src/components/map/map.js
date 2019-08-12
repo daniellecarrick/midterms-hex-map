@@ -75,25 +75,28 @@ const STATE_MATRIX = [
   [1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0]
 ];
 
+const RED = "#C8252C";
+const BLUE = "#005BAA";
+const GRAY = "#ececec";
+
 // Map from https://github.com/schreiaj/frc-attrition-hex-map
-const USMap = ({ }) => {
- const r = 6;
+const USMap = ({}) => {
+  const r = 6;
   // Establish color range
   let colorRange = d3
     .scaleOrdinal()
     .domain(["GOP", "Dem", null])
-    .range(["red", "blue", "grey"]);
+    .range([RED, BLUE, GRAY]);
 
   // associate each state with the race result
   const govResults = results.G;
   STATES.forEach(state => {
     Object.keys(govResults).map(function(race) {
-      if(state.name == govResults[race][1]) {
-        return state.results = govResults[race][2];
-      } 
+      if (state.name == govResults[race][1]) {
+        return (state.results = govResults[race][2]);
+      }
     });
   });
-
 
   let index = -1;
 
@@ -104,31 +107,37 @@ const USMap = ({ }) => {
   const yOff = 3 * r * SIN_SIX;
 
   return (
-          <svg id="main-map" viewBox={`0 0 ${23 * r} ${13 * r}`}>
-
-    <g className="state-map" transform={`translate(${xOff},${yOff})`}>
-      {STATE_MATRIX.map((row, y) => {
-        let rowOffset = (y % 2) * 0.5;
-        return row.map((col, x) => {
-          if (col !== 0) {
-            index++;
-            return (
-              <State
-                data={STATES[index]}
-                bgColor={STATES[index].results ? colorRange(STATES[index].results[0][2]) : 'grey'}
-                key={`${index}`}
-                x={xOff * (x + rowOffset)}
-                y={yOff * y}
-                r={r}
-              />
-            );
-          } else {
-            return null;
-          }
-        });
-      })}
-    </g>
+    <div>
+      <h1>Governor Election Results</h1>
+    <svg id="main-map" viewBox={`0 0 ${23 * r} ${13 * r}`}>
+      <g className="state-map" transform={`translate(${xOff},${yOff})`}>
+        {STATE_MATRIX.map((row, y) => {
+          let rowOffset = (y % 2) * 0.5;
+          return row.map((col, x) => {
+            if (col !== 0) {
+              index++;
+              return (
+                <State
+                  data={STATES[index]}
+                  bgColor={
+                    STATES[index].results
+                      ? colorRange(STATES[index].results[0][2])
+                      : "grey"
+                  }
+                  key={`${index}`}
+                  x={xOff * (x + rowOffset)}
+                  y={yOff * y}
+                  r={r}
+                />
+              );
+            } else {
+              return null;
+            }
+          });
+        })}
+      </g>
     </svg>
+    </div>
   );
 };
 
