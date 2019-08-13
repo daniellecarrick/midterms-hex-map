@@ -28,15 +28,15 @@ const TooltipText = ({ classes, dimName, segment, benchmark, difference, gapColo
     <div className={classes.tooltipContainer}>
       <p className={classes.tooltipTitle}>{camelCase(dimName)}</p>
       <p className={classes.tooltipContent}>
-        Segment: <span className={classes.value}>{segment.toFixed(1)}%</span>
+        Winner: <span className={classes.value}>{segment.toFixed(1)}%</span>
       </p>
       <p className={classes.tooltipContent}>
-        Benchmark:{" "}
+        Runner Up:{" "}
         <span className={classes.value}>{benchmark.toFixed(1)}%</span>
       </p>
       <p className={classes.tooltipContent} style={{ color: gapColor }}>
         Gap:{" "}
-        <span className={classes.value}>{difference.toFixed(1)} points</span>
+        <span className={classes.value}>{(difference*100).toFixed(1)} points</span>
       </p>
     </div>
   );

@@ -3,10 +3,10 @@ import results from "../../assets/results-top-level.json";
 import BarChart from "./barChart";
 
 const BarPage = () => {
-  console.log("results", results);
   return (
     <div>
-      <h1>Bar Chart</h1>
+      <h1>Gap between winner and loser</h1>
+      <h5>Gubernatorial Race</h5>
       <BarChart data={results.G} colors={["red", "blue"]} />
     </div>
   );

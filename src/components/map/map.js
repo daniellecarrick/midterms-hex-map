@@ -88,7 +88,7 @@ const USMap = ({ data }) => {
   // associate each state with the race result
   STATES.forEach(state => {
     Object.keys(data).map(function(race) {
-      if (state.name == data[race][1]) {
+      if (state.name === data[race][1]) {
         return (state.results = data[race][2]);
       }
     });

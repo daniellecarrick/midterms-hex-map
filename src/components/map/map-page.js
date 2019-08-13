@@ -6,7 +6,7 @@ import USMap from "./map";
 import StackedBar from "./stackedBar";
 
 // Map from https://github.com/schreiaj/frc-attrition-hex-map
-const MapPage = ({}) => {
+const MapPage = () => {
   const [data, setData] = useState(results.G);
   const [election, setElection] = useState("gov");
 

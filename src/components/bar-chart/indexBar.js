@@ -2,36 +2,23 @@ import React from "react";
 import PropTypes from "prop-types";
 import withStyles from "react-jss";
 import {
-  SECONDARY,
-  PRIMARY,
-  HIGHLIGHT,
-  OPPORTUNITY
+  GREY
 } from "../chart-components/colors";
 import Tooltip from "@material-ui/core/Tooltip";
 import TooltipText from "../chart-components/tooltipText";
 
 const componentStyles = {
-  indexAxis: {
-    stroke: "#979797",
-    strokeWidth: 0.5
-  },
   rowContainer: {
-    stroke: SECONDARY,
+    stroke: GREY,
     strokeWidth: "0.5",
-    fill: PRIMARY
-  },
-  indexBarPositive: {
-    fill: HIGHLIGHT
+    fill: "white"
   },
   indexBarBase: {
-    fill: "#979797"
-  },
-  opportunity: {
-    fill: OPPORTUNITY
+    fill: GREY
   },
   chartLabel: {
-    fill: SECONDARY,
-    color: SECONDARY,
+    fill: GREY,
+    color: GREY,
     fontSize: "12px",
     fontWeight: 600,
     textAnchor: "end"
@@ -46,8 +33,8 @@ const IndexBar = ({
   classes,
   dimValue,
   dimName,
-  segmentValue,
-  benchmarkValue,
+  winner,
+  runnerup,
   transformRow,
   margin,
   innerWidth,
@@ -71,8 +58,8 @@ const IndexBar = ({
             title={
               <TooltipText
                 dimName={dimName}
-                segment={segmentValue}
-                benchmark={benchmarkValue}
+                segment={winner*100}
+                benchmark={runnerup*100}
                 difference={dimValue}
                 gapColor={gapColor}
               />
@@ -83,21 +70,21 @@ const IndexBar = ({
                 className={classes.rowContainer}
                 x={x(0)}
                 y={0}
-                width={x(100)}
+                width={x(1)}
                 height={20}
               />
               <rect
                 className={classes.indexBarBase}
                 x={x(0)}
                 y={0}
-                width={x(Math.min(segmentValue, benchmarkValue))}
+                width={x(Math.min(winner, runnerup))}
                 height={20}
               />
               <rect
                 fill={gapColor}
-                x={x(Math.min(segmentValue, benchmarkValue))}
+                x={x(Math.min(winner, runnerup))}
                 y={0}
-                width={Math.abs(dimValue)}
+                width={x(dimValue)}
                 height={20}
               />
               <text
@@ -106,7 +93,7 @@ const IndexBar = ({
                 x={innerWidth + margin.right}
                 dy={"13px"}
               >
-                {dimValue.toFixed(1)}
+                {(dimValue*100).toFixed(1)}
               </text>
             </g>
           </Tooltip>
