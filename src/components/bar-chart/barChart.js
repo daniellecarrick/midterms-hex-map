@@ -3,26 +3,27 @@ import PropTypes from "prop-types";
 import withStyles from "react-jss";
 import * as d3 from "d3";
 import IndexBar from "./indexBar";
-import {RED, BLUE, GREEN, GREY} from "../chart-components/colors";
+import { RED, BLUE, GREEN, GREY } from "../chart-components/colors";
 
 const componentStyles = {
   chartContainer: {
     width: "100%",
-    display: "block"
+    display: "block",
+    fontFamily: "monospace"
   }
 };
 
+// find container width for rank chart
+const width = 650;
+
+//set up margins
+const margin = { right: 40, left: 120, top: 20, bottom: 0 };
+
+// configure the index chart dimensions
+const innerWidth = width - margin.left - margin.right;
+const rowPadding = 30;
+
 const BarChart = ({ classes, data }) => {
-  // find container width for rank chart
-  const width = 650;
-
-  //set up margins
-  const margin = { right: 40, left: 120, top: 20, bottom: 0 };
-
-  // configure the index chart dimensions
-  const innerWidth = width - margin.left - margin.right;
-  const rowPadding = 30;
-
   // Set up X scale
   const x = d3
     .scaleLinear()

@@ -14,6 +14,7 @@ const componentStyles = {
     fill: "white",
     stroke: "none",
     fontSize: "2px",
+    fontFamily: "sans-serif",
     textAnchor: "middle"
   }
 };

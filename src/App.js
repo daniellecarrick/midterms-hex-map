@@ -5,7 +5,7 @@ import LineChart from "./components/line-chart/line";
 import { BrowserRouter as Router, Route } from "react-router-dom";
 import MapPage from "./components/map/map-page";
 
-function App() {
+function App({classes}) {
   return (
     <div className="App">
       <Router>
