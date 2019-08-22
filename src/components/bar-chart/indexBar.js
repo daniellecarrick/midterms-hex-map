@@ -17,8 +17,8 @@ const componentStyles = {
     fill: GREY
   },
   chartLabel: {
-    fill: GREY,
-    color: GREY,
+    fill: "#333333",
+    color: "#333333",
     fontSize: "12px",
     fontWeight: 600,
     textAnchor: "end"
@@ -58,8 +58,8 @@ const IndexBar = ({
             title={
               <TooltipText
                 dimName={dimName}
-                segment={winner*100}
-                benchmark={runnerup*100}
+                segment={winner * 100}
+                benchmark={runnerup * 100}
                 difference={dimValue}
                 gapColor={gapColor}
               />
@@ -93,7 +93,7 @@ const IndexBar = ({
                 x={innerWidth + margin.right}
                 dy={"13px"}
               >
-                {(dimValue*100).toFixed(1)}
+                {(dimValue * 100).toFixed(1)}
               </text>
             </g>
           </Tooltip>
@@ -106,7 +106,10 @@ const IndexBar = ({
 IndexBar.propTypes = {
   children: PropTypes.node,
   styles: PropTypes.object,
-  dimValue: PropTypes.number,
+  runnerup: PropTypes.number,
+  winner: PropTypes.number,
+  dimName: PropTypes.string,
+  gapColor: PropTypes.string,
   transformRow: PropTypes.number,
   margin: PropTypes.shape({
     top: PropTypes.number,

@@ -81,11 +81,13 @@ const trendData = [
 const height = 60;
 const margin = { top: 0, right: 0, bottom: 0, left: 0 };
 
-// Can change the time parser based on the data we get. Right now assums '01-01-2001' format
+// Time parser assumes 'MM-DD-YYYY' format
 const parseTime = d3.timeParse("%m-%d-%Y");
 
 // set up x scale
-const x = d3.scaleTime().domain(d3.extent(trendData, d => parseTime(d.date)));
+const x = d3
+  .scaleTime()
+  .domain(d3.extent(trendData, d => parseTime(d.date)));
 
 const y = d3
   .scaleLinear()

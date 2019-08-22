@@ -78,11 +78,12 @@ const STATE_MATRIX = [
 // Map from https://github.com/schreiaj/frc-attrition-hex-map
 const USMap = ({ data }) => {
   const r = 6;
+  console.log('data', data);
 
   // Establish color range
   let colorRange = d3
     .scaleOrdinal()
-    .domain(["GOP", "Dem", "Ind", null])
+    .domain(["GOP", "Dem", "Ind", undefined])
     .range([RED, BLUE, GREEN, GREY]);
 
   // associate each state with the race result
@@ -118,7 +119,7 @@ const USMap = ({ data }) => {
                       STATES[index].results
                         ? colorRange(STATES[index].results[0][2])
                         : GREY
-                    }
+                    } 
                     key={`${index}`}
                     x={xOff * (x + rowOffset)}
                     y={yOff * y}

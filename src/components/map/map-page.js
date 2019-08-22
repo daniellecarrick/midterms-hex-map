@@ -1,12 +1,21 @@
 import React, { useState } from "react";
 import results from "../../assets/results-top-level.json";
 import ToggleButton from "@material-ui/lab/ToggleButton";
+import withStyles from "react-jss";
 import ToggleButtonGroup from "@material-ui/lab/ToggleButtonGroup";
 import USMap from "./map";
 import StackedBar from "./stackedBar";
 
+
+const componentStyles = {
+  mapContainer: {
+    width: "700px",
+    margin: "0 auto"
+  }
+};
+
 // Map from https://github.com/schreiaj/frc-attrition-hex-map
-const MapPage = () => {
+const MapPage = ({classes}) => {
   const [data, setData] = useState(results.G);
   const [election, setElection] = useState("gov");
 
@@ -20,7 +29,7 @@ const MapPage = () => {
     }
   };
   return (
-    <div>
+    <div className={classes.mapContainer}>
       <h1>Midterm Election Results</h1>
       <ToggleButtonGroup value={election}>
         <ToggleButton onClick={() => handleClick("gov")} value={"gov"}>
@@ -36,4 +45,4 @@ const MapPage = () => {
   );
 };
 
-export default MapPage;
+export default withStyles(componentStyles)(MapPage);
