@@ -40,7 +40,6 @@ const Bar = ({
   gapColor,
   x
 }) => {
-  console.log(dimensions);
   return (
     <g transform={`translate(0,${transformRow})`}>
       {dimValue ? (

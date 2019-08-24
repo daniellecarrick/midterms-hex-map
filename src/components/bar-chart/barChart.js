@@ -19,7 +19,6 @@ const componentStyles = {
 const rowPadding = 30;
 
 const BarChart = ({ classes, data }) => {
-
   const [ref, dimensions] = useChartDimensions({
     marginBottom: 0,
     marginLeft: 100,
