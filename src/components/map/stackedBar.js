@@ -1,8 +1,9 @@
 import React from "react";
 import withStyles from "react-jss";
+import PropTypes from "prop-types";
 import * as d3 from "d3";
-import { RED, BLUE } from "../chart-components/colors";
-import { useChartDimensions } from "../chart-components/utils";
+import { RED, BLUE } from "../../utils/colors";
+import { useChartDimensions } from "../../utils/utils";
 
 const componentStyles = {
   chartContainer: {
@@ -34,6 +35,7 @@ const StackedBar = ({ classes, data, election }) => {
     marginRight: 0,
     marginTop: 20
   });
+  
   // not every seat is up for relection, so we start with the current totals
   const results = { sen: { dem: 23, gop: 42 }, gov: { dem: 7, gop: 7 } };
 
@@ -41,7 +43,7 @@ const StackedBar = ({ classes, data, election }) => {
   Object.keys(data).map(function(race) {
     if (data[race][2][0][2] === "GOP") {
       results[election].gop++;
-    } else if (data[race][2][0][2] === "Dem") {
+    } else if (data[race][2][0][2] === "Dem" || data[race][2][0][2] === "Ind") {
       results[election].dem++;
     }
   });
@@ -51,6 +53,7 @@ const StackedBar = ({ classes, data, election }) => {
     .scaleLinear()
     .domain([0, max])
     .range([0, dimensions.innerWidth]);
+
   return (
     <div className={classes.chartContainer}>
       <p className={classes.demText}>
@@ -88,5 +91,12 @@ const StackedBar = ({ classes, data, election }) => {
     </div>
   );
 };
+
+StackedBar.propTypes = {
+  styles: PropTypes.object,
+  data: PropTypes.object,
+  election: PropTypes.string
+};
+
 
 export default withStyles(componentStyles)(StackedBar);

@@ -77,11 +77,7 @@ const State = ({ data, classes, x = 0, y = 0, r = 10, bgColor }) => {
 
 State.propTypes = {
   r: PropTypes.number,
-  data: PropTypes.shape({
-    abbr: PropTypes.string,
-    name: PropTypes.string,
-    region: PropTypes.string
-  }).isRequired,
+  data: PropTypes.object.isRequired,
   bgColor: PropTypes.string
 };
 

@@ -1,7 +1,8 @@
 import React from "react";
+import PropTypes from "prop-types";
 import * as d3 from "d3";
 import State from "./state";
-import { RED, BLUE, GREY, GREEN } from "../chart-components/colors";
+import { RED, BLUE, GREY, GREEN } from "../../utils/colors";
 
 const STATES = [
   { abbr: "AK", name: "Alaska" },
@@ -77,10 +78,11 @@ const STATE_MATRIX = [
 
 // Map from https://github.com/schreiaj/frc-attrition-hex-map
 const USMap = ({ data }) => {
+
   const r = 6;
 
   // Establish color range
-  let colorRange = d3
+  let color = d3
     .scaleOrdinal()
     .domain(["GOP", "Dem", "Ind", undefined])
     .range([RED, BLUE, GREEN, GREY]);
@@ -122,7 +124,7 @@ const USMap = ({ data }) => {
                     data={STATES[index]}
                     bgColor={
                       STATES[index].results
-                        ? colorRange(STATES[index].results[0][2])
+                        ? color(STATES[index].results[0][2])
                         : GREY
                     }
                     key={`${index}`}
@@ -140,6 +142,10 @@ const USMap = ({ data }) => {
       </svg>
     </div>
   );
+};
+
+USMap.propTypes = {
+  data: PropTypes.object
 };
 
 export default USMap;

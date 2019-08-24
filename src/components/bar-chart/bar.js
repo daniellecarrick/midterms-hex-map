@@ -3,9 +3,9 @@ import PropTypes from "prop-types";
 import withStyles from "react-jss";
 import {
   GREY
-} from "../chart-components/colors";
+} from "../../utils/colors";
 import Tooltip from "@material-ui/core/Tooltip";
-import TooltipText from "../chart-components/tooltipText";
+import TooltipText from "../../utils/tooltipText";
 
 const componentStyles = {
   rowContainer: {
@@ -13,7 +13,7 @@ const componentStyles = {
     strokeWidth: "0.5",
     fill: "white"
   },
-  indexBarBase: {
+  BarBase: {
     fill: GREY
   },
   chartLabel: {
@@ -29,25 +29,25 @@ const camelCase = word => {
   return word.charAt(0).toUpperCase() + word.slice(1);
 };
 
-const IndexBar = ({
+const Bar = ({
   classes,
   dimValue,
   dimName,
   winner,
   runnerup,
   transformRow,
-  margin,
-  innerWidth,
+  dimensions,
   gapColor,
   x
 }) => {
+  console.log(dimensions);
   return (
     <g transform={`translate(0,${transformRow})`}>
       {dimValue ? (
         <>
           <text
             className={classes.chartLabel}
-            transform={`translate(${margin.left - 6},0)`}
+            transform={`translate(${dimensions.marginLeft - 6},0)`}
             y={0}
             dy={"13px"}
           >
@@ -65,7 +65,7 @@ const IndexBar = ({
               />
             }
           >
-            <g transform={`translate(${margin.left},0)`}>
+            <g transform={`translate(${dimensions.marginLeft},0)`}>
               <rect
                 className={classes.rowContainer}
                 x={x(0)}
@@ -74,7 +74,7 @@ const IndexBar = ({
                 height={20}
               />
               <rect
-                className={classes.indexBarBase}
+                className={classes.BarBase}
                 x={x(0)}
                 y={0}
                 width={x(Math.min(winner, runnerup))}
@@ -90,7 +90,7 @@ const IndexBar = ({
               <text
                 className={classes.chartLabel}
                 y={0}
-                x={innerWidth + margin.right}
+                x={dimensions.innerWidth + dimensions.marginRight}
                 dy={"13px"}
               >
                 {(dimValue * 100).toFixed(1)}
@@ -103,21 +103,15 @@ const IndexBar = ({
   );
 };
 
-IndexBar.propTypes = {
+Bar.propTypes = {
   children: PropTypes.node,
   styles: PropTypes.object,
+  dimensions: PropTypes.object,
   runnerup: PropTypes.number,
   winner: PropTypes.number,
   dimName: PropTypes.string,
   gapColor: PropTypes.string,
   transformRow: PropTypes.number,
-  margin: PropTypes.shape({
-    top: PropTypes.number,
-    left: PropTypes.number,
-    right: PropTypes.number,
-    bottom: PropTypes.number
-  }),
-  innerWidth: PropTypes.number
 };
 
-export default withStyles(componentStyles)(IndexBar);
+export default withStyles(componentStyles)(Bar);
